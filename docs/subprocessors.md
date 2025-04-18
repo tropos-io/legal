@@ -1,8 +1,6 @@
-# 🔗 Tropos.io Subprocessor List
 
 Tropos.io engages the following subprocessors to deliver its services and provide a premium employee and customer experience. Each subprocessor is subject to a written agreement requiring data protection obligations consistent with applicable law, including the General Data Protection Regulation (GDPR).
 
-_Last updated: [Insert Date]_
 
 | Subprocessor | Purpose | Privacy Statement | Data Processing Agreement (DPA) |
 |-------------|---------|-------------------|---------------------------------|

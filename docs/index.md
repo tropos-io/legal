@@ -12,13 +12,12 @@ Below you’ll find our primary legal frameworks, each designed to reflect the s
 
 | Document | Purpose |
 |----------|---------|
-| [Privacy & Data Protection Policy](./privacy.md) | Describes how we collect, process, and protect personal data in accordance with GDPR, CCPA, and other global privacy regimes. |
-| [Master Services Agreement (MSA)](./msa.md) | Our standardized contractual foundation for customer relationships, with robust confidentiality, data security, and indemnity terms. |
-| [Data Processing Agreement (DPA)](./dpa.md) | Supplement to the MSA ensuring GDPR Article 28 compliance and cross-border transfer safeguards. |
-| [Acceptable Use Policy (AUP)](./aup.md) | Sets boundaries for use of our platform, services, and data access — aligned with platform security and ethical use. |
-| [Non-Disclosure Agreement (NDA)](./nda.md) | Mutual confidentiality commitment for sensitive pre-contractual engagements. |
-| [Security Overview](./security.md) | High-level description of our security governance, aligned to ISO/IEC 27001 and SOC 2 principles. |
-| [Subprocessor List](./subprocessors.md) | Maintained list of third parties involved in processing customer data, including jurisdictions and functions. |
+| [Privacy & Data Protection Policy](./privacy) | Describes how we collect, process, and protect personal data in accordance with GDPR, CCPA, and other global privacy regimes. |
+| [Master Services Agreement (MSA)](./msa) | Our standardized contractual foundation for customer relationships, with robust confidentiality, data security, and indemnity terms. |
+| [Data Processing Agreement (DPA)](./dpa) | Supplement to the MSA ensuring GDPR Article 28 compliance and cross-border transfer safeguards. |
+| [Non-Disclosure Agreement (NDA)](./nda) | Mutual confidentiality commitment for sensitive pre-contractual engagements. |
+| [Security Overview](./security) | High-level description of our security governance, aligned to ISO/IEC 27001 and SOC 2 principles. |
+| [Subprocessor List](./subprocessors) | Maintained list of third parties involved in processing customer data, including jurisdictions and functions. |
 
 ---
 
