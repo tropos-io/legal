@@ -1,26 +1,77 @@
-<div class="meta-block">
-  <strong>Document:</strong> General Terms and Conditions of Service (GTCS)  
-  <strong>Version:</strong> 1.2  
-  <strong>Effective Date:</strong> 2024-04-18  
-  <strong>Prepared by:</strong> Legal Counsel, Tropos.io  
-  <strong>Jurisdiction:</strong> Belgium  
-  <strong>Status:</strong> Public  
-</div>
+# ⚖️ Tropos Legal Center
 
+Welcome to the **Tropos Legal Center**, the authoritative source for all our publicly available legal documentation, policies, and compliance resources. This site serves as a single point of reference for customers, partners, auditors, regulators, and other stakeholders seeking transparency into our governance and operational integrity.
 
-# General Terms and Conditions of Service (GTCS)
+> **We don’t just comply with regulations — we operationalize them.**
 
-## Table of Contents
+---
 
-1. [Scope](#1-scope)  
-2. [Fees and Invoicing](#2-fees-and-invoicing)  
-3. [Change Control](#3-change-control)  
-4. [Liability](#4-liability)  
+## 📚 Our Legal Library
 
+Below you’ll find our primary legal frameworks, each designed to reflect the standards of leading global law firms, best-in-class regulatory compliance, and our commitment to excellence in everything we do.
 
-**Effective Date:** April 18, 2025  
-**Version:** 1.2  
+| Document | Purpose |
+|----------|---------|
+| [Privacy & Data Protection Policy](./privacy.md) | Describes how we collect, process, and protect personal data in accordance with GDPR, CCPA, and other global privacy regimes. |
+| [Master Services Agreement (MSA)](./msa.md) | Our standardized contractual foundation for customer relationships, with robust confidentiality, data security, and indemnity terms. |
+| [Data Processing Agreement (DPA)](./dpa.md) | Supplement to the MSA ensuring GDPR Article 28 compliance and cross-border transfer safeguards. |
+| [Acceptable Use Policy (AUP)](./aup.md) | Sets boundaries for use of our platform, services, and data access — aligned with platform security and ethical use. |
+| [Non-Disclosure Agreement (NDA)](./nda.md) | Mutual confidentiality commitment for sensitive pre-contractual engagements. |
+| [Security Overview](./security.md) | High-level description of our security governance, aligned to ISO/IEC 27001 and SOC 2 principles. |
+| [Subprocessor List](./subprocessors.md) | Maintained list of third parties involved in processing customer data, including jurisdictions and functions. |
 
-...
+---
 
-(Your terms go here)
+## 🧭 Our Legal Philosophy
+
+Tropos is built on the premise that compliance should never be a checkbox exercise. Our legal instruments are:
+
+- ✒️ **Crafted with intention** — modeled on tier 1 drafting standards
+- 🔍 **Auditor-friendly** — traceable, reviewable, and version-controlled
+- 🔐 **Security-embedded** — designed in coordination with our ISO 27001 ISMS and internal controls
+- 🌍 **Globally adaptive** — prepared for evolving regulatory landscapes across Europe, the U.S., and beyond
+
+---
+
+## 🛡️ Regulatory Compliance Posture
+
+We actively monitor and respond to evolving legal frameworks. Our practices reflect conformance with:
+
+- General Data Protection Regulation (GDPR)
+- California Consumer Privacy Act (CCPA/CPRA)
+- UK Data Protection Act 2018
+- ISO/IEC 27001 and 27701 standards
+- SOC 2 Type II security and privacy principles
+- Schrems II–aligned transfer impact assessments (TIAs)
+- ePrivacy Directive and applicable marketing consent rules
+
+---
+
+## 📬 Contact & Requests
+
+For legal inquiries, rights requests, or documentation not listed here:
+
+- 📧 **Email**: [legal@tropos.io](mailto:legal@tropos.io)
+- 🔐 **PGP Public Key**: [View Key](./pgp-key.txt) (for secure communications)
+- 🗂 **DSAR / DPIA / Audit Requests**: [Request Form](./compliance-request.md)
+
+All requests are subject to identity verification and will be processed in accordance with applicable law.
+
+---
+
+## 🕰️ Change Log & Versioning
+
+All published legal documents on this subdomain are version-controlled. Material changes are communicated in advance or upon publication via changelogs embedded in each document.
+
+> For historical versions or archive access, please contact [legal@tropos.io](mailto:legal@tropos.io).
+
+---
+
+## 🧭 Legal Integrity, by Design
+
+> *“The law is reason, free from passion.”* – Aristotle  
+> At Tropos, we believe the law is also design, discipline, and trust. Our legal infrastructure reflects our mission to deliver clarity, confidence, and compliance at every stage of your relationship with us.
+
+---
+
+© Tropos.io. All rights reserved.
