@@ -1,72 +1,61 @@
+---
+title: Tropos Legal Center
+permalink: /
+---
 
+<style>
+h1, h2, h3 { font-family: Georgia, serif; }
+body, td, th, p { font-family: 'Inter', sans-serif; line-height: 1.6; color: #1a1a1a; }
+table { border-collapse: collapse; width: 100%; margin-top: 1em; }
+th, td { border: 1px solid #e0e0e0; padding: 12px; vertical-align: top; }
+th { background-color: #fafafa; text-align: left; font-weight: 600; }
+a { color: #0056b3; text-decoration: none; }
+a:hover { text-decoration: underline; }
+hr { border: none; border-top: 1px solid #ccc; margin: 3em 0; }
+blockquote { font-style: italic; color: #666; margin: 1.5em 0; padding-left: 1em; border-left: 3px solid #ccc; }
+</style>
 
+# Tropos Legal Center
 
-Welcome to the **Tropos Legal Center**, the authoritative source for all our publicly available legal documentation, policies, and compliance resources. This site serves as a single point of reference for customers, partners, auditors, regulators, and other stakeholders seeking transparency into our governance and operational integrity.
+The **Tropos Legal Center** is the authoritative source for all public legal, privacy, and compliance documentation.
 
+This site provides transparency and accountability for regulators, customers, partners, and auditors. Every document is designed with precision, purpose, and a commitment to world-class legal craftsmanship.
 
 ---
 
-## 📚 Our Legal Library
-
-Below you’ll find our primary legal frameworks, each designed to reflect the standards of leading global law firms, best-in-class regulatory compliance, and our commitment to excellence in everything we do.
+## 📚 Legal Framework
 
 | Document | Purpose |
 |----------|---------|
-| [Privacy & Data Protection Policy](./privacy) | Describes how we collect, process, and protect personal data in accordance with GDPR, CCPA, and other global privacy regimes. |
-| [Master Services Agreement (MSA)](./msa) | Our standardized contractual foundation for customer relationships, with robust confidentiality, data security, and indemnity terms. |
-| [Data Processing Agreement (DPA)](./dpa) | Supplement to the MSA ensuring GDPR Article 28 compliance and cross-border transfer safeguards. |
-| [Non-Disclosure Agreement (NDA)](./nda) | Mutual confidentiality commitment for sensitive pre-contractual engagements. |
-| [Security Overview](./security) | High-level description of our security governance, aligned to ISO/IEC 27001 and SOC 2 principles. |
-| [Subprocessor List](./subprocessors) | Maintained list of third parties involved in processing customer data, including jurisdictions and functions. |
+| [Privacy & Data Protection Policy](./privacy.md) | Outlines how personal data is collected, processed, and protected across Tropos services. |
+| [Master Services Agreement (MSA)](./msa.md) | The foundational contract governing customer relationships, rights, and limitations. |
+| [Data Processing Agreement (DPA)](./dpa.md) | Enables compliance with GDPR Article 28 and cross-border data transfer regimes. |
+| [Non-Disclosure Agreement (NDA)](./nda.md) | Mutual confidentiality commitments for commercial discussions and early collaboration. |
+| [Security Overview](./security.md) | Summary of controls aligned to ISO 27001, SOC 2, and global security frameworks. |
+| [Subprocessor List](./subprocessors.md) | Official register of authorized data subprocessors, updated quarterly. |
 
 ---
 
 ## 🧭 Our Legal Philosophy
 
-Tropos is built on the premise that compliance should never be a checkbox exercise. Our legal instruments are:
+> _"Compliance is not a constraint. It’s our architecture."_
 
-- ✒️ **Crafted with intention** — modeled on tier 1 drafting standards
-- 🔍 **Auditor-friendly** — traceable, reviewable, and version-controlled
-- 🔐 **Security-embedded** — designed in coordination with our ISO 27001 ISMS and internal controls
-- 🌍 **Globally adaptive** — prepared for evolving regulatory landscapes across Europe, the U.S., and beyond
+Tropos embeds legal resilience into every layer of its platform and operations. Our legal documentation is:
 
----
-
-## 🛡️ Regulatory Compliance Posture
-
-We actively monitor and respond to evolving legal frameworks. Our practices reflect conformance with:
-
-- General Data Protection Regulation (GDPR)
-- California Consumer Privacy Act (CCPA/CPRA)
-- UK Data Protection Act 2018
-- ISO/IEC 27001 and 27701 standards
-- SOC 2 Type II security and privacy principles
-- Schrems II–aligned transfer impact assessments (TIAs)
-- ePrivacy Directive and applicable marketing consent rules
+- ✒️ **Crafted with Intention** — Modeled on Magic Circle drafting standards  
+- 🔍 **Auditor-Ready** — Version-controlled, reviewable, traceable  
+- 🔐 **Security-Embedded** — Integrated with our ISO/IEC 27001-certified ISMS  
+- 🌍 **Regulatory-Aligned** — GDPR, CCPA, SOC 2, and Schrems II–conformant
 
 ---
 
-## 📬 Contact & Requests
+## 🧩 Contact & Custom Terms
 
-For legal inquiries, rights requests, or documentation not listed here:
+For bespoke legal requests, security questionnaires, or cross-border data arrangements:
 
-- 📧 **Email**: [legal@tropos.io](mailto:legal@tropos.io)
-- 🔐 **PGP Public Key**: [View Key](./pgp-key.txt) (for secure communications)
-- 🗂 **Audit Requests**: [Request Form](./compliance-request.md)
-
-All requests are subject to identity verification and will be processed in accordance with applicable law.
+- 📬 Email: [legal@tropos.io](mailto:legal@tropos.io)
+- 📑 Need a tailored agreement? [Contact us](mailto:legal@tropos.io)
 
 ---
 
-## 🕰️ Change Log & Versioning
-
-All published legal documents on this subdomain are version-controlled. Material changes are communicated in advance or upon publication via changelogs embedded in each document.
-
-> For historical versions or archive access, please contact [legal@tropos.io](mailto:legal@tropos.io).
-
----
-
-## 🧭 Legal Integrity, by Design
-
-> At Tropos, we believe the law is also design, discipline, and trust. Our legal infrastructure reflects our mission to deliver clarity, confidence, and compliance at every stage of your relationship with us.
-
+© Tropos.io — All rights reserved.

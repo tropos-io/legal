@@ -1,4 +1,6 @@
-title: Tropos.io Legal
-description: General Terms and Conditions of Service
-theme: minima
-markdown: kramdown
+# _config.yml
+theme: "minimal-mistakes-jekyll"
+title: "Tropos Legal"
+logo: "/assets/logo.svg"
+minimal_mistakes_skin: "air"  # or "dirt", "default", etc.
+ 
