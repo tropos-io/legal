@@ -1,8 +1,8 @@
+
 # ⚖️ Tropos Legal Center
 
 Welcome to the **Tropos Legal Center**, the authoritative source for all our publicly available legal documentation, policies, and compliance resources. This site serves as a single point of reference for customers, partners, auditors, regulators, and other stakeholders seeking transparency into our governance and operational integrity.
 
-> **We don’t just comply with regulations — we operationalize them.**
 
 ---
 
@@ -53,7 +53,7 @@ For legal inquiries, rights requests, or documentation not listed here:
 
 - 📧 **Email**: [legal@tropos.io](mailto:legal@tropos.io)
 - 🔐 **PGP Public Key**: [View Key](./pgp-key.txt) (for secure communications)
-- 🗂 **DSAR / DPIA / Audit Requests**: [Request Form](./compliance-request.md)
+- 🗂 **Audit Requests**: [Request Form](./compliance-request.md)
 
 All requests are subject to identity verification and will be processed in accordance with applicable law.
 
@@ -69,9 +69,5 @@ All published legal documents on this subdomain are version-controlled. Material
 
 ## 🧭 Legal Integrity, by Design
 
-> *“The law is reason, free from passion.”* – Aristotle  
 > At Tropos, we believe the law is also design, discipline, and trust. Our legal infrastructure reflects our mission to deliver clarity, confidence, and compliance at every stage of your relationship with us.
 
----
-
-© Tropos.io. All rights reserved.
