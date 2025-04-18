@@ -1,0 +1,5 @@
+# robots.txt for Tropos.io Legal Pages
+# Block all crawlers from indexing any content
+
+User-agent: *
+Disallow: /
