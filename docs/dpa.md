@@ -1,6 +1,6 @@
 ---
 title: Data protection addendum
-permalink: /subprocessors/
+permalink: /dpa/
 ---
 
 
