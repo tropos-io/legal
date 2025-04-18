@@ -1,7 +1,14 @@
-Annex D – Data Processing Addendum (DPA)
-========================================
+<div class="meta-block">
+  <strong>Document:</strong> Data protection addendum
+  <strong>Version:</strong> 1.3 
+  <strong>Effective Date:</strong> 2025-04-18  
+  <strong>Prepared by:</strong> Legal Counsel, Tropos.io  
+  <strong>Jurisdiction:</strong> Belgium  
+  <strong>Status:</strong> Public  
+</div>
 
-1\. Purpose, Scope, and Roles
+
+# 1\. Purpose, Scope, and Roles
 -----------------------------
 
 **1.1 Purpose.** This Annex D (“Data Processing Addendum” or “Addendum”) sets forth the terms and conditions under which the Supplier will Process Personal Data on behalf of the Client in connection with the services provided under the Master Services Agreement (“MSA”). The purpose of this Addendum is to ensure such Processing is conducted in compliance with Applicable Data Protection Law, including the EU General Data Protection Regulation (GDPR), and to establish the respective obligations of the Client and the Supplier in relation to Personal Data protection.
@@ -12,7 +19,7 @@ Annex D – Data Processing Addendum (DPA)
 
 **1.4 Incorporation into MSA; Precedence.** This Addendum is incorporated by reference into and forms part of the MSA. Unless otherwise expressly provided, all capitalized terms in this Addendum shall have the meanings given to them in Annex A (Definitions) of the MSA or in Applicable Data Protection Law. In the event of any conflict between this Addendum and the MSA or any Statement of Work (“SOW”) regarding the Processing of Personal Data, the terms of this Addendum shall prevail with respect to such Processing. All other provisions of the MSA remain in full force and effect. For the avoidance of doubt, any stricter or additional obligations in this Addendum with respect to data protection shall control over more general terms in the MSA.
 
-2\. Definitions
+# 2\. Definitions
 ---------------
 
 For the purposes of this Addendum, and in addition to the definitions provided in the MSA and Annex A thereto, the following terms have the meanings set out below. Terms used but not defined in this Addendum (e.g. _personal data_, _processing_, _controller_, _processor_, _data subject_) shall have the meanings given to them in Article 4 of the GDPR or other Applicable Data Protection Law:
@@ -36,7 +43,7 @@ For the purposes of this Addendum, and in addition to the definitions provided i
 
 _(Any other capitalized terms used in this Addendum that are not defined above or in GDPR shall have the meaning given to them in the MSA.)_
 
-3\. Details of Processing
+# 3\. Details of Processing
 -------------------------
 
 This Clause 3 describes the subject matter and details of the Processing of Personal Data that the Supplier will carry out on behalf of the Client under the MSA, as required by Article 28(3) of the GDPR.
@@ -73,7 +80,7 @@ The Personal Data **excludes** any special categories of data or sensitive Perso
 
 **3.6 Documentation of Processing Details.** The information provided in this Clause 3 is intended to fulfill the requirement of a description of Processing details as mandated by Article 28 of the GDPR. The Parties may further detail or update these descriptions in specific SOWs or an Appendix to this Addendum as needed to reflect the actual Processing activities. Neither Party shall Process or permit the Processing of Personal Data in a manner that is not consistent with this described scope without the prior written agreement of the other Party.
 
-4\. Legal Basis and Instructions
+# 4\. Legal Basis and Instructions
 --------------------------------
 
 **4.1 Lawful Basis of Processing (Client’s Responsibility).** The Client is responsible for determining and establishing the legal basis for the Processing of Personal Data under the MSA. The Client warrants that (a) it has obtained and shall maintain all necessary rights, consents, and legal grounds required under Applicable Data Protection Law to permit the Supplier to Process the Personal Data for the purposes set out in the MSA and this Addendum, and (b) the Supplier’s Processing of the Personal Data in accordance with the Client’s instructions will not cause the Supplier to violate any Applicable Data Protection Law. The Client shall not instruct the Supplier to process any Personal Data in a manner that would violate any data protection laws or regulations.
@@ -86,7 +93,7 @@ The Personal Data **excludes** any special categories of data or sensitive Perso
 
 **4.5 Client Instructions and Configuration.** The Client is responsible for ensuring that its use of the Supplier’s services (including any configuration of features or processing options within a software or platform provided by Supplier) is in line with the Client’s obligations under data protection law. To the extent the Supplier’s services allow the Client to control aspects of the Processing (e.g. configuring retention periods, data fields collected, or access controls), the Client shall be responsible for using such features in a manner consistent with law and this Addendum. The Supplier will follow any configuration or Processing choices made by the Client through the use of the services, which shall be considered “instructions” of the Client for purposes of this Addendum.
 
-5\. Supplier’s Obligations as Processor
+# 5\. Supplier’s Obligations as Processor
 ---------------------------------------
 
 **5.1 Compliance with Applicable Law.** The Supplier shall comply with all Applicable Data Protection Law in Processing Personal Data on behalf of the Client and shall handle Personal Data only in a manner that would not cause either Party to be in breach of its respective obligations under such laws. The Supplier shall promptly inform the Client if it cannot comply with any obligation under this Addendum or if it believes any instruction from the Client violates Applicable Data Protection Law, so that the Parties can resolve the issue. The Supplier will maintain a record of all categories of Processing activities carried out on behalf of the Client, as required by GDPR Article 30(2), and shall make such records available to the Client or to a Supervisory Authority upon request as evidence of the Supplier’s compliance.
@@ -114,7 +121,7 @@ The Personal Data **excludes** any special categories of data or sensitive Perso
 
 _(The obligations set out in this Clause 5 are in addition to any other obligations of confidentiality and compliance specified in the MSA. Nothing in this Addendum reduces the Supplier’s obligations under the GDPR or other Applicable Data Protection Law.)_
 
-6\. Data Security and Breach Notification
+# 6\. Data Security and Breach Notification
 -----------------------------------------
 
 **6.1 Security Measures.** The Supplier shall implement and maintain appropriate technical and organizational security measures to protect Personal Data against unauthorized or unlawful Processing and against accidental or unlawful destruction, loss, alteration, damage, unauthorized disclosure of, or access to Personal Data. These measures shall ensure a level of security appropriate to the risk, including (as appropriate) measures to: (a) pseudonymize and encrypt Personal Data; (b) ensure the ongoing confidentiality, integrity, availability, and resilience of processing systems and services; (c) restore the availability and access to Personal Data in a timely manner in the event of a physical or technical incident; and (d) regularly test, assess, and evaluate the effectiveness of technical and organizational measures for ensuring the security of Processing. The Supplier’s security measures are designed to protect Personal Data from all anticipated threats or hazards, taking into account the state of the art, the costs of implementation, the nature of the data, and the harm that might result from a security incident. At a minimum, the Supplier’s information security program shall include access controls, encryption of Personal Data in transit and at rest (where feasible), network and system monitoring, regular security training for personnel, and incident response plans. The Supplier shall periodically review and update its security measures to adapt to new risks or guidance from data protection authorities.
@@ -136,7 +143,7 @@ If all of the above details are not available at the time of initial notificatio
 
 **6.5 Ongoing Security Obligations.** The Supplier acknowledges that its obligations under this Clause 6 (Data Security and Breach Notification) are continuous and remain in effect for as long as the Supplier Processes Personal Data on behalf of the Client, including during any period of suspension of services, and until deletion of all Personal Data as per Clause 11. The Supplier shall adapt its security measures in light of any changes to industry standards or legal requirements, and in response to any significant changes in the nature of the Processing or the risks presented. Upon the Client’s reasonable request, the Supplier will provide more detailed information about its security controls and facilitate any required security assessments or audits as described in Clause 10 (Audit Rights).
 
-7\. Subprocessors
+# 7\. Subprocessors
 -----------------
 
 **7.1 Use of Subprocessors – General Authorization.** The Client grants the Supplier a general authorization to engage **Subprocessors** (third-party data processors) to assist in the Processing of Personal Data for the purposes of fulfilling the Supplier’s obligations under the MSA, **provided that** the Supplier meets the requirements set forth in this Clause 7. A list of the Supplier’s current Subprocessors (including their names and purposes of Processing) shall be made available to the Client either in an Appendix to this Addendum, via a Supplier website or portal, or upon the Client’s request. The Supplier shall ensure that any Subprocessor it engages to process Personal Data on the Client’s behalf is bound by a written agreement that imposes on the Subprocessor data protection obligations that are at least as protective as those imposed on the Supplier under this Addendum (including requirements to only process Personal Data on the Supplier’s instructions, to implement appropriate security measures, to respect data subject rights, and to otherwise comply with Applicable Data Protection Law). The Supplier shall remain fully liable to the Client for the performance of any Subprocessor’s obligations **and** for any acts or omissions of the Subprocessor that cause the Supplier to breach any of its obligations under this Addendum. In other words, the Supplier’s use of a Subprocessor shall not relieve the Supplier of any responsibility or liability under this Addendum or the MSA. The Supplier will regularly conduct due diligence on its Subprocessors to ensure they provide sufficient guarantees of their ability to implement appropriate technical and organizational measures in compliance with Applicable Data Protection Law.
@@ -149,7 +156,7 @@ If all of the above details are not available at the time of initial notificatio
 
 **7.5 Subprocessors for International Transfers.** If the Supplier engages a Subprocessor in a country outside the EEA (or other approved territories), such engagement shall be considered a restricted transfer and the Supplier will ensure that lawful transfer mechanisms are in place in compliance with Clause 8 (International Data Transfers) below (for example, by executing SCCs with the Subprocessor, or relying on the Subprocessor’s binding corporate rules or other approved mechanism). The Supplier will inform the Client of which safeguard is used for any non-EEA Subprocessor upon request.
 
-8\. International Data Transfers
+# 8\. International Data Transfers
 --------------------------------
 
 **8.1 Restrictions on Cross-Border Data Transfers.** The Supplier shall not _transfer_ or _access_ any of the Client’s Personal Data from a country outside of the jurisdiction(s) agreed by the Parties or permitted by Applicable Data Protection Law, unless such transfer is made in compliance with the requirements of this Clause 8. For the purposes of this Addendum, a “transfer” of Personal Data includes any access by or disclosure to a party located in a country outside of: (i) the European Economic Area (“EEA”) and any country, territory, sector or organization officially recognized by the European Commission as providing an adequate level of data protection; and (ii) if applicable, the United Kingdom and Switzerland (collectively with the EEA, the “Approved Jurisdictions”). The Client acknowledges that the Supplier and/or its Subprocessors may, in the course of providing the services, process or access Personal Data from locations outside the Approved Jurisdictions (for example, if the Supplier’s support team is located in a non-EEA country, or if cloud infrastructure is globally distributed). In all such cases, the Supplier shall ensure that such transfers are made in compliance with GDPR Chapter V and other Applicable Data Protection Law governing international data transfers.
@@ -169,7 +176,7 @@ In addition to or instead of the SCCs, the Parties may agree in writing to use *
 
 **8.4 Precedence of Transfer Terms.** In the event of any conflict or inconsistency between any provision of the SCCs (where they apply) and any provision of the MSA or this Addendum, the provision of the SCCs shall prevail to the extent of the transfer of Personal Data that is subject to the SCCs. The Parties’ intention is to uphold the legality of cross-border data transfers and to comply with all applicable restrictions; therefore, this Clause 8 shall be interpreted to allow transfers only in compliance with law. If at any time a transfer of Personal Data under this Addendum cannot be conducted in compliance with Applicable Data Protection Law, the Client may instruct the Supplier to cease the relevant transfer until such compliance is ensured (without prejudice to any other rights such as termination as needed).
 
-9\. Data Subject Rights and Requests
+# 9\. Data Subject Rights and Requests
 ------------------------------------
 
 **9.1 Data Subject Requests Received by Supplier.** The Supplier shall promptly (and in any event within **five (5) business days**) notify the Client if the Supplier receives any request directly from a Data Subject whose Personal Data is being Processed under this Addendum, wherein the Data Subject seeks to exercise any of their rights under Applicable Data Protection Law. Such rights may include, but are not limited to: the right of access (to obtain a copy of their data), rectification (to correct inaccurate data), erasure (the “right to be forgotten”), restriction of Processing, data portability, objection to Processing (e.g. for direct marketing purposes or on grounds relating to their particular situation), or the right not to be subject to automated individual decision-making (including profiling) that produces legal or similarly significant effects on them. The Supplier shall not respond to any such Data Subject request directly **except** to acknowledge receipt or as expressly instructed by the Client in writing. The Supplier will provide the Client with reasonable cooperation and information in relation to a Data Subject’s request to enable the Client to respond to the request in accordance with Applicable Data Protection Law. If the Supplier is required by law to respond directly to a Data Subject’s request (for example, if a law enforcement authority has mandated the disclosure of certain data to the Data Subject), the Supplier shall notify the Client of that requirement beforehand (unless legally prohibited) and shall limit its response to what is strictly required by law.
@@ -184,7 +191,7 @@ In addition to or instead of the SCCs, the Parties may agree in writing to use *
 
 **9.6 No Independent Data Subject Relationships.** The Parties acknowledge that Data Subjects have rights against each Party respectively under Applicable Data Protection Law. This Addendum does not create any third-party beneficiary rights or allow Data Subjects to directly enforce terms of this Addendum against the Supplier. However, Data Subjects may have direct rights against the Supplier under GDPR (for example, under SCCs or in cases of the Supplier’s breach of its obligations as Processor). The Supplier agrees that, in such cases, it will abide by applicable legal provisions and cooperate with the Client to the fullest extent in addressing the Data Subject’s concerns.
 
-10\. Audit Rights and Transparency
+# 10\. Audit Rights and Transparency
 ----------------------------------
 
 **10.1 Right to Audit and Inspect.** The Client (as Controller) has the right to **audit** and inspect the Supplier’s compliance with the data protection and security obligations under this Addendum and Applicable Data Protection Law. Upon the Client’s written request, the Supplier shall make available to the Client all information reasonably necessary to demonstrate compliance with this Addendum, and shall allow for and contribute to audits, including on-site inspections of the Supplier’s processing facilities and procedures, by the Client or an independent auditor mandated by the Client. The scope of such audits may include a review of the Supplier’s security measures, data handling practices, records, policies, Subprocessor agreements, and any other aspects relevant to the Personal Data processed on behalf of the Client. The Supplier acknowledges that the Client (or its designated auditor) may, in accordance with this clause, enter the Supplier’s premises to perform an audit of procedures relevant to the protection of Personal Data.
@@ -210,7 +217,7 @@ In addition to or instead of the SCCs, the Parties may agree in writing to use *
 
 **10.5 Interaction with Supervisory Authorities.** Notwithstanding the Client’s audit rights above, the Client agrees that any Supervisory Authority with jurisdiction over the Client’s operations or the Processing under this Addendum may conduct an audit or inspection of the Supplier directly in accordance with Applicable Data Protection Law (for example, the Supplier may be directly subject to audit by EU supervisory authorities under the SCCs or by data protection authorities under national law). The Supplier agrees to inform the Client promptly if it is subject to such an audit relating to the Processing of the Client’s Personal Data, unless legally prohibited. The Supplier shall provide the Client with the results or findings of any such regulatory audit to the extent they relate to the Supplier’s Processing of Personal Data on behalf of the Client, so that the Client is made aware of any issues and can itself fulfill any obligations to report on compliance to the authorities.
 
-11\. Return and Deletion of Data
+# 11\. Return and Deletion of Data
 --------------------------------
 
 **11.1 Return or Deletion upon Termination.** Upon termination or expiration of the MSA, or upon the completion of all services under the MSA that involve the Processing of Personal Data, the Supplier shall, at the **Client’s choice**, either return to the Client all Personal Data (and any copies of such data) which the Supplier processes on behalf of the Client, **or** securely destroy/delete all such Personal Data. This obligation extends to Personal Data stored on behalf of the Client by the Supplier’s Subprocessors. The Supplier shall notify the Client of its default procedure for data deletion (for instance, if the Supplier will delete data after a certain period absent contrary instructions). The Client agrees that it is responsible for expressly informing the Supplier, prior to or upon termination of the MSA, whether it elects to have the data returned or deleted. If the Client requests return of the data, the Supplier shall provide the Personal Data in a commonly used and machine-readable format (or another format reasonably requested by the Client) along with any existing metadata or other pertinent information, to ensure the data remains useful to the Client. Data return shall occur within a reasonable period following termination (for example, within 30 days), and the Supplier will confirm in writing once the data has been returned and deleted from its systems as per below. If the Client requests deletion or fails to elect an option, the Supplier will proceed to securely delete the Personal Data from its systems (except for any data required to be retained as noted in 11.2) and will certify to the Client in writing that it has done so.
@@ -223,7 +230,7 @@ In addition to or instead of the SCCs, the Parties may agree in writing to use *
 
 **11.5 No Retention for Commercial Purposes.** The Supplier hereby waives and agrees not to exercise any retention right or to withhold any Personal Data as a means of resolving any dispute or for payment enforcement, or for any other commercial reason. Commercial disputes between the Parties shall be resolved separately, and the Supplier shall not condition the return or deletion of Personal Data on any concession or payment. This does not prevent the Supplier from enforcing any contractual rights through legal means; it simply ensures Personal Data is not held hostage.
 
-12\. Liability and Indemnification
+# 12\. Liability and Indemnification
 ----------------------------------
 
 **12.1 Liability Cap.** Each Party’s liability to the other Party arising out of or related to this Addendum (whether in contract, tort, or under any other theory of liability) is subject to the limitations and exclusions of liability set forth in the MSA, **provided that** such limitations and exclusions are permitted by Applicable Data Protection Law. In no event shall either Party’s aggregate liability for all claims arising from or in connection with this Addendum exceed the liability cap or caps agreed in the MSA for the applicable services. The Parties intend that this Addendum and the MSA be read and construed together. If the MSA specifies a general aggregate liability cap and/or a separate cap for data protection or confidentiality breaches, those caps will apply accordingly to liabilities arising under this Addendum. Nothing in this Addendum is intended to limit or exclude liability to a greater extent than is permitted by law. In particular, no limitation or exclusion of liability set forth in the MSA shall apply to the extent that such limitation or exclusion is prohibited under Article 82 of the GDPR or other Applicable Data Protection Law (for example, a Party may not exclude liability for intentional or willful misconduct in violation of data protection laws, or for any type of liability which cannot be limited under law).
@@ -240,7 +247,7 @@ In addition to or instead of the SCCs, the Parties may agree in writing to use *
 
 **12.7 Exclusive Remedies.** Except for any equitable relief, the indemnities provided in this Clause 12 (along with any indemnities provided in the main MSA) shall constitute the exclusive remedies of each Party against the other for the types of third-party claims described herein, to the extent permissible under law. Any penalties or fines imposed by a Supervisory Authority on one Party that the other Party is responsible for reimbursing under this Addendum shall, where allowable, be treated as direct damages for the purpose of recoverability (so that they are not excluded as indirect or consequential damages under the MSA’s limitation of liability).
 
-13\. Term and Survival
+# 13\. Term and Survival
 ----------------------
 
 **13.1 Term of Addendum.** This Data Processing Addendum shall become effective on the Effective Date of the MSA (or, if later, the date on which the Supplier first Processes Personal Data on behalf of the Client) and shall remain in effect co-terminously with the MSA for so long as the Supplier Processes any Personal Data under the MSA. Termination or expiration of the MSA shall automatically terminate this Addendum, **provided that** the Supplier has ceased all Processing of Personal Data and fulfilled all of its obligations under Clause 11 (Return and Deletion of Data). If the Supplier continues to retain or Process Personal Data after termination of the MSA (for example, if complete return or deletion of data is deferred for a brief period), then this Addendum shall remain in force with respect to such retained data until the Supplier no longer Processes or possesses any of the Client’s Personal Data.
