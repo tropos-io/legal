@@ -1,18 +1,38 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <meta charset="UTF-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ page.title }} | Tropos Legal</title>
+    
+    <!-- Fonts for fallback -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+    <!-- Legal-Grade Styling -->
+    <link rel="stylesheet" href="{{ '/assets/css/legal.css' | relative_url }}">
+    
+    <!-- Optional: Favicon -->
+    <link rel="icon" href="{{ '/assets/favicon.ico' | relative_url }}" type="image/x-icon" />
   </head>
+
   <body>
-    <main>
+    <header role="banner" style="padding: 2em 0; text-align: center;">
+      <h1 style="margin: 0; font-family: 'Segoe UI', Calibri, sans-serif; font-size: 2rem; color: #222;">
+        Tropos Legal Center
+      </h1>
+      <p style="font-family: Georgia, serif; font-size: 1rem; color: #555; margin-top: 0.5em;">
+        Authoritative documentation for privacy, security, and compliance.
+      </p>
+    </header>
+
+    <main role="main" style="max-width: 800px; margin: 0 auto; padding: 0 1rem;">
       {{ content }}
     </main>
-    <hr />
-<p style="font-size: 12px; text-align: center; color: #888;">
-  &copy; 2024 Tropos.io BV. All Rights Reserved.
-</p>
 
+    <footer role="contentinfo" style="margin-top: 4em; padding: 2em 0; text-align: center; font-size: 0.875rem; color: #888;">
+      <hr style="margin-bottom: 1em;" />
+      &copy; {{ site.time | date: '%Y' }} Tropos Management BV. All Rights Reserved.
+    </footer>
   </body>
 </html>

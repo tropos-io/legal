@@ -15,7 +15,6 @@ hr { border: none; border-top: 1px solid #ccc; margin: 3em 0; }
 blockquote { font-style: italic; color: #666; margin: 1.5em 0; padding-left: 1em; border-left: 3px solid #ccc; }
 </style>
 
-# Tropos Legal Center
 
 The **Tropos Legal Center** is the authoritative source for all public legal, privacy, and compliance documentation.
 
