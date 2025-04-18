@@ -1,104 +1,57 @@
-
-/* === Typography === */
-body, p, td, th {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+body {
+  font-family: Georgia, serif;
   font-size: 16px;
-  line-height: 1.7;
-  color: #1a1a1a;
+  line-height: 1.75;
+  color: #1f1f1f;
   background-color: #ffffff;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   margin: 0;
   padding: 0;
 }
 
-/* Headings: Subtle authority */
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Segoe UI', Calibri, 'Helvetica Neue', Arial, sans-serif;
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1.25rem;
+}
+
+.legal-header {
+  text-align: center;
+  padding-top: 3rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.legal-title {
+  font-family: 'Segoe UI', Calibri, sans-serif;
+  font-size: 2.5rem;
   font-weight: 600;
-  color: #101010;
-  line-height: 1.35;
-  margin: 2em 0 0.5em 0;
-}
-
-h1 { font-size: 2em; border-bottom: 1px solid #e0e0e0; padding-bottom: 0.3em; }
-h2 { font-size: 1.5em; }
-h3 { font-size: 1.25em; }
-h4, h5, h6 { font-size: 1.1em; font-weight: 500; }
-
-/* === Tables === */
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 2.5em 0;
-  font-size: 15px;
-  background: #fff;
-}
-
-th, td {
-  border: 1px solid #dcdcdc;
-  padding: 14px 18px;
-  vertical-align: top;
-}
-
-th {
-  background-color: #f7f7f7;
-  font-weight: 600;
-  text-align: left;
   color: #222;
+  margin-bottom: 0.25rem;
 }
 
-td {
-  background-color: #fff;
-}
-
-/* === Links === */
-a {
-  color: #003366;
-  text-decoration: none;
-  border-bottom: 1px dotted #ccc;
-  transition: border-color 0.2s ease, color 0.2s ease;
-}
-
-a:hover {
-  color: #001a33;
-  border-bottom: 1px solid #003366;
-  text-decoration: underline;
-}
-
-/* === Blockquotes === */
-blockquote {
-  font-style: italic;
+.legal-subtitle {
   font-family: Georgia, serif;
-  color: #444;
-  background-color: #f9f9f9;
-  border-left: 4px solid #ccc;
-  padding: 1.2em 1.5em;
-  margin: 2em 0;
-}
-
-/* === Horizontal Rule === */
-hr {
-  border: none;
-  border-top: 1px solid #ddd;
-  margin: 3em 0;
-}
-
-/* === Code and Inline Mono (optional) === */
-code {
-  font-family: Consolas, Monaco, 'Courier New', monospace;
-  background-color: #f4f4f4;
-  padding: 0.2em 0.4em;
-  border-radius: 4px;
-  font-size: 90%;
-}
-
-/* === Legal-specific fine print === */
-.legal-note {
-  font-size: 14px;
+  font-size: 1rem;
   color: #555;
-  font-style: italic;
-  margin-top: 2em;
-  padding-top: 1em;
+  margin: 0;
+}
+
+.legal-main {
+  padding-top: 1rem;
+}
+
+.legal-disclaimer {
+  font-size: 0.875rem;
+  color: #666;
   border-top: 1px solid #eee;
+  padding-top: 1rem;
+  margin-top: 2rem;
+}
+
+.legal-footer {
+  text-align: center;
+  color: #888;
+  font-size: 0.85rem;
+  margin-top: 4rem;
+  padding-bottom: 2rem;
 }

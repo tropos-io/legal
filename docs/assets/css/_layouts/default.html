@@ -4,39 +4,52 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ page.title }} | Tropos Legal</title>
-    
-    <!-- Fonts for fallback -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    
+
+    <!-- SEO + Semantic Metadata -->
+    <meta name="description" content="Authoritative legal documentation published by Tropos.io, including privacy, security, and data governance terms." />
+    <meta name="author" content="Tropos Management BV" />
+    <meta name="dcterms.rightsHolder" content="Tropos Management BV" />
+    <meta name="dcterms.issued" content="{{ site.time | date: '%Y-%m-%d' }}" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Font Preconnect -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <!-- Tier 1 Typography -->
+    <link href="https://fonts.googleapis.com/css2?family=Segoe+UI:wght@400;600&family=Georgia&display=swap" rel="stylesheet" />
+
     <!-- Legal-Grade Styling -->
-    <link rel="stylesheet" href="{{ '/assets/css/legal.css' | relative_url }}">
-    
-    <!-- Optional: Favicon -->
+    <link rel="stylesheet" href="{{ '/assets/css/legal.css' | relative_url }}" />
+
+    <!-- Favicon -->
     <link rel="icon" href="{{ '/assets/favicon.ico' | relative_url }}" type="image/x-icon" />
   </head>
 
   <body>
-    <header role="banner" style="padding: 2em 0; text-align: center;">
-      <h1 style="margin: 0; font-family: 'Segoe UI', Calibri, sans-serif; font-size: 2rem; color: #222;">
-        Tropos Legal Center
-      </h1>
-      <p style="font-family: Georgia, serif; font-size: 1rem; color: #555; margin-top: 0.5em;">
-        Authoritative documentation for privacy, security, and compliance.
-      </p>
+    <header role="banner" class="legal-header">
+      <div class="container">
+        <h1 class="legal-title">Tropos Legal Center</h1>
+        <p class="legal-subtitle">
+          Authoritative documentation governing privacy, information security, and regulatory compliance.
+        </p>
+      </div>
     </header>
 
-    <main role="main" style="max-width: 800px; margin: 0 auto; padding: 0 1rem;">
+    <main role="main" class="legal-main container">
       {{ content }}
 
-      
-    <p>This Addendum is published for transparency purposes only and does not, by itself, create any legally binding obligations. Any binding commitments regarding information security, data protection, or confidentiality shall be governed solely by the terms of the applicable agreement between Tropos.io and its customers.</p>
-
+      <section class="legal-disclaimer">
+        <p>
+          This Addendum is provided for transparency purposes only and does not, by itself, constitute any legally binding obligation.
+          Binding commitments are governed exclusively by the applicable written agreement between Tropos.io and its customers.
+        </p>
+      </section>
     </main>
 
-    <footer role="contentinfo" style="margin-top: 4em; padding: 2em 0; text-align: center; font-size: 0.875rem; color: #888;">
-      <hr style="margin-bottom: 1em;" />
-      &copy; {{ site.time | date: '%Y' }} Tropos Management BV. All Rights Reserved.
+    <footer role="contentinfo" class="legal-footer">
+      <hr />
+      <p>&copy; {{ site.time | date: '%Y' }} Tropos Management BV. All Rights Reserved.</p>
     </footer>
   </body>
 </html>
