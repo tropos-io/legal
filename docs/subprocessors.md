@@ -1,8 +1,11 @@
- 
+---
+title: Subprocessor List
+permalink: /subprocessors/
+---
+
+
 This document identifies third-party subprocessors authorized by **Tropos.io** (“**Company**”) to process personal data on its behalf in connection with the provision of services to its customers. Each subprocessor is subject to contractual obligations imposing equivalent data protection commitments consistent with the applicable Data Processing Agreement (“**DPA**”), the General Data Protection Regulation (EU 2016/679), and other relevant laws.
 
-_Last updated: [Insert Date]_  
-_Next review: [Insert 3 months later]_  
 _Contact: [privacy@tropos.io](mailto:privacy@tropos.io)_
 
 ---
