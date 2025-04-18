@@ -1,3 +1,9 @@
+---
+title: Data protection addendum
+permalink: /subprocessors/
+---
+
+
 <div class="meta-block">
   <strong>Document:</strong> Data protection addendum
   <strong>Version:</strong> 1.3 
