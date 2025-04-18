@@ -1,5 +1,5 @@
 
-# ⚖️ Tropos Legal Center
+
 
 Welcome to the **Tropos Legal Center**, the authoritative source for all our publicly available legal documentation, policies, and compliance resources. This site serves as a single point of reference for customers, partners, auditors, regulators, and other stakeholders seeking transparency into our governance and operational integrity.
 
