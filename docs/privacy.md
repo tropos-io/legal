@@ -1,4 +1,8 @@
-# Privacy Policy
+---
+title: Website Privacy Policy
+permalink: /privacy/
+---
+
 
 Your privacy is critically important to us. At Tropos, we have a few fundamental principles:
 

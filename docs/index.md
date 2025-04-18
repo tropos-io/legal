@@ -22,7 +22,7 @@ This site provides transparency and accountability for regulators, customers, pa
 
 ---
 
-## 📚 Legal Framework
+## Legal Framework
 
 | Document | Purpose |
 |----------|---------|
@@ -35,16 +35,16 @@ This site provides transparency and accountability for regulators, customers, pa
 
 ---
 
-## 🧭 Our Legal Philosophy
+## Our Legal Philosophy
 
 > _"Compliance is not a constraint. It’s our architecture."_
 
 Tropos embeds legal resilience into every layer of its platform and operations. Our legal documentation is:
 
-- ✒️ **Crafted with Intention** — Modeled on Magic Circle drafting standards  
-- 🔍 **Auditor-Ready** — Version-controlled, reviewable, traceable  
-- 🔐 **Security-Embedded** — Integrated with our ISO/IEC 27001-certified ISMS  
-- 🌍 **Regulatory-Aligned** — GDPR, CCPA, SOC 2, and Schrems II–conformant
+- **Crafted with Intention** — Modeled on Magic Circle drafting standards  
+- **Auditor-Ready** — Version-controlled, reviewable, traceable  
+- **Security-Embedded** — Integrated with our ISO/IEC 27001-certified ISMS  
+- **Regulatory-Aligned** — GDPR, CCPA, SOC 2, and Schrems II–conformant
 
 ---
 
@@ -52,8 +52,7 @@ Tropos embeds legal resilience into every layer of its platform and operations. 
 
 For bespoke legal requests, security questionnaires, or cross-border data arrangements:
 
-- 📬 Email: [legal@tropos.io](mailto:legal@tropos.io)
-- 📑 Need a tailored agreement? [Contact us](mailto:legal@tropos.io)
+- Email: [legal@tropos.io](mailto:legal@tropos.io)
 
 ---
 

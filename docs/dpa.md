@@ -3,16 +3,7 @@ title: Data protection addendum
 permalink: /dpa/
 ---
 
-
-<div class="meta-block">
-  <strong>Document:</strong> Data protection addendum
-  <strong>Version:</strong> 1.3 
-  <strong>Effective Date:</strong> 2025-04-18  
-  <strong>Prepared by:</strong> Legal Counsel, Tropos.io  
-  <strong>Jurisdiction:</strong> Belgium  
-  <strong>Status:</strong> Public  
-</div>
-
+ 
 
 # 1\. Purpose, Scope, and Roles
 -----------------------------

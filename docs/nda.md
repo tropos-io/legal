@@ -1,14 +1,9 @@
-<div class="meta-block">
-  <strong>Document:</strong> Non-Disclosure Agreement (NDA)  
-  <strong>Version:</strong> 1.5 
-  <strong>Effective Date:</strong> 2024-04-18  
-  <strong>Prepared by:</strong> Legal Counsel, Tropos.io  
-  <strong>Jurisdiction:</strong> Belgium  
-  <strong>Status:</strong> Public  
-</div>
+---
+title: Non-Disclosure Agreement
+permalink: /nda/
+---
 
 
-# Non-Disclosure Agreement
 
 ## 1. Recitals and Background
 
