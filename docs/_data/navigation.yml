@@ -1,8 +1,0 @@
-# _data/navigation.yml
-main:
-  - title: "Subprocessor List"
-    url: /subprocessors/
-  - title: "Privacy Policy"
-    url: /privacy/
-  - title: "Security Overview"
-    url: /security/

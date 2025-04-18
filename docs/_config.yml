@@ -1,6 +1,3 @@
-# _config.yml
-theme: "minimal-mistakes-jekyll"
-title: "Tropos Legal"
-logo: "/assets/logo.svg"
-minimal_mistakes_skin: "air"  # or "dirt", "default", etc.
- 
+title: Tropos.io Legal Portal
+theme: minima
+markdown: kramdown
