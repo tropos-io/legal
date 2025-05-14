@@ -1,3 +1,8 @@
+---
+title: Website Privacy Policy
+permalink: /privacy/
+---
+
 # 1. Introduction
 
 
