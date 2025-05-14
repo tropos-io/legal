@@ -1,6 +1,6 @@
 ---
 title: Information Security
-permalink: /security/
+permalink: /infosec/
 ---
 
 
