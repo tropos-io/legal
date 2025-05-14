@@ -42,10 +42,10 @@ This Privacy Policy applies to:
 
 It does not apply to services we perform **as a data processor** on behalf of our clients. Where we act as a processor, we do so in accordance with the instructions set out in a separate data processing agreement.
 
-# 2. Who We Are**
+# 2. Who We Are
 Tropos Management BV ("Tropos", "we", "us", or "our") is a data analytics consulting firm headquartered in Belgium. We help organizations across Europe design, implement, and scale modern data platforms using technologies such as Snowflake, dbt, and AWS.
 
-For the purposes of this Privacy Policy and applicable data protection laws, **Tropos BV is the data controller** of your personal data, unless otherwise stated. This means that we determine the purposes and means of processing your personal data.
+For the purposes of this Privacy Policy and applicable data protection laws, **Tropos Management BV  is the data controller** of your personal data, unless otherwise stated. This means that we determine the purposes and means of processing your personal data.
 
 **Registered Address**:_Tropos Management BV_Mechelsesteenweg 180 6a 2018 AntwerpenBelgium
 
@@ -122,18 +122,6 @@ This includes data collected through cookies, log files, and analytics tools whe
 
 This information is typically collected using third-party technologies, as outlined in Section 8.
 
-## Information We Collect from Third Parties
-
-We may collect personal data about you from external sources, including:
-
-* **Business intelligence tools** (e.g., LinkedIn, ZoomInfo, [Snov.io](http://snov.io)): to enrich our CRM and identify potential business contacts;
-  
-* **Lead generation partners**: who provide us with relevant business contact data under appropriate legal grounds;
-  
-* **Event co-hosts or sponsors**: if you register for a jointly held webinar or workshop.
-  
-
-We only process such data if we can demonstrate a legitimate interest under applicable law, and you will always have the right to object or opt out.
 
 ## 4.3 Events, Workshops, and Client Interactions
 When you attend or participate in our in-person or virtual events, we may collect:
@@ -159,6 +147,19 @@ In the context of B2B sales, we may supplement our records with:
   
 
 We process this information based on our legitimate interest to grow and manage our commercial relationships, subject to your right to object.
+
+## 4.5 Information We Collect from Third Parties
+
+We may collect personal data about you from external sources, including:
+
+* **Business intelligence tools** (e.g., LinkedIn, ZoomInfo: to enrich our CRM and identify potential business contacts;
+  
+* **Lead generation partners**: who provide us with relevant business contact data under appropriate legal grounds;
+  
+* **Event co-hosts or sponsors**: if you register for a jointly held webinar or workshop.
+  
+
+We only process such data if we can demonstrate a legitimate interest under applicable law, and you will always have the right to object or opt out.
 
 ## 5. Purposes and Legal Bases for Processing
 
@@ -481,11 +482,11 @@ When transferring personal data internationally, we implement one or more of the
 
 * **Adequacy decisions**Where the European Commission or UK government has recognised a third country as providing an adequate level of protection (e.g., Switzerland, Japan, the UK for EU transfers).
   
-* **Standard Contractual Clauses (SCCs)**For transfers to countries without adequacy decisions (e.g., the US), we rely on the European Commission's Standard Contractual Clauses, as updated in 2021, and/or the UK Addendum where applicable.
+* **Standard Contractual Clauses (SCCs)** For transfers to countries without adequacy decisions (e.g., the US), we rely on the European Commission's Standard Contractual Clauses, as updated in 2021, and/or the UK Addendum where applicable.
   
-* **Transfer Impact Assessments (TIAs)**Where required, we perform a transfer risk assessment in line with EDPB guidance to assess whether additional technical, contractual, or organisational safeguards are needed.
+* **Transfer Impact Assessments (TIAs)** Where required, we perform a transfer risk assessment in line with EDPB guidance to assess whether additional technical, contractual, or organisational safeguards are needed.
   
-* **Data Privacy Framework (DPF)**If applicable, we may rely on the EU–US or UK–US Data Privacy Framework when engaging with certified US-based processors.
+* **Data Privacy Framework (DPF)** If applicable, we may rely on the EU–US or UK–US Data Privacy Framework when engaging with certified US-based processors.
   
 
 # 10\. Retention of Personal Data
@@ -495,65 +496,18 @@ We retain personal data only for as long as necessary to fulfil the purposes for
 
 The retention period depends on the context of the data and the purpose of processing. Below is an overview of our standard retention practices:
 
-**Data Category**
+| **Data Category**                            | **Typical Retention Period**                         | **Legal Basis / Notes**                                      |
+|---------------------------------------------|------------------------------------------------------|---------------------------------------------------------------|
+| Contact form submissions, sales emails      | Up to 24 months after last interaction               | Legitimate interest; extended if ongoing sales interest       |
+| CRM records (prospects & clients)           | Duration of relationship + 3 years                   | Legitimate interest; subject to review and opt-out            |
+| Newsletter subscriptions                    | Until unsubscribed or withdrawn consent              | Consent                                                       |
+| Website analytics and cookies               | 6 to 13 months (depending on cookie type)            | Consent; see Cookie Policy for specifics                      |
+| Workshop registration data                  | Up to 12 months post-event                           | Legitimate interest                                           |
+| Job applicant data                          | 12 months from final decision unless longer agreed   | Legal obligation; consent for talent pool retention           |
+| Contractual documentation (e.g. SOWs)       | 7 to 10 years                                        | Legal obligation (tax, audit)                                 |
+| Support communications                      | Up to 24 months                                      | Legitimate interest                                           |
+| Security logs and system access records     | Typically 90 days; max 12 months for audit logs      | Legal obligation, security monitoring                         |
 
-**Typical Retention Period**
-
-**Legal Basis / Notes**
-
-Contact form submissions, sales emails
-
-Up to 24 months after last interaction
-
-Legitimate interest; extended if ongoing sales interest
-
-CRM records (prospects & clients)
-
-Duration of relationship + 3 years
-
-Legitimate interest; subject to review and opt-out
-
-Newsletter subscriptions
-
-Until unsubscribed or withdrawn consent
-
-Consent
-
-Website analytics and cookies
-
-6 to 13 months (depending on cookie type)
-
-Consent; see Cookie Policy for specifics
-
-Workshop registration data
-
-Up to 12 months post-event
-
-Legitimate interest
-
-Job applicant data
-
-12 months from final decision unless longer retention is agreed
-
-Legal obligation; consent for talent pool retention
-
-Contractual documentation (e.g. SOWs)
-
-7 to 10 years
-
-Legal obligation (tax, audit)
-
-Support communications
-
-Up to 24 months
-
-Legitimate interest
-
-Security logs and system access records
-
-Typically 90 days; max 12 months for audit logs
-
-Legal obligation, security monitoring
 
 We periodically review and securely delete or anonymise data that is no longer required.
 
@@ -758,26 +712,26 @@ This typically arises in the context of:
 When acting as a processor, Tropos:
 
 * Does not determine the purposes or means of processing;
-  
 * Processes data only on documented instructions from the client (controller);
-  
 * Implements appropriate technical and organisational measures to ensure the security and confidentiality of the data;
-  
 * Assists clients with data subject rights requests, data breach notification, and other obligations as required by Article 28 GDPR;
-  
 * Ensures that personnel and subcontractors are subject to appropriate confidentiality and data protection commitments.
   
 
 Any personal data processed in this capacity is subject to the client’s own privacy notice and governance policies. If you have questions about how your data is handled in a client project, please contact the relevant organisation directly.
 
 # 16 Data Protection Officer and Contact Details
-
-
 If you have any questions, concerns, or requests regarding this Privacy Policy or our handling of your personal data, you may contact us using the details below.
 
-**Data Controller**:Tropos BVMechelsesteenweg 180 6A2018 AntwerpenBelgium
+**Data Controller**:
+Tropos Management BV 
+Mechelsesteenweg 180 6A
+2018 Antwerpen
+Belgium
 
-**Email**: privacy@tropos.ioWe aim to respond to all legitimate inquiries within one month, as required under Article 12 GDPR.
+**Email**: privacy@tropos.io
+
+We aim to respond to all legitimate inquiries within one month, as required under Article 12 GDPR.
 
 If you are a resident of the European Economic Area or the United Kingdom and you believe that we have not complied with applicable data protection laws, you have the right to lodge a complaint with your local **supervisory authority**.
 
@@ -788,8 +742,6 @@ Drukpersstraat 35, 1000 Brussels
 [www.gegevensbeschermingsautoriteit.be](https://www.gegevensbeschermingsautoriteit.be)
 
 # 17. Governing Law and Jurisdiction
-
-
 This Privacy Policy and any dispute or claim arising out of or in connection with it shall be governed by and construed in accordance with the laws of **Belgium**, without regard to conflict of law principles.
 
 Subject to any mandatory provisions of applicable data protection laws, the courts of **Antwerp, Belgium** shall have exclusive jurisdiction over any disputes relating to the interpretation, validity, or enforcement of this Privacy Policy or our processing of your personal data.
@@ -797,8 +749,6 @@ Subject to any mandatory provisions of applicable data protection laws, the cour
 This does not affect your statutory rights under the GDPR to lodge a complaint with your local supervisory authority or seek judicial remedy in your country of residence.
 
 # 18. Security Standards and Certifications
-
-
 Tropos operates an Information Security Management System (ISMS) that is aligned with the ISO/IEC 27001:2022 standard. This alignment includes the implementation of technical and organisational controls required to manage information security risks and safeguard the confidentiality, integrity, and availability of data.
 
 We continually monitor and improve our ISMS through regular internal audits, risk assessments, and documented procedures covering access control, incident response, asset management, and supplier due diligence.
@@ -806,14 +756,10 @@ We continually monitor and improve our ISMS through regular internal audits, ris
 If you require evidence of our ISO/IEC 27001 alignment or audit documentation as part of a vendor risk assessment, please contact us at privacy@tropos.io.
 
 # 19. Changes to This Privacy Policy
-
-
 We may update this Privacy Policy from time to time to reflect changes in our legal obligations, business practices, or the services we offer. When we make material changes, we will:
 
 * Update the “last revised” date at the bottom of this document;
-  
 * Post the updated policy on our website;
-  
 * Notify you by email or through other appropriate channels if the changes are significant or require your consent under applicable law.
   
 
