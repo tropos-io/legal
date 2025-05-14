@@ -318,7 +318,7 @@ We engage trusted third-party service providers who perform functions on our beh
 
 These providers act as data processors under Article 28 GDPR and are contractually bound to safeguard your data, limit use to our instructions, and implement adequate security controls.
 
-You can view the current list of our subprocessors at: [https://legal.tropos.io/subprocessors.](https://legal.tropos.io/subprocessors.)
+You can view the current list of our subprocessors at: [https://legal.tropos.io/subprocessors](https://legal.tropos.io/subprocessors).
 
 These providers act as **data processors** under Article 28 GDPR and are contractually bound to safeguard your data, limit use to our instructions, and implement adequate security controls.
 
