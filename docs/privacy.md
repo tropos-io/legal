@@ -1,9 +1,38 @@
 ---
 title: Privacy Policy
 permalink: /privacy/
+nav_order: 10
+---
+
+## Table of contents
+{: .no_toc }
+
+- [Who We Are](#2-who-we-are)
+- [Scope of This Policy](#3-scope-of-this-policy)
+- [Categories of Personal Data We Collect](#4-categories-of-personal-data-we-collect)
+- [Purposes and Legal Bases for Processing](#5-purposes-and-legal-bases-for-processing)
+- [How We Use Your Personal Data](#6-how-we-use-your-personal-data)
+- [How We Share Your Personal Data](#7-how-we-share-your-personal-data)
+- [Cookies and Tracking Technologies](#8-cookies-and-tracking-technologies)
+- [International Data Transfers](#9-international-data-transfers)
+- [Retention of Personal Data](#10-retention-of-personal-data)
+- [Security of Personal Data](#11-security-of-personal-data)
+- [Your Data Protection Rights](#12-your-data-protection-rights)
+- [Third-Party Sites and Services](#13-third-party-sites-and-services)
+- [Recruitment and Job Applications](#14-recruitment-and-job-applications)
+- [Data Processing on Behalf of Clients](#15-data-processing-on-behalf-of-clients)
+- [Contact Details](#16-data-protection-officer-and-contact-details)
+- [Jurisdiction](#17-governing-law-and-jurisdiction)
+- [Security Certifications](#18-security-standards-and-certifications)
+- [Policy Changes](#19-changes-to-this-privacy-policy)
+
+---
+title: Privacy Policy
+permalink: /privacy/
 ---
 
 # 1. Introduction
+{: .no_toc }
 
 
 At Tropos, we are committed to protecting the privacy and personal data of all individuals who interact with us, whether as clients, prospective customers, job applicants, website visitors, or event participants. This Privacy Policy sets out how we collect, use, share, and protect your personal data in accordance with applicable data protection laws, including the General Data Protection Regulation (EU) 2016/679 ("GDPR") and the ePrivacy Directive.
@@ -503,7 +532,7 @@ The retention period depends on the context of the data and the purpose of proce
 | Newsletter subscriptions                    | Until unsubscribed or withdrawn consent              | Consent                                                       |
 | Website analytics and cookies               | 6 to 13 months (depending on cookie type)            | Consent; see Cookie Policy for specifics                      |
 | Workshop registration data                  | Up to 12 months post-event                           | Legitimate interest                                           |
-| Job applicant data                          | 12 months from final decision unless longer agreed   | Legal obligation; consent for talent pool retention           |
+| **Job applicant data** | 12 months from final decision<br>unless longer agreed | Legal obligation; consent for talent pool retention |
 | Contractual documentation (e.g. SOWs)       | 7 to 10 years                                        | Legal obligation (tax, audit)                                 |
 | Support communications                      | Up to 24 months                                      | Legitimate interest                                           |
 | Security logs and system access records     | Typically 90 days; max 12 months for audit logs      | Legal obligation, security monitoring                         |
