@@ -1,3 +1,19 @@
-title: Tropos.io Legal Portal
-theme: just-the-docs
+title: Tropos Legal Portal
+description: Public policies and legal notices for Tropos BV
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
+
+# Enable navigation
+search_enabled: true
+heading_anchors: true
+
+# Optional: logo, favicon, nav_order
+logo: /assets/images/logo.svg
+favicon_ico: /assets/images/favicon.ico
+
+
+
+
+
+
 markdown: kramdown
