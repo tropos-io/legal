@@ -1,5 +1,5 @@
 ---
-title: Website Privacy Policy
+title: Privacy Policy
 permalink: /privacy/
 ---
 
