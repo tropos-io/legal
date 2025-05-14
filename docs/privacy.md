@@ -26,10 +26,7 @@ nav_order: 10
 - [Security Certifications](#18-security-standards-and-certifications)
 - [Policy Changes](#19-changes-to-this-privacy-policy)
 
----
-title: Privacy Policy
-permalink: /privacy/
----
+ 
 
 # 1. Introduction
 {: .no_toc }
@@ -76,9 +73,11 @@ Tropos Management BV ("Tropos", "we", "us", or "our") is a data analytics consul
 
 For the purposes of this Privacy Policy and applicable data protection laws, **Tropos Management BV  is the data controller** of your personal data, unless otherwise stated. This means that we determine the purposes and means of processing your personal data.
 
-**Registered Address**:_Tropos Management BV_Mechelsesteenweg 180 6a 2018 AntwerpenBelgium
-
-**Company Registration Number**:0632761979
+> **Important:** Tropos Management BV is the data controller for your personal data.
+> 
+> **Address:** Mechelsesteenweg 180 6A, 2018 Antwerpen, Belgium  
+> **Company Registration Number:** 0632761979
+{: .important }
 
 We may also act as a **data processor** when we process personal data on behalf of our clients as part of our service delivery (for example, when deploying or managing analytics pipelines, environments, or tooling). In such cases, the client is the data controller, and we act strictly on their instructions.
 
@@ -195,6 +194,16 @@ We only process such data if we can demonstrate a legitimate interest under appl
 We only process your personal data when we have a valid legal basis under the General Data Protection Regulation (GDPR). This section sets out the purposes for which we process personal data and the lawful grounds on which we rely.
 
 ## 5.1 Lawful Bases under the GDPR
+
+The table below outlines the legal grounds we rely on when processing your personal data:
+
+| **Lawful Basis**                          | **Description**                                                                 |
+|------------------------------------------|---------------------------------------------------------------------------------|
+| Contractual necessity (Art. 6(1)(b))      | To perform or prepare for a contract                                            |
+| Legal obligation (Art. 6(1)(c))           | Compliance with legal/tax/employment obligations                                |
+| Legitimate interests (Art. 6(1)(f))       | For our business needs that don't override your rights                         |
+| Consent (Art. 6(1)(a))                    | For marketing, cookies, or partner lead sharing                                 |
+| Employment obligations (Art. 9(2)(b))     | Processing special category data during recruitment                             |
 
 We rely on one or more of the following lawful bases when processing personal data:
 
@@ -348,7 +357,8 @@ We engage trusted third-party service providers who perform functions on our beh
 
 These providers act as data processors under Article 28 GDPR and are contractually bound to safeguard your data, limit use to our instructions, and implement adequate security controls.
 
-You can view the current list of our subprocessors at: [https://legal.tropos.io/subprocessors](https://legal.tropos.io/subprocessors).
+> **Highlight:** You can view the current list of our subprocessors [here](https://legal.tropos.io/subprocessors).
+{: .highlight }
 
 These providers act as **data processors** under Article 28 GDPR and are contractually bound to safeguard your data, limit use to our instructions, and implement adequate security controls.
 
@@ -532,7 +542,7 @@ The retention period depends on the context of the data and the purpose of proce
 | Newsletter subscriptions                    | Until unsubscribed or withdrawn consent              | Consent                                                       |
 | Website analytics and cookies               | 6 to 13 months (depending on cookie type)            | Consent; see Cookie Policy for specifics                      |
 | Workshop registration data                  | Up to 12 months post-event                           | Legitimate interest                                           |
-| **Job applicant data** | 12 months from final decision<br>unless longer agreed | Legal obligation; consent for talent pool retention |
+| Job applicant data                          | 12 months from final decision unless longer agreed   | Legal obligation; consent for talent pool retention           |
 | Contractual documentation (e.g. SOWs)       | 7 to 10 years                                        | Legal obligation (tax, audit)                                 |
 | Support communications                      | Up to 24 months                                      | Legitimate interest                                           |
 | Security logs and system access records     | Typically 90 days; max 12 months for audit logs      | Legal obligation, security monitoring                         |
@@ -540,7 +550,8 @@ The retention period depends on the context of the data and the purpose of proce
 
 We periodically review and securely delete or anonymise data that is no longer required.
 
-If you would like more specific information on how long we retain a particular type of personal data, you can contact us using the details in Section 16.
+> **Note:** If you would like more specific information on retention periods, you can contact us using the details in Section 16.
+{: .note }
 
 # 11\. Security of Personal Data
 

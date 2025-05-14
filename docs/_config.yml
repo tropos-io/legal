@@ -48,6 +48,18 @@ mermaid:
 markdown: kramdown
 
 callouts:
+  note:
+    title: Note
+    color: blue
+  tip:
+    title: Tip
+    color: green
   warning:
     title: Warning
     color: red
+  important:
+    title: Important
+    color: purple
+  highlight:
+    title: Highlight
+    color: yellow
