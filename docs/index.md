@@ -18,6 +18,7 @@ blockquote { font-style: italic; color: #666; margin: 1.5em 0; padding-left: 1em
 
 The **Tropos Legal Center** is the authoritative source for all public legal, privacy, and compliance documentation.
 
+{: .warning }
 This site provides transparency and accountability for regulators, customers, partners, and auditors. Every document is designed with precision, purpose, and a commitment to world-class legal craftsmanship.
 
 ---
