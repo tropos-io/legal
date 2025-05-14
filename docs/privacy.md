@@ -7,6 +7,7 @@ nav_order: 10
 ## Table of contents
 {: .no_toc }
 
+- [TL;DR](#tldr)
 - [Who We Are](#2-who-we-are)
 - [Scope of This Policy](#3-scope-of-this-policy)
 - [Categories of Personal Data We Collect](#4-categories-of-personal-data-we-collect)
@@ -26,10 +27,19 @@ nav_order: 10
 - [Security Certifications](#18-security-standards-and-certifications)
 - [Policy Changes](#19-changes-to-this-privacy-policy)
 
- 
+# TL;DR
+> **🔍 TL;DR**  
+> We only collect the data we need — like form submissions, CRM records, and cookies.  
+> We never sell your data. We keep it safe, and you can ask us to delete it anytime.  
+> Scroll down to see the details.
+{: .tip }
+
+---
+title: Privacy Policy
+permalink: /privacy/
+---
 
 # 1. Introduction
-{: .no_toc }
 
 
 At Tropos, we are committed to protecting the privacy and personal data of all individuals who interact with us, whether as clients, prospective customers, job applicants, website visitors, or event participants. This Privacy Policy sets out how we collect, use, share, and protect your personal data in accordance with applicable data protection laws, including the General Data Protection Regulation (EU) 2016/679 ("GDPR") and the ePrivacy Directive.
@@ -73,15 +83,16 @@ Tropos Management BV ("Tropos", "we", "us", or "our") is a data analytics consul
 
 For the purposes of this Privacy Policy and applicable data protection laws, **Tropos Management BV  is the data controller** of your personal data, unless otherwise stated. This means that we determine the purposes and means of processing your personal data.
 
-> **Important:** Tropos Management BV is the data controller for your personal data.
-> 
+> **Data Controller**  
+> Tropos Management BV  
 > **Address:** Mechelsesteenweg 180 6A, 2018 Antwerpen, Belgium  
-> **Company Registration Number:** 0632761979
+> **🔢 Registration Number:** 0632761979
 {: .important }
 
 We may also act as a **data processor** when we process personal data on behalf of our clients as part of our service delivery (for example, when deploying or managing analytics pipelines, environments, or tooling). In such cases, the client is the data controller, and we act strictly on their instructions.
 
-If you have any questions about this Privacy Policy, our data practices, or your rights under applicable laws, please refer to **Section 16: Data Protection Officer and Contact Details**.
+> **📬 Contact us for your privacy rights or concerns.** Details are in [Section 16](#16-data-protection-officer-and-contact-details).
+{: .tip }
 
 3. Scope of this Policy
 
@@ -194,16 +205,6 @@ We only process such data if we can demonstrate a legitimate interest under appl
 We only process your personal data when we have a valid legal basis under the General Data Protection Regulation (GDPR). This section sets out the purposes for which we process personal data and the lawful grounds on which we rely.
 
 ## 5.1 Lawful Bases under the GDPR
-
-The table below outlines the legal grounds we rely on when processing your personal data:
-
-| **Lawful Basis**                          | **Description**                                                                 |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Contractual necessity (Art. 6(1)(b))      | To perform or prepare for a contract                                            |
-| Legal obligation (Art. 6(1)(c))           | Compliance with legal/tax/employment obligations                                |
-| Legitimate interests (Art. 6(1)(f))       | For our business needs that don't override your rights                         |
-| Consent (Art. 6(1)(a))                    | For marketing, cookies, or partner lead sharing                                 |
-| Employment obligations (Art. 9(2)(b))     | Processing special category data during recruitment                             |
 
 We rely on one or more of the following lawful bases when processing personal data:
 
@@ -357,7 +358,7 @@ We engage trusted third-party service providers who perform functions on our beh
 
 These providers act as data processors under Article 28 GDPR and are contractually bound to safeguard your data, limit use to our instructions, and implement adequate security controls.
 
-> **Highlight:** You can view the current list of our subprocessors [here](https://legal.tropos.io/subprocessors).
+> **📄 View our subprocessors list:** [https://legal.tropos.io/subprocessors](https://legal.tropos.io/subprocessors)
 {: .highlight }
 
 These providers act as **data processors** under Article 28 GDPR and are contractually bound to safeguard your data, limit use to our instructions, and implement adequate security controls.
@@ -550,8 +551,7 @@ The retention period depends on the context of the data and the purpose of proce
 
 We periodically review and securely delete or anonymise data that is no longer required.
 
-> **Note:** If you would like more specific information on retention periods, you can contact us using the details in Section 16.
-{: .note }
+If you would like more specific information on how long we retain a particular type of personal data, you can contact us using the details in Section 16.
 
 # 11\. Security of Personal Data
 

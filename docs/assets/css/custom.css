@@ -55,3 +55,12 @@ body {
   margin-top: 4rem;
   padding-bottom: 2rem;
 }
+
+.callout.important {
+  border-left: 6px solid #6f42c1; /* purple */
+  background-color: #f3f0fa;
+}
+.callout.note {
+  border-left: 6px solid #1d70b8;
+  background-color: #eef6fc;
+}
