@@ -28,7 +28,7 @@ nav_order: 10
 - [Policy Changes](#19-changes-to-this-privacy-policy)
 
 # TL;DR
-> **🔍 TL;DR**  
+> **TL;DR**  
 > We only collect the data we need — like form submissions, CRM records, and cookies.  
 > We never sell your data. We keep it safe, and you can ask us to delete it anytime.  
 > Scroll down to see the details.
@@ -49,13 +49,9 @@ We understand that trust is foundational to our relationship with our clients an
 This Privacy Policy is intended to:
 
 * Explain what personal data we collect, how we use it, and why.
-  
 * Clarify the lawful bases on which we process personal data.
-  
 * Describe how we share personal data with third parties, including trusted partners and service providers.
-  
 * Outline your data protection rights and how you can exercise them.
-  
 * Provide details of how to contact us with questions or concerns.
   
 
@@ -64,15 +60,10 @@ Please read this policy carefully to understand our practices. If you have any q
 This Privacy Policy applies to:
 
 * Our websites (including [https://www.tropos.io](https://www.tropos.io/));
-  
 * Individuals who interact with us via contact forms, email, phone, or digital campaigns;
-  
 * Prospective and current customers and partners;
-  
 * Individuals who engage with us through events, webinars, or other commercial initiatives;
-  
 * Job applicants and candidates for employment at Tropos;
-  
 * Any other data subjects whose personal data we process in the context of our business activities.
   
 
@@ -83,10 +74,9 @@ Tropos Management BV ("Tropos", "we", "us", or "our") is a data analytics consul
 
 For the purposes of this Privacy Policy and applicable data protection laws, **Tropos Management BV  is the data controller** of your personal data, unless otherwise stated. This means that we determine the purposes and means of processing your personal data.
 
-> **📌 Data Controller**  
-> Tropos Management BV  
-> **📍 Address:** Mechelsesteenweg 180 6A, 2018 Antwerpen, Belgium  
-> **🔢 Registration Number:** 0632761979
+> **Data Controller**: Tropos Management BV  
+> **Address**: Mechelsesteenweg 180 6A, 2018 Antwerpen, Belgium  
+> **🔢 Registration Number**: 0632761979
 {: .important }
 
 We may also act as a **data processor** when we process personal data on behalf of our clients as part of our service delivery (for example, when deploying or managing analytics pipelines, environments, or tooling). In such cases, the client is the data controller, and we act strictly on their instructions.
@@ -94,26 +84,17 @@ We may also act as a **data processor** when we process personal data on behalf 
 > **📬 Contact us for your privacy rights or concerns.** Details are in [Section 16](#16-data-protection-officer-and-contact-details).
 {: .tip }
 
-3. Scope of this Policy
+# 3. Scope of this Policy
 
 This Privacy Policy applies to the personal data we process in the context of:
-
-* Operating and maintaining our websites, including [www.tropos.io](https://www.tropos.io);
-  
+* Operating and maintaining our websites, including [www.tropos.io](https://www.tropos.io); 
 * Managing contact forms, gated content requests, newsletter subscriptions, and other online interactions;
-  
 * Running our customer relationship management (CRM) and business development activities;
-  
 * Hosting or participating in webinars, training sessions, events, and workshops;
-  
 * Conducting recruitment and evaluating job applications;
-  
 * Using cookies, analytics tools, and third-party platforms for marketing and performance optimisation;
-  
 * Performing internal operations, including security logging, system monitoring, and auditing;
-  
 * Engaging in partner and channel sales, including joint marketing and lead sharing (with your consent);
-  
 * Processing data on behalf of clients in accordance with contractual instructions (as a processor).
   
 
@@ -166,22 +147,16 @@ This information is typically collected using third-party technologies, as outli
 When you attend or participate in our in-person or virtual events, we may collect:
 
 * **Registration details**: including name, company, and role;
-  
 * **Participation data**: such as questions asked, poll responses, and chat messages;
-  
 * **Session recordings**: if the event is recorded, subject to appropriate notice;
-  
 * **Follow-up data**: such as your interest in our services or willingness to receive further communication.
   
 
 ## 4.4 CRM Enrichment and Prospect Research
 
 In the context of B2B sales, we may supplement our records with:
-
 * Publicly available data from professional platforms (e.g. company websites, public directories);
-  
 * Technographic or firmographic data (e.g. industry, company size, tech stack);
-  
 * Notes related to interactions, intent signals, or sales qualification steps.
   
 
@@ -417,8 +392,8 @@ In cases not covered above, we may share your personal data if you give us expli
 
 **Legal basis**: Consent.
 
-**8\. Cookies and Tracking Technologies**
-=========================================
+# 8. Cookies and Tracking Technologies**
+
 
 We use cookies and similar technologies to operate our website, improve its performance, analyse usage, and support our marketing efforts. This section explains how we use these technologies and your choices in managing them.
 
