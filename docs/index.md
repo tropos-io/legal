@@ -27,28 +27,13 @@ This site provides transparency and accountability for regulators, customers, pa
 | Document | Purpose |
 |----------|---------|
 | [Privacy & Data Protection Policy](./privacy.md) | Outlines how personal data is collected, processed, and protected across Tropos services. |
-| [Master Services Agreement (MSA)](./msa.md) | The foundational contract governing customer relationships, rights, and limitations. |
-| [Data Processing Agreement (DPA)](./dpa.md) | Enables compliance with GDPR Article 28 and cross-border data transfer regimes. |
 | [Non-Disclosure Agreement (NDA)](./nda.md) | Mutual confidentiality commitments for commercial discussions and early collaboration. |
 | [Security Overview](./security.md) | Summary of controls aligned to ISO 27001, SOC 2, and global security frameworks. |
 | [Subprocessor List](./subprocessors.md) | Official register of authorized data subprocessors, updated quarterly. |
 
 ---
 
-## Our Legal Philosophy
-
-> _"Compliance is not a constraint. It’s our architecture."_
-
-Tropos embeds legal resilience into every layer of its platform and operations. Our legal documentation is:
-
-- **Crafted with Intention** — Modeled on Magic Circle drafting standards  
-- **Auditor-Ready** — Version-controlled, reviewable, traceable  
-- **Security-Embedded** — Integrated with our ISO/IEC 27001-certified ISMS  
-- **Regulatory-Aligned** — GDPR, CCPA, SOC 2, and Schrems II–conformant
-
----
-
-## 🧩 Contact & Custom Terms
+## Contact & Custom Terms
 
 For bespoke legal requests, security questionnaires, or cross-border data arrangements:
 
