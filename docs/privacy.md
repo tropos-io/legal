@@ -83,9 +83,9 @@ Tropos Management BV ("Tropos", "we", "us", or "our") is a data analytics consul
 
 For the purposes of this Privacy Policy and applicable data protection laws, **Tropos Management BV  is the data controller** of your personal data, unless otherwise stated. This means that we determine the purposes and means of processing your personal data.
 
-> **Data Controller**  
+> **📌 Data Controller**  
 > Tropos Management BV  
-> **Address:** Mechelsesteenweg 180 6A, 2018 Antwerpen, Belgium  
+> **📍 Address:** Mechelsesteenweg 180 6A, 2018 Antwerpen, Belgium  
 > **🔢 Registration Number:** 0632761979
 {: .important }
 
