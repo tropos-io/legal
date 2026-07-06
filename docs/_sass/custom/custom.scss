@@ -4,27 +4,32 @@
 // h3 is 16px — the same size as body paragraphs (16px). That makes h1 feel
 // oversized and disconnected, while h2/h3 barely step down from running
 // text. Numbered clause headings (used throughout the legal documents) are
-// all h1, so hierarchy here comes from weight and case, not size — h1 sits
-// at body size (matching how numbered headings read in a typeset contract),
-// semibold and uppercase; h2/h3 step down slightly in size and drop the
-// uppercase treatment for sub-headings.
+// all h1, so hierarchy here comes from weight, letter-spacing and case, not
+// size — h1 stays close to body size (matching how numbered headings read
+// in a typeset contract) but at full bold with wide tracking and a rule
+// beneath, the way a firm's letterhead sets its own name off from the text
+// below it.
 .main-content {
   h1 {
-    font-size: 1em; // 16px, same as body
-    font-weight: 600;
+    font-size: 1.05em;
+    font-weight: 700;
+    letter-spacing: 0.05em;
     line-height: $body-heading-line-height;
     text-transform: uppercase;
+    border-bottom: 2px solid $body-heading-color;
+    padding-bottom: 0.35em;
   }
 
   h2 {
-    font-size: 0.95em; // ~15px
-    font-weight: 600;
+    font-size: 1em;
+    font-weight: 700;
+    letter-spacing: 0.02em;
     line-height: $body-heading-line-height;
   }
 
   h3 {
-    font-size: 0.9em; // ~14px
-    font-weight: 600;
+    font-size: 0.95em;
+    font-weight: 700;
     line-height: $body-heading-line-height;
   }
 
