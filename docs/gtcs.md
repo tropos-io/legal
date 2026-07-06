@@ -1,5 +1,5 @@
 ---
-title: General Terms and Conditions of Sales (GTCS)
+title: Service Terms
 permalink: /terms/
 nav_order: 10
 ---

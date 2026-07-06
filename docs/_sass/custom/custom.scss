@@ -3,25 +3,27 @@
 // Theme defaults (just-the-docs v0.12.0): h1 is 32px/weight 300, h2 is 18px,
 // h3 is 16px — the same size as body paragraphs (16px). That makes h1 feel
 // oversized and disconnected, while h2/h3 barely step down from running
-// text. This establishes a smaller, print-like scale (h1 1.2em / h2 1.05em /
-// h3 0.95em against 1.0em body text) and gives paragraphs consistent
-// line-height and spacing for long-form legal text.
+// text. Numbered clause headings (used throughout the legal documents) are
+// all h1, so hierarchy here comes from weight and case, not size — h1 sits
+// at body size (matching how numbered headings read in a typeset contract),
+// semibold and uppercase; h2/h3 step down slightly in size and drop the
+// uppercase treatment for sub-headings.
 .main-content {
   h1 {
-    font-size: 1.2em; // ~19px
+    font-size: 1em; // 16px, same as body
     font-weight: 600;
     line-height: $body-heading-line-height;
     text-transform: uppercase;
   }
 
   h2 {
-    font-size: 1.05em; // ~17px
+    font-size: 0.95em; // ~15px
     font-weight: 600;
     line-height: $body-heading-line-height;
   }
 
   h3 {
-    font-size: 0.95em; // ~15px
+    font-size: 0.9em; // ~14px
     font-weight: 600;
     line-height: $body-heading-line-height;
   }
@@ -30,5 +32,26 @@
     font-size: 1em; // 16px
     line-height: 1.65;
     margin-bottom: 1em;
+  }
+}
+
+// Custom page footer (docs/_includes/footer_custom.html), injected by the
+// theme's own footer.html into the main content column with no styling of
+// its own. It previously reused the theme's reserved "site-footer" class
+// (position: absolute, bottom: 0, ~12px text — meant for the small sidebar
+// attribution link), which is why it rendered cramped and misplaced.
+.legal-footer {
+  margin-top: 3em;
+  padding-top: 1.5em;
+  border-top: 1px solid $sidebar-color;
+  font-size: 0.85em;
+  color: #333;
+
+  p {
+    margin-bottom: 0.75em;
+  }
+
+  .footer-legal {
+    color: #555;
   }
 }

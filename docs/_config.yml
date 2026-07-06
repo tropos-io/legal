@@ -8,7 +8,7 @@ search_enabled: true
 heading_anchors: true
 
 # Optional: logo, favicon, nav_order
-logo: /assets/logo.png
+logo: /assets/Tropos_imagemark_digital-green_300dpi_RGB.png
 favicon_ico: /assets/favicon.ico
 
 # Aux links for the upper right navigation
