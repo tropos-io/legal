@@ -7,7 +7,7 @@ last_modified_date: 2026-07-06
 ---
 
 
-# **SERVICES TERMS**
+# SERVICES TERMS
 
 _Last updated and effective: {{ page.last_modified_date | date: "%B %-d, %Y" }}_
 
@@ -25,7 +25,7 @@ WHEREAS:
 
 THE PARTIES AGREE AS FOLLOWS:
 
-# **1\. 	DEFINITIONS, INTERPRETATION AND STRUCTURE**
+# 1\. 	DEFINITIONS, INTERPRETATION AND STRUCTURE
 
 **1.1 	Defined Terms.** Capitalised terms have the meanings given in Annex A (Definitions). Where this Agreement defines a term in the body text, that definition prevails over Annex A to the extent of any inconsistency.
 
@@ -47,7 +47,7 @@ THE PARTIES AGREE AS FOLLOWS:
 
 **1.10 Versions.**  Where executed under Clause 1.9(a), this Agreement is amended only under Clause 1.5. Where incorporated under Clause 1.9(b), the version published at legal.tropos.io/terms in force at the date of the Order applies to that Order.
 
-# **2\. 	SERVICES**
+# 2\. 	SERVICES
 
 **2.1 	Performance Standard.** The Supplier shall perform the Services with due skill, care and diligence in accordance with generally accepted professional standards applicable to services of a similar nature. Measurable performance targets ("Service Levels") apply only if expressly set out in the relevant Statement of Work.
 
@@ -93,7 +93,7 @@ Where a Statement of Work identifies Key Personnel, the Supplier shall not repla
 
 **2.12 	Client Policies.** The Supplier shall comply with documented Client policies to the extent they are provided in advance, applicable to the Services and not materially more onerous than this Agreement. Material additional cost is subject to Change Control.
 
-# **3\. 	FEES AND PAYMENT**
+# 3\. 	FEES AND PAYMENT
 
 **3.1 	Fees.** Fees are as set out in the applicable Statement of Work or, if none, the Rate Card in force at the date of the Statement of Work. Fees exclude expenses, travel and third-party costs unless expressly stated.
 
@@ -115,7 +115,7 @@ Where a Statement of Work identifies Key Personnel, the Supplier shall not repla
 
 **3.10 	Electronic Billing.** The Supplier issues invoices as structured electronic invoices via the Peppol network in accordance with the Belgian mandatory B2B electronic invoicing regime. Receipt of a structured invoice through the Peppol network constitutes receipt under Clause 3.2. Where the Client additionally requires submission through a designated procurement platform, the Client shall provide onboarding materials and reasonable implementation support, and the Supplier shall comply with reasonable platform requirements, including specified formats and order references. Platform requirements operate in addition to, and do not displace, delivery via Peppol, and do not alter payment terms under Clause 3.2; delay caused by platform malfunction or incomplete onboarding does not constitute late invoicing. Material costs of platform compliance (including subscription fees and mandatory integrations) are reimbursable expenses unless the Statement of Work provides otherwise. A purchase order is an administrative document for payment processing and does not modify the Agreement.
 
-# **4\. 	INTELLECTUAL PROPERTY RIGHTS**
+# 4\. 	INTELLECTUAL PROPERTY RIGHTS
 
 **4.1 	Background IP.** Each Party retains all rights in its Background IP. No rights transfer except as expressly stated. Each Party grants the other a non-exclusive, royalty-free licence to use its Background IP solely to the extent necessary to perform or receive the Services.
 
@@ -139,7 +139,7 @@ Where a Deliverable incorporates Supplier Materials and bespoke elements, only t
 
 **4.10 	Right of Retention.** Pending payment in full of all Fees due and payable under the applicable Statement of Work, the Supplier may retain possession, including constructive possession, of all Deliverables, source code, documentation and work product (retentierecht / droit de rétention, Articles 73 to 76 of the Act of 11 July 2013 on security interests in movable assets). This right is in addition to and without prejudice to the suspension defence under Article 5.239 of the Belgian Civil Code, the suspension right in Clause 3.5 and the pre-payment licence in Clause 4.5. The Supplier shall release retained materials within five (5) Business Days of receipt of payment. Exercise of this right does not constitute breach of any delivery obligation..
 
-# **5\. 	CONFIDENTIALITY**
+# 5\. 	CONFIDENTIALITY
 
 **5.1 	Obligations.** Each Party (as "Receiving Party") shall: (a) use the other's Confidential Information solely to exercise rights or perform obligations under this Agreement; (b) protect it with at least reasonable care; and (c) disclose it only to Affiliates, employees, subcontractors or professional advisers with a need to know, each bound by equivalent obligations. The Receiving Party is liable for breach by any person to whom it disclosed Confidential Information.
 
@@ -153,7 +153,7 @@ Where a Deliverable incorporates Supplier Materials and bespoke elements, only t
 
 **5.6	Benchmarking Restriction.** The Client shall not disclose the Supplier's rates, fee structure, pricing models or material commercial terms to any third party for benchmarking or rate comparison without prior written consent. Where the Client's internal governance requires benchmarking: (a) the Client shall notify the Supplier in advance, identifying the benchmarking provider and scope; (b) the benchmarking provider shall be bound by obligations no less protective than Clause 5.1; and (c) Supplier data shall be anonymised before inclusion in any report disclosed beyond the Client's internal decision-makers. Where the Enterprise Addendum applies, Clause E.6 replaces this Clause 5.6 in its entirety.
 
-# **6\. 	WARRANTIES AND REMEDIES**
+# 6\. 	WARRANTIES AND REMEDIES
 
 **6.1 	Mutual Warranties.** Each Party warrants that it has full power and authority to enter into and perform this Agreement, the person executing this Agreement is duly authorised, and it is not subject to any restriction that would prevent or materially impair performance.
 
@@ -165,7 +165,7 @@ Where a Deliverable incorporates Supplier Materials and bespoke elements, only t
 
 **6.5 	Exclusive Remedy.** The Client's sole remedy for warranty breach is: (a) prompt written notice; (b) a reasonable opportunity to cure (not less than ten (10) Business Days); and (c) if uncured, refund of the applicable portion of Fees. This does not limit indemnification under Clause 7.3 or termination under Clause 8.2.
 
-# **7\. 	LIABILITY AND INDEMNITIES**
+# 7\. 	LIABILITY AND INDEMNITIES
 
 **7.1 	Liability Cap and Basis.** This Clause 7 applies to all claims arising out of or in connection with this Agreement, whether contractual, extra-contractual (including under Book 6 of the Belgian Civil Code), statutory or otherwise, to the fullest extent permitted by law.
 
@@ -207,7 +207,7 @@ The Parties acknowledge that the limitations in this Clause reflect a proportion
 
 **7.10 	Protection of Personnel**. The limitations and exclusions in this Clause 7 apply for the benefit of each Party and of its directors, officers, employees, freelancers, subcontractors and other auxiliaries (hulppersonen / auxiliaires). Each such person may invoke this Clause directly as a stipulation for the benefit of a third party (beding ten behoeve van een derde). No such person bears any personal liability to the other Party in connection with this Agreement beyond the liability the engaging Party itself would bear under this Clause 7\.
 
-# **8\. 	TERM AND TERMINATION**
+# 8\. 	TERM AND TERMINATION
 
 **8.1 	Term.** This Agreement commences on the Effective Date and continues until terminated. Each Statement of Work has its own term.
 
@@ -223,7 +223,7 @@ The Parties acknowledge that the limitations in this Clause reflect a proportion
 
 **8.6 	Transition Assistance.** The Supplier shall provide transition assistance for up to thirty (30) calendar days (the "Wind-Down Period"), including: (a) return of Client Data in machine-readable format; (b) a handover summary; and (c) reasonable cooperation with any incoming provider. Transition assistance is charged at standard rates. The Supplier shall delete Client Data within thirty (30) calendar days of the Wind-Down Period and certify deletion on request. Where the Enterprise Addendum applies, Clause E.11 replaces this Clause 8.6 in its entirety. No Statement of Work may derogate below this standard except by Change Order expressly identified as such.
 
-# **9\. 	COMPLIANCE** 
+# 9\. 	COMPLIANCE
 
 **9.1 	General.** Each Party shall perform its obligations under this Agreement in compliance with applicable law. The engagement of Sub-Processors is governed exclusively by Annex D, Section 9\.
 
@@ -243,7 +243,7 @@ The Parties acknowledge that the limitations in this Clause reflect a proportion
 
 **9.9	Business Continuity.** The Supplier shall maintain a business-continuity and disaster-recovery plan proportionate to the nature and criticality of the Services. The plan shall provide for: (a) recovery of critical Services within the recovery-time objective specified in the applicable Statement of Work (or, where none is specified, within forty-eight (48) hours); (b) regular testing at least annually; and (c) a summary of test results on reasonable request. The Supplier shall notify the Client without undue delay of any event that activates the plan and provide regular updates until Services are restored.
 
-# **10\. 	DISPUTE RESOLUTION**
+# 10\. 	DISPUTE RESOLUTION
 
 **10.1 	Escalation.** Before commencing proceedings, the Parties shall: 
 
@@ -257,9 +257,9 @@ If unresolved thirty (30) calendar days after mediation commences, either Party 
 
 **10.3 	Governing Law and Jurisdiction.** This Agreement is governed by Belgian law, without regard to conflict-of-laws rules. The courts of Antwerp have exclusive jurisdiction.
 
-# **11\. 	GENERAL PROVISIONS**
+# 11\. 	GENERAL PROVISIONS
 
-### *Group A \- Structural Provisions*
+### Group A \- Structural Provisions
 
 **11.1 	Assignment.** Neither Party may assign without prior written consent (not to be unreasonably withheld), except: (a) to an Affiliate, provided the assignor remains jointly and severally liable; or (b) on merger, acquisition or sale of substantially all assets, provided the successor assumes all obligations in writing.
 
@@ -279,7 +279,7 @@ Where a Government Authority or social security institution (RSZ/ONSS) reclassif
 
 **11.4 	Non-Solicitation.** During the term of any active Statement of Work and for twelve (12) months after the end date of the last active Statement of Work, neither Party shall directly solicit for employment or engagement any employee or contractor of the other who performed forty (40) or more billable hours on an engagement. General recruitment advertising, unsolicited applications and hires resulting from a public posting without direct solicitation are excluded.
 
-### *Group B \- Interpretive Provisions*
+### Group B \- Interpretive Provisions
 
 **11.5 	Entire Agreement.** This Agreement (including the Recitals and all Annexes expressly incorporated) constitutes the entire agreement and supersedes all prior negotiations, representations and agreements. Any prior NDA remains in effect for disclosures made before the Effective Date; disclosures after the Effective Date are governed by Clause 5\. To the extent permitted by law, each Party waives any claim for misrepresentation not set out in this Agreement.
 
@@ -291,7 +291,7 @@ Where a Government Authority or social security institution (RSZ/ONSS) reclassif
 
 **11.9 	Severability.** If any provision is unenforceable, it shall be modified to the minimum extent necessary; if modification is impossible, severed. Remaining provisions remain in full effect.
 
-### *Group C \- Operational Provisions*
+### Group C \- Operational Provisions
 
 **11.10 	Notices.** Formal notices shall be in writing in English, Dutch or French. A notice is deemed given: (a) on receipt if by hand or courier; (b) three (3) Business Days after posting domestically, five (5) internationally; or (c) on successful email transmission, provided a confirmatory copy follows within two (2) Business Days. Notices received outside Business Hours are deemed received at 09:00 on the next Business Day.
 
@@ -303,7 +303,7 @@ Where a Government Authority or social security institution (RSZ/ONSS) reclassif
 
 **11.14 	Further Assurance.** Each Party shall, at its own cost, execute such documents and take such actions as the other Party may reasonably request to give full effect to the provisions of this Agreement.
 
-### *Group D \- Performance Doctrines*
+### Group D \- Performance Doctrines
 
 **11.15 	Good Faith.** Each Party shall perform its obligations in good faith in accordance with Article 5:73 of the Belgian Civil Code.
 
@@ -319,15 +319,14 @@ Force Majeure does not relieve the Client of payment obligations that became due
 
 The invoking Party shall notify the other in writing, specifying the changed circumstances and their impact on the commercial balance of the engagement. The Parties shall renegotiate in good faith within thirty (30) calendar days. During renegotiation, performance continues under existing terms. If no agreement is reached within that period, either Party may request the competent court to adapt or terminate the affected Statement of Work in accordance with Article 5.74. This Clause 11.17 does not apply to fee obligations that became due before the hardship event, nor to circumstances that merely reduce a Party's expected margin or profitability. Except as provided in this Clause 11.17, no Party may invoke any doctrine of unforeseen circumstances or economic imbalance to suspend or avoid performance.
 
-### *Group E \- Execution Mechanics*
+### Group E \- Execution Mechanics
 
 **11.18 	Counterparts and Evidence.** This Agreement may be executed in counterparts. Electronic signatures (including eIDAS-compliant services) have the same effect as handwritten signatures. The Parties agree, in accordance with Article 8.9 of the Belgian Civil Code, that electronic records (including email, system logs and digitally signed documents) have the same probative value as original signed documents between the Parties.
 
 **11.19 	Survival.** The following provisions survive termination: Clauses 1, 4, 5, 6, 7, 8.5, 8.6, 9, 10, 11, and any provision that by its nature is intended to survive.
 
-# 
 
-# **12\. EXECUTION**
+# 12\. EXECUTION
 
 The Parties have executed this Agreement through their duly authorised representatives as of the date(s) set forth below. Where the Parties sign on different dates, the later date is the Effective Date.
 
@@ -341,7 +340,7 @@ a private limited liability company (besloten vennootschap) incorporated under t
 
 \- End of SERVICES TERMS \-
 
-# **ANNEX A \- DEFINITIONS**
+# ANNEX A \- DEFINITIONS
 
 Capitalised terms bear the following meanings. Where a term is also defined in the MSA body or a Statement of Work, the hierarchy in Clause 1.3 applies.
 

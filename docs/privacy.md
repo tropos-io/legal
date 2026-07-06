@@ -5,6 +5,8 @@ nav_order: 20
 last_modified_date: 2026-07-06
 ---
 
+# PRIVACY POLICY
+
 _Last updated and effective: {{ page.last_modified_date | date: "%B %-d, %Y" }}_
 
 ## Table of contents
@@ -173,7 +175,7 @@ We may collect personal data about you from external sources, including:
 
 We only process such data if we can demonstrate a legitimate interest under applicable law, and you will always have the right to object or opt out.
 
-## 5. Purposes and Legal Bases for Processing
+# 5. Purposes and Legal Bases for Processing
 
 We only process your personal data when we have a valid legal basis under the General Data Protection Regulation (GDPR). This section sets out the purposes for which we process personal data and the lawful grounds on which we rely.
 
@@ -390,7 +392,7 @@ In cases not covered above, we may share your personal data if you give us expli
 
 **Legal basis**: Consent.
 
-# 8. Cookies and Tracking Technologies**
+# 8. Cookies and Tracking Technologies
 
 
 We use cookies and similar technologies to operate our website, improve its performance, analyse usage, and support our marketing efforts. This section explains how we use these technologies and your choices in managing them.
@@ -456,8 +458,7 @@ These tools collect pseudonymous identifiers (e.g., IP address, device ID, cooki
 
 You can opt out of these cookies via our cookie settings or, in some cases, through the third-party provider’s opt-out mechanisms.
 
-**8.4 Visitor Identification Tools**
-------------------------------------
+## 8.4 Visitor Identification Tools
 
 We may use account-based marketing or website visitor identification tools (e.g., Albacross, Leadfeeder) to match IP addresses with company-level data and identify potential B2B leads.
 
@@ -679,7 +680,7 @@ We use your personal data to:
 * Comply with legal and regulatory requirements (e.g., equal opportunity reporting).
   
 
-## 14.3 Legal bases:
+## 14.3 Legal Bases
 
 * Article 6(1)(b) GDPR — processing is necessary to take steps prior to entering into a contract;
   
@@ -733,7 +734,7 @@ When acting as a processor, Tropos:
 
 Any personal data processed in this capacity is subject to the client’s own privacy notice and governance policies. If you have questions about how your data is handled in a client project, please contact the relevant organisation directly.
 
-# 16 Data Protection Officer and Contact Details
+# 16. Data Protection Officer and Contact Details
 If you have any questions, concerns, or requests regarding this Privacy Policy or our handling of your personal data, you may contact us using the details below.
 
 **Data Controller**:

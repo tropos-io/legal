@@ -7,7 +7,7 @@ last_modified_date: 2026-07-06
 
 
 
-# **ANNEX J \- INFORMATION SECURITY FRAMEWORK**
+# ANNEX J \- INFORMATION SECURITY FRAMEWORK
 
 _Last updated and effective: {{ page.last_modified_date | date: "%B %-d, %Y" }}_
 
