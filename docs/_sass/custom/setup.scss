@@ -1,6 +1,3 @@
 // Imported after theme defaults, before color schemes/modules consume
-// $body-font-family. Elevates the whole site to a serif register
-// consistent with typeset legal instruments (contracts, deeds, and
-// magic-circle firm documents are set in a serif face, not a UI sans),
-// rather than the theme's default system-ui sans stack.
-$body-font-family: "Source Serif 4", Georgia, "Times New Roman", Times, serif;
+// $body-font-family.
+$body-font-family: "Inter", system-ui, -apple-system, "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif;

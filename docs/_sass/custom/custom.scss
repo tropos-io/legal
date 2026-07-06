@@ -1,17 +1,11 @@
 // Typography overrides for a legal-document reading experience.
 //
-// Theme defaults (just-the-docs v0.12.0): h1 is 32px/weight 300, h2 is 18px,
-// h3 is 16px — the same size as body paragraphs (16px). That makes h1 feel
-// oversized and disconnected, while h2/h3 barely step down from running
-// text. Numbered clause headings (used throughout the legal documents) are
-// all h1, so hierarchy here comes from weight, letter-spacing and case, not
-// size — h1 stays close to body size (matching how numbered headings read
-// in a typeset contract) but at full bold with wide tracking and a rule
-// beneath, the way a firm's letterhead sets its own name off from the text
-// below it.
+// Explicit pixel scale: h1 12px, h2 11px, h3 10.5px, body 10px. h2/h3 are
+// interpolated between body and h1 to keep a monotonic step-down (h1 > h2 >
+// h3 > body) since only h1 and body were specified.
 .main-content {
   h1 {
-    font-size: 1.05em;
+    font-size: 12px;
     font-weight: 700;
     letter-spacing: 0.05em;
     line-height: $body-heading-line-height;
@@ -21,20 +15,20 @@
   }
 
   h2 {
-    font-size: 1em;
+    font-size: 11px;
     font-weight: 700;
     letter-spacing: 0.02em;
     line-height: $body-heading-line-height;
   }
 
   h3 {
-    font-size: 0.95em;
+    font-size: 10.5px;
     font-weight: 700;
     line-height: $body-heading-line-height;
   }
 
   p {
-    font-size: 1em; // 16px
+    font-size: 10px;
     line-height: 1.65;
     margin-bottom: 1em;
   }
