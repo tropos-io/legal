@@ -1,389 +1,407 @@
 ---
-title: Service Terms
+title: General Terms and Conditions of Sales (GTCS)
 permalink: /gtcs/
 ---
 
-# **SERVICES TERMS**
 
-These Terms are issued by Tropos Management BV (BE 0632.761.979, Mechelsesteenweg 180/6A, 2018 Antwerp) (the "Supplier") and govern all services it provides to the client identified in the execution page or the applicable Order (the "Client"). They apply as a master services agreement where executed by both Parties, and otherwise as general terms and conditions under Clause 1.9.
+0\. Preamble
+------------
 
-WHEREAS:
+This Agreement establishes a collaborative framework for the delivery of modern data services, optimized for scalability, innovation, and measurable business value. The Supplier combines technical execution with strategic support to accelerate the Client’s data transformation goals.
 
-(A) The Supplier provides services in data engineering, analytics and cloud infrastructure.
+1\. Definitions
+---------------
 
-(B) The Client wishes to engage the Supplier to perform such services under Statements of Work governed by this Agreement.
+### Affiliate
 
-(C) This Agreement establishes a modular framework under which services are performed and Annexes apply only where expressly incorporated.
+Any entity that directly or indirectly controls, is controlled by, or is under common control with a Party (where "control" means the power to direct management or policies through ownership of securities, by contract, or otherwise).
 
-(D) Each Party enters into this Agreement in the course of its business and on an arm’s length basis.
+### Client
 
-THE PARTIES AGREE AS FOLLOWS:
+The customer receiving the Services or Deliverables under this Agreement (also referred to as the "Buyer").
 
-# **1\. 	DEFINITIONS, INTERPRETATION AND STRUCTURE**
+### Confidential Information
 
-**1.1 	Defined Terms.** Capitalised terms have the meanings given in Annex A (Definitions). Where this Agreement defines a term in the body text, that definition prevails over Annex A to the extent of any inconsistency.
+All non-public information, in any form, disclosed by one Party (the “Disclosing Party”) to the other (the “Receiving Party”) that is identified as confidential or would reasonably be understood as confidential. This includes, but is not limited to: business plans, financial data, customer lists, technical documentation, source/object code, trade secrets, and this Agreement's terms. Excludes information the Receiving Party can prove was:
 
-**1.2 	Interpretation.**  Headings do not affect interpretation. References to legislation include amendments. “Including” means without limitation. Writing includes email. The contra proferentem rule does not apply.
+*   already lawfully known;
+    
+*   publicly available through no breach;
+    
+*   lawfully obtained from a third party; or
+    
+*   independently developed without reference to the Disclosing Party’s Confidential Information.
+    
 
-**1.3 	Modular Framework.** This Agreement establishes the general terms governing Services performed under Statements of Work ("SOWs"). Each SOW shall define the scope, deliverables, fees, term and applicable Annexes. No Annex applies unless expressly incorporated in the relevant SOW, except: (a) Annex A (Definitions), Annex B (Commercial Framework, including Schedule 1), Annex G (Insurance) and Annex J (Information Security Framework), which apply to all engagements; and (b) Annex D (Data Processing Addendum), which applies automatically to any engagement involving Processing of Personal Data. The "Binding Scope" means the scope, deliverables, timelines and fees specified in the applicable SOW.
+### Deliverables
 
-**1.4 	Order of Precedence.** In the event of inconsistency, the following applies in descending order of precedence: (a) the Data Processing Addendum (Annex D), in respect of data protection matters only; (b) the body of this Agreement (including, where executed, the Enterprise Addendum at Annex E); (c) the applicable Annex; and (d) the relevant Statement of Work, save where a higher-ranking document expressly permits the Statement of Work to derogate.
+Any tangible or intangible work products or outputs described in a Statement of Work (“SOW”).
 
-**1.5 	Amendments.** This Agreement may be amended only by written instrument signed by authorised representatives of both Parties.
+### Intellectual Property Rights (IPRs)
 
-**1.6 	Non-Exclusivity.** Unless expressly stated otherwise in a Statement of Work, this Agreement does not confer exclusive rights on either Party.
+All intellectual property rights globally, including but not limited to copyrights, database rights, trade secrets, patents, designs, trademarks, domain names, know-how (registered or not), and applications for any of the foregoing.
 
-**1.7 	Concurrent Statements of Work.** Concurrent Statements of Work are performed independently unless they expressly identify shared dependencies. Conflicts between concurrent Statements of Work shall be resolved through Change Control under Clause 2.10.
+### Personal Data
 
-**1.8	 Language.** This Agreement is executed in English. In the event of any translation, the English version prevails between the Parties.
+Information relating to an identified or identifiable natural person, as defined under the General Data Protection Regulation (GDPR).
 
-**1.9 	Adoption.** This Agreement applies: (a) as a master services agreement, where executed by both Parties; or (b) as general terms and conditions, where incorporated by reference into a quote or proposal of the Supplier (an "Order"). The Client accepts under (b) by signing the Order, confirming it in writing or instructing commencement. An accepted Order constitutes a Statement of Work, and the first acceptance is the Effective Date. This Agreement applies to the exclusion of any terms of the Client, which are expressly rejected and do not apply, whether or not referenced in a purchase order or other Client document.
+### Services
 
-**1.10 Versions.**  Where executed under Clause 1.9(a), this Agreement is amended only under Clause 1.5. Where incorporated under Clause 1.9(b), the version published at legal.tropos.io/terms in force at the date of the Order applies to that Order.
+The professional services provided by the Supplier as defined in a SOW or equivalent written agreement.
 
-# **2\. 	SERVICES**
+### Specific Developments
 
-**2.1 	Performance Standard.** The Supplier shall perform the Services with due skill, care and diligence in accordance with generally accepted professional standards applicable to services of a similar nature. Measurable performance targets ("Service Levels") apply only if expressly set out in the relevant Statement of Work.
+Deliverables expressly identified in a SOW as bespoke, exclusive, or developed solely for the Client.
 
-Where Service Levels apply, performance shall be measured and reported monthly. Credits applied against future invoices as the sole financial remedy for Service Level failure ("Service Credits") and their calculation shall be defined in the Statement of Work. Unless otherwise specified, aggregate Service Credits in any twelve-month period shall not exceed thirty per cent (30%) of annual Fees under the affected Statement of Work. Service Credits are without prejudice to termination under Clause 8.2.
+### Generic Developments
 
-**2.2 	Supplier Methods.** Unless otherwise agreed, the Supplier retains discretion as to tools, methodologies, personnel and processes, provided such use does not materially impair the Client's systems or regulatory compliance.
+Templates, libraries, modules, or reusable frameworks created by the Supplier not tailored exclusively for the Client.
 
-**2.3 	Client Responsibilities.** The Client shall: (a) provide timely access to personnel, systems, information and facilities reasonably required; (b) ensure information provided is complete and accurate in all material respects; (c) obtain and maintain necessary licences and third-party rights; and (d) not require the Supplier to perform any unlawful act. The Supplier may rely on Client-provided information without independent verification.
+### Supplier
 
-**2.4 	Dependencies and Time Extensions.** If the Supplier's performance is delayed by any act or omission of the Client or its third-party providers, the Supplier is entitled to: (a) a reasonable time extension; and (b) an equitable fee adjustment to the extent additional effort is incurred. The Supplier shall notify the Client of any anticipated delay.
+Tropos or its designated legal entity providing Services to the Client under this Agreement.
 
-**2.5 	Acceptance and Rejection.** Each Statement of Work shall define objective Acceptance Criteria. Absent specified criteria, a Deliverable is accepted if it performs its principal documented functions without material error. Cosmetic defects, defects affecting non-critical functions or defects readily remediable do not constitute material non-conformity.
+2\. Scope of Services
+---------------------
 
-Deployment in production constitutes acceptance unless the Client notifies the Supplier in writing before deployment that deployment is required for operational urgency and does not constitute acceptance.
+### 2.1 Engagement
 
-The Client shall notify rejection in writing within the review period specified in the Statement of Work, identifying the non-conformity by reference to the Acceptance Criteria or Binding Scope. Failure to do so constitutes deemed acceptance.
+Supplier shall provide the Services and Deliverables described in each Statement of Work ("SOW") agreed and signed by both Parties. Each SOW shall specify the scope, description of Deliverables (including any acceptance criteria), fee structure, milestones, timeline, assumptions, dependencies, and Client responsibilities. The Parties shall cooperate in good faith to fulfil their respective obligations under each SOW.
 
-Deemed acceptance does not prejudice the Client's right to notify a latent defect that could not reasonably have been identified during the review period, provided notice is given within sixty (60) calendar days of acceptance. This paragraph is the exclusive regime for latent defects and applies notwithstanding Clause 6.4.
+### 2.2 Change Control
 
-**2.6 	Remediation.** Upon valid rejection, the Supplier shall use reasonable endeavours to remediate and resubmit. One remediation cycle is included in the Fees; further cycles may be charged at applicable rates.
+No modification to the scope of Services or Deliverables shall be effective unless documented in a written amendment to the SOW signed by both Parties. Absent such agreement, performance shall continue in accordance with the existing SOW.
 
-**2.7 	Key Personnel.** Where a Statement of Work identifies key personnel, the Supplier shall use reasonable endeavours to maintain continuity and, if replacement is necessary, provide personnel of comparable qualification.
+### 2.3 Performance Standards
 
-**2.8 	Subcontracting.** The Supplier may subcontract any part of the Services, including to freelancers, and remains responsible for their performance. Subcontractors shall be subject to confidentiality and data protection obligations no less protective than this Agreement. Before first deploying a subcontractor on an engagement, the Supplier shall notify the Client, identifying the subcontractor and its role. The Client may object on reasonable grounds within five (5) Business Days; absent objection, deployment proceeds.
+Supplier shall perform the Services using reasonable skill and care, in a professional and workmanlike manner consistent with industry standards. Client shall grant timely access to facilities, systems, personnel, or other inputs reasonably required for delivery. Client acknowledges that any timeline or fee estimate is contingent on the accuracy and timeliness of its cooperation.
 
-Where a Statement of Work identifies Key Personnel, the Supplier shall not replace an individual so identified with a subcontractor without prior written notice to the Client. Subcontractor time is invoiced at the rate for the applicable role set out in Schedule 1 (Rate Card) to Annex B.
+### 2.4 Subcontracting
 
-**2.9	Specification Errors.** If the Supplier identifies a material error or ambiguity in the Binding Scope, it shall notify the Client promptly and shall not proceed with a non-conforming interpretation without the Client’s written approval.
+Supplier may engage subcontractors or Affiliates to perform the Services, in whole or in part, provided Supplier remains fully responsible for their acts and omissions. All subcontractors shall be bound by confidentiality and data protection obligations equivalent to those in this Agreement.
 
-**2.10 	Change Control.**
+### 2.5 No Additional Commitments
 
-(a) Either Party may propose a change to the scope, Deliverables, timelines or Fees by written request (a “Change Request”).
+Client acknowledges that it has not relied on any representations not expressly stated in these Terms or the applicable SOW. These Terms do not create a partnership, joint venture, or employment relationship. Services are for internal business use only; resale or third-party access requires Supplier’s prior written consent.
 
-(b) A Change Request is binding only if agreed in writing by authorised representatives of both Parties.
+### 2.6 Deployment Assumptions
 
-(c) Until a Change Request is agreed, the Supplier shall continue to perform the Services in accordance with the existing Statement of Work.
+The Parties acknowledge that the Fees, timeline, and resource allocation under each SOW are based on assumptions and dependencies as described therein. If such assumptions prove materially inaccurate, the Supplier shall be entitled to adjust the Services, timeline, and Fees upon reasonable written notice.”
 
-(d) The Supplier is not obliged to perform any work outside the scope of the applicable Statement of Work unless and until a Change Request is agreed.
+### 2.7 Non-Cancellable Resource Reservation
 
-(e) The Supplier may implement changes required to maintain security, integrity or compliance, and shall notify the Client promptly.
+Where resources are reserved exclusively for the Client under a Statement of Work, they shall be deemed billable from the reservation start date, irrespective of actual deployment or consumption
 
-**2.11 	Conflict of Interest.** The Supplier shall promptly disclose any circumstance giving rise to a conflict of interest, including provision of materially similar services to a direct competitor. Where required, the Supplier shall maintain organisational and technical measures to prevent cross-engagement disclosure of Confidential Information ("Information Barriers"). Failure to disclose a material conflict is a material breach.
+### 2.8 Temporary Use
 
-**2.12 	Client Policies.** The Supplier shall comply with documented Client policies to the extent they are provided in advance, applicable to the Services and not materially more onerous than this Agreement. Material additional cost is subject to Change Control.
+These Terms shall govern Services unless and until replaced by a Master Services Agreement between the Parties, which shall supersede these Terms.
 
-# **3\. 	FEES AND PAYMENT**
+### 2.9 Duration Cap
 
-**3.1 	Fees.** Fees are as set out in the applicable Statement of Work or, if none, the Rate Card in force at the date of the Statement of Work. Fees exclude expenses, travel and third-party costs unless expressly stated.
+These Terms apply only to Services delivered under the first SOW signed by the Parties. For any subsequent engagements, the Parties shall enter into a Master Services Agreement.
 
-**3.2 	Payment.** Invoices are due within thirty (30) calendar days of receipt. An invoice is deemed received on email transmission to the designated invoicing contact or on actual receipt if delivered otherwise. Disputed amounts must be notified within ten (10) Business Days, specifying the basis of dispute. Undisputed amounts remain payable when due. Only amounts properly disputed in good faith may be withheld. No Statement of Work shall specify payment terms exceeding the maximum permitted by mandatory law.
+3\. Fees and Payment
+--------------------
 
-**3.3 	Non-Contingency.** Fees are not contingent on utilisation, internal approvals, business outcomes or acceptance status, except where a Statement of Work expressly provides otherwise.
+### 3.1 Fees
 
-**3.4 	Late Payment.** Overdue undisputed amounts bear interest at the rate prescribed by the Belgian Act of 2 August 2002, accruing daily. A fixed compensation of ten per cent (10%) of the overdue amount is payable as recovery cost.
+The Client shall pay the fees for the Services as set out in the applicable SOW or invoice. Fees may be based on:(a) time and materials (at specified hourly or daily rates);(b) fixed price;(c) milestones; or(d) other fee models as agreed in writing.
 
-**3.5 	Suspension and Rate Adjustment**. If undisputed Fees remain unpaid more than thirty (30) calendar days after the Due Date, the Supplier may: (a) suspend performance on reasonable written notice; and (b) withdraw any discount or Blended Rate and invoice future Services at the Core Rates in Schedule 1 for the period of default. During suspension, the Supplier is not liable for delay and timelines extend accordingly, plus a mobilisation period not exceeding ten (10) Business Days upon resumption.
+Where time and materials or hourly rate models apply, the Supplier will invoice based on actual hours/days worked at the agreed rates. If a fixed or milestone fee model is used, the SOW will specify the payment schedule tied to project milestones or deliverable acceptance.
 
-**3.6 	Set-Off.** The Client shall pay all amounts due without set-off, deduction or withholding, except for deductions required by law and amounts properly disputed under Clause 3.2. The Supplier may set off amounts owed to it against amounts it owes the Client on fifteen (15) Business Days' written notice.
+Supplier may, upon 30 days’ notice, convert any T&M engagement exceeding three months into a minimum commitment structure, subject to mutually agreed rates and resourcing plans.
 
-**3.7 	Payment Not Acceptance.** Payment does not constitute acceptance or waiver of any right under this Agreement.
+### 3.2 Invoicing and Payment Terms
 
-**3.8 	VAT.** All Fees are exclusive of VAT. Where the Client holds a valid intra-Community VAT identification number, the Supplier may issue invoices without Belgian VAT under reverse-charge rules; the Client shall account for VAT in its member state.
+The Supplier shall invoice the Client in accordance with the schedule or milestones in the SOW, or, if not specified, on a monthly basis for work performed and expenses incurred. Except as otherwise specified in a SOW, all invoices are payable within thirty (30) calendar days from the invoice date. The Client shall make payments in the currency specified, via the method indicated on the invoice or SOW.
 
-**3.9 	Authority Limits.** The Engagement Partner (being the Supplier's senior representative for commercial governance under a Statement of Work) may apply pricing, surcharges and premiums under Annex B but shall not: (a) waive a Minimum Engagement Value; (b) modify Volume Rebate tiers; (c) alter the liability cap; or (d) amend this Agreement. Any deviation requires a written amendment under Clause 1.5.
+### 3.3 Expenses
 
-**3.10 	Electronic Billing.** The Supplier issues invoices as structured electronic invoices via the Peppol network in accordance with the Belgian mandatory B2B electronic invoicing regime. Receipt of a structured invoice through the Peppol network constitutes receipt under Clause 3.2. Where the Client additionally requires submission through a designated procurement platform, the Client shall provide onboarding materials and reasonable implementation support, and the Supplier shall comply with reasonable platform requirements, including specified formats and order references. Platform requirements operate in addition to, and do not displace, delivery via Peppol, and do not alter payment terms under Clause 3.2; delay caused by platform malfunction or incomplete onboarding does not constitute late invoicing. Material costs of platform compliance (including subscription fees and mandatory integrations) are reimbursable expenses unless the Statement of Work provides otherwise. A purchase order is an administrative document for payment processing and does not modify the Agreement.
+If the SOW states that expenses are billable, the Client shall reimburse the Supplier for reasonable out-of-pocket expenses incurred in the performance of the Services, provided that:(a) the Supplier obtains the Client’s approval for any significant travel or lodging expenses; and(b) the Supplier provides receipts or documentation for reimbursable expenses upon request.
 
-# **4\. 	INTELLECTUAL PROPERTY RIGHTS**
+### 3.4 Taxes
 
-**4.1 	Background IP.** Each Party retains all rights in its Background IP. No rights transfer except as expressly stated. Each Party grants the other a non-exclusive, royalty-free licence to use its Background IP solely to the extent necessary to perform or receive the Services.
+All fees are exclusive of any value-added tax (VAT), sales tax, service tax, or similar taxes. The Client is responsible for any such taxes on the Services (other than taxes on the Supplier’s income). If the Supplier is required by law to collect indirect taxes from the Client, the Supplier will itemize and add such taxes to the invoices. The Client shall provide any applicable exemption certificates if it is exempt from certain taxes.
 
-**4.2 	Supplier Materials.** All methodologies, frameworks, templates, tools, accelerators and proprietary materials of the Supplier remain the Supplier's exclusive property. Subject to payment in full, the Supplier grants the Client a non-exclusive, non-transferable, non-sublicensable licence to use Supplier Materials solely for internal business purposes and solely to the extent incorporated into Deliverables. The Client shall not use Supplier Materials independently of the Deliverables, for competing solutions, benchmarking or reverse-engineering. The Client shall not benchmark the Services or Deliverables for external publication without prior written consent.
+### 3.5 Late Payments
 
-**4.3 	Specific Developments.** Intellectual Property Rights in Specific Developments vest in the Client upon payment in full of all Fees under the applicable Statement of Work. Where an amount is disputed in accordance with Clause 3.2, vesting occurs upon payment of all undisputed Fees and, to the extent the dispute is resolved in the Supplier's favour, payment of the resolved amount. Until vesting, rights remain with the Supplier and the Client holds only the pre-payment licence in Clause 4.5. The Supplier shall execute documents reasonably required to perfect the assignment. A Deliverable not expressly identified as a Specific Development is Supplier Materials..
+If the Client fails to pay any invoice by its due date, the Supplier reserves the right to:(a) charge late interest on the overdue amount at the rate of 8% per annum (or the maximum rate permitted by law, if lower), accruing from the due date until payment is received; and(b) after giving written notice, suspend Services or withhold Deliverables if any payment is more than 30 days overdue and not subject to a good-faith dispute.The Client shall pay all reasonable costs (including legal fees) incurred by the Supplier in collecting overdue amounts.
 
-**4.4 	Exclusions from Assignment.** The assignment in Clause 4.3 does not apply to: (a) Background IP; (b) Supplier Materials; (c) generic methodologies, know-how, techniques, concepts or experience; or (d) third-party components.
+### 3.6 Fee Re-Negotiation Trigger
 
-Where a Deliverable incorporates Supplier Materials and bespoke elements, only the bespoke elements are Specific Developments. The Supplier Materials component is licensed under Clause 4.2. To the extent Background IP or Supplier Materials are incorporated into Deliverables, the licence in Clause 4.2 applies in perpetuity.
+If the Client requests any changes to scope, timeline, or milestones, the Supplier reserves the right to reprice the Services based on current rate cards.
 
-**4.5 	Pre-Payment Licence.** Until payment in full, the Client has a revocable, non-exclusive licence to use Deliverables solely for internal evaluation.
+### 3.7 No Bundling or Volume Discounts
 
-**4.6 	Residual Knowledge.** The Supplier retains the unrestricted right to use general knowledge, experience, methodologies and skills acquired in performing the Services, provided no Confidential Information is disclosed and no Deliverable is reproduced in substantial form.
+The pricing under these Terms is based on individual project scopes and does not include any volume discounts or bundled services, which may be available under a Master Services Agreement.
 
-**4.7 	Third-Party Materials.** Third-Party Materials are subject to their applicable licence terms. The Supplier shall identify material third-party components. The Client shall comply with such licence terms and indemnify the Supplier for breach arising from its use.
+### 3.8 Annual Fee Adjustment
 
-**4.8 	Moral Rights.** To the maximum extent permitted by law, the Supplier waives all moral rights in Specific Developments.
+Fees under this Agreement shall be subject to an automatic annual adjustment on 1 January of each calendar year, based on the evolution of the **Agoria index for technology services wages** published in Belgium.
 
-**4.9 	AI-Assisted Delivery.** Artefacts generated using AI tools in performing the Services (including prompts, embeddings, intermediate outputs, workflows and derived structures) ("Supplier AI Materials") are Supplier Materials, except to the extent they incorporate Client Data or Specific Developments. The Supplier may use Approved AI Tools in performing the Services. The Supplier shall not input Client Confidential Information into any AI tool that is not an Approved AI Tool without the Client's prior written consent. Use of Personal Data with AI tools is governed by Annex D, Section 8\. AI-generated outputs incorporating client-specific data shall be anonymised before use for any other client.
+_Formula:_ New Fee = Base Fee × (Agoria Index at Adjustment Date / Agoria Index at Start Date)
 
-**4.10 	Right of Retention.** Pending payment in full of all Fees due and payable under the applicable Statement of Work, the Supplier may retain possession, including constructive possession, of all Deliverables, source code, documentation and work product (retentierecht / droit de rétention, Articles 73 to 76 of the Act of 11 July 2013 on security interests in movable assets). This right is in addition to and without prejudice to the suspension defence under Article 5.239 of the Belgian Civil Code, the suspension right in Clause 3.5 and the pre-payment licence in Clause 4.5. The Supplier shall release retained materials within five (5) Business Days of receipt of payment. Exercise of this right does not constitute breach of any delivery obligation..
+If the Agoria index ceases to be published, the Parties shall substitute a comparable national labor cost index. Adjusted fees apply to all new work from that date forward. No formal amendment is required to apply this adjustment.
 
-# **5\. 	CONFIDENTIALITY**
+### 3.9 No Most-Favored Pricing Clause
 
-**5.1 	Obligations.** Each Party (as "Receiving Party") shall: (a) use the other's Confidential Information solely to exercise rights or perform obligations under this Agreement; (b) protect it with at least reasonable care; and (c) disclose it only to Affiliates, employees, subcontractors or professional advisers with a need to know, each bound by equivalent obligations. The Receiving Party is liable for breach by any person to whom it disclosed Confidential Information.
+Nothing in this Agreement shall be construed as granting the Client any right to pricing or terms equal to or more favorable than those offered to other customers of the Supplier.
 
-**5.2 	Exceptions.** Clause 5.1 does not apply to information that: (a) was lawfully known before receipt; (b) becomes publicly available through no fault of the Receiving Party; (c) is rightfully received from a third party without restriction; or (d) is independently developed without use of the Disclosing Party's Confidential Information.
+The Supplier may, at its sole discretion, offer different pricing, packages, or commercial terms to other clients, including volume-based, time-bound, or strategic discounts, without obligation to extend such terms to the Client.
 
-**5.3 	Compelled Disclosure.** If required by law to disclose, the Receiving Party shall, to the extent permitted: (a) give prompt prior notice; (b) disclose only the portion legally required; (c) cooperate to obtain confidential treatment; and (d) a disclosure made in good faith through channels established by the Belgian Act of 28 November 2022 or equivalent applicable whistleblower legislation does not constitute a breach of this Clause 5\.
+### 3.10 Deemed Acceptance of Deliverables
 
-**5.4 	Duration.** Confidentiality obligations survive termination for five (5) years. Trade secrets and source code are protected indefinitely or for as long as they qualify under applicable law.
+Unless otherwise stated in a Statement of Work, Deliverables shall be deemed accepted **five (5) business days** following their delivery unless the Client notifies the Supplier in writing of material, specific, and substantiated deficiencies prior to the expiry of that period.
 
-**5.5 	Publicity.** Neither Party may issue a public statement regarding this Agreement without the other's prior written consent. The Supplier may identify the Client as a current or former client in marketing materials without disclosing confidential details.
+Acceptance shall not be unreasonably withheld or delayed. In the absence of timely, detailed rejection, the Deliverables shall be considered fully accepted for contractual and invoicing purposes.
 
-**5.6	Benchmarking Restriction.** The Client shall not disclose the Supplier's rates, fee structure, pricing models or material commercial terms to any third party for benchmarking or rate comparison without prior written consent. Where the Client's internal governance requires benchmarking: (a) the Client shall notify the Supplier in advance, identifying the benchmarking provider and scope; (b) the benchmarking provider shall be bound by obligations no less protective than Clause 5.1; and (c) Supplier data shall be anonymised before inclusion in any report disclosed beyond the Client's internal decision-makers. Where the Enterprise Addendum applies, Clause E.6 replaces this Clause 5.6 in its entirety.
+### 3.10 **Client Dependency for Timeline Commitments**
 
-# **6\. 	WARRANTIES AND REMEDIES**
+All delivery timelines and project milestones are contingent upon the timely performance of the Client’s responsibilities as set out in the Statement of Work, including providing access, information, approvals, and feedback.
 
-**6.1 	Mutual Warranties.** Each Party warrants that it has full power and authority to enter into and perform this Agreement, the person executing this Agreement is duly authorised, and it is not subject to any restriction that would prevent or materially impair performance.
+In case of delay attributable to the Client:
 
-**6.2 	Supplier Warranties.** The Supplier warrants that: (a) the Services shall be performed in accordance with Clause 2.1; (b) personnel deployed shall have the skills and experience appropriate to their role; and (c) to the Supplier's knowledge at delivery, the Deliverables shall not infringe third-party Intellectual Property Rights. The Client's remedies for breach of the warranty in (c) are exclusively those in Clause 7.7(a)(i) and 7.7(d).
+(a) All project timelines will be extended on a day-for-day basis,(b) The Supplier may charge reasonable standby or remobilization fees.
 
-**6.3 	Client Warranties.** The Client further warrants that: (a) information and materials provided are complete, accurate and non-infringing; and (b) it has obtained necessary consents and rights.
+4\. Confidentiality
+-------------------
 
-**6.4 	Disclaimer.** Except as expressly stated in this Agreement, neither Party gives any warranty, representation or undertaking, whether express, implied, statutory or otherwise. To the maximum extent permitted by Belgian law, all implied conditions, warranties and terms (including any implied term as to satisfactory quality, fitness for purpose or conformity with description) are excluded. Claims for hidden defects (verborgen gebreken / vices cachés) are excluded to the extent permitted by law, save as provided in Clause 2.5. The Supplier does not warrant achievement of business outcomes except as expressly set out in the Binding Scope.
+### 4.1 Confidentiality Obligations
 
-**6.5 	Exclusive Remedy.** The Client's sole remedy for warranty breach is: (a) prompt written notice; (b) a reasonable opportunity to cure (not less than ten (10) Business Days); and (c) if uncured, refund of the applicable portion of Fees. This does not limit indemnification under Clause 7.3 or termination under Clause 8.2.
+Each Party shall keep strictly confidential all Confidential Information of the other Party and shall not disclose such information to any third party except as permitted by this Agreement. The Receiving Party shall use the Disclosing Party’s Confidential Information solely for the purpose of performing or receiving the Services under this Agreement and for no other purpose. The Receiving Party shall protect the confidentiality of the Disclosing Party’s Confidential Information using the same degree of care it uses to protect its own similar confidential information, and in no event less than a reasonable standard of care.
 
-# **7\. 	LIABILITY AND INDEMNITIES**
+### 4.2 Permitted Disclosures
 
-**7.1 	Liability Cap and Basis.** This Clause 7 applies to all claims arising out of or in connection with this Agreement, whether contractual, extra-contractual (including under Book 6 of the Belgian Civil Code), statutory or otherwise, to the fullest extent permitted by law.
+The Receiving Party may disclose Confidential Information of the Disclosing Party only to:(a) its officers, employees, Affiliates, subcontractors, and professional advisors;(b) who have a legitimate need to know for the purposes of this Agreement; and(c) are bound by confidentiality obligations no less protective than those in this Agreement.The Receiving Party shall be responsible for any breach of confidentiality by such recipients.
 
-Each Party's aggregate liability under this Agreement (other than in respect of the matters listed in Clause 7.7) shall not exceed the Fees paid or payable under the affected Statement of Work in the twelve (12) months preceding the event giving rise to the first claim in a series of related claims.
+### 4.3 Exceptions
 
-The Parties acknowledge that the limitations in this Clause reflect a proportionate allocation of risk having regard to the Services and the Fees.
+The obligations in this Section do not apply to any information that the Receiving Party can demonstrate through written evidence:(a) was already known to it without obligation of confidentiality prior to disclosure;(b) becomes publicly available through no breach of this Agreement;(c) is lawfully obtained from a third party without restriction on disclosure; or(d) is independently developed without reference to the Disclosing Party’s Confidential Information.
 
-**7.2 	Excluded Loss.** Neither Party shall be liable for indirect, incidental, special, consequential or punitive loss, including loss of profit, revenue, savings, business opportunity, goodwill or reputation, irrespective of classification as direct or indirect.
+### 4.4 Legally Required Disclosure
 
-**7.3	Carve-Out.** The limitations in Clause 7.1 (Liability Cap) and the exclusions in Clause 7.2 (Excluded Loss) do not apply to liability arising from: (a) fraud or fraudulent misrepresentation; (b) gross negligence (grove fout / faute lourde) or wilful misconduct (opzettelijke fout / faute intentionnelle); (c) death or personal injury; or (d) any liability which cannot be limited or excluded by mandatory law. 
+If the Receiving Party is required by applicable law, regulation, or court order to disclose Confidential Information, it shall (to the extent permitted):(a) promptly notify the Disclosing Party;(b) cooperate with any reasonable requests to seek protective measures; and(c) disclose only the minimum required to comply with the obligation.
 
-**7.4 	Duty to Mitigate.** Each Party shall take all reasonable steps to mitigate any loss for which the other Party may be liable under this Agreement. The indemnified or claiming Party may not recover any loss to the extent that it could have been avoided or reduced by reasonable action. This duty applies to all claims, whether brought under this Agreement or otherwise.
+### 4.5 Duration of Confidentiality
 
-**7.5	Anti-Circumvention.** The limitations and exclusions in this Clause 7 apply regardless of the form of action, whether contractual, extra-contractual (delictueel / délictuel), statutory or otherwise, and a Party may not circumvent them by framing a claim in tort, restitution, unjust enrichment or any other cause of action.
+Each Party’s obligations under this Section shall continue for five (5) years after termination or expiry of this Agreement. Obligations in respect of trade secrets, source code, and Personal Data shall survive for as long as required under applicable law. The Parties acknowledge that unauthorised disclosure may cause irreparable harm, and that the injured Party shall be entitled to seek equitable relief, including injunctions.
 
-**7.6 	Time Limitation.** No claim may be brought more than twelve (12) months after the claiming Party became aware, or ought reasonably to have become aware, of the facts giving rise to the claim, except where prohibited by law.
+5\. Intellectual Property
+-------------------------
 
-**7.7 	Indemnities.** 
+### 5.1 Background IP
 
-**(a) Supplier.** The Supplier shall indemnify the Client against losses finally awarded or agreed in settlement arising from: (i) a third-party claim that Specific Developments infringe Intellectual Property Rights, excluding Client materials;  (ii) breach of Clause 9 by the Supplier; or  (iii) death or personal injury caused by the Supplier’s gross negligence or wilful misconduct.
+Each Party retains all rights, title, and interest in and to any Intellectual Property it owned or developed:(a) prior to the Effective Date of this Agreement; or(b) independently of the Services.Nothing in this Agreement transfers ownership of such Background IP. Supplier’s Background IP may include methodologies, libraries, templates, and tools. Client’s Background IP may include its software, data, and proprietary materials. Each Party grants the other a limited, non-exclusive, royalty-free licence to use its Background IP solely to the extent necessary to perform the Services or use the Deliverables.
 
-**(b) Client.** The Client shall indemnify the Supplier against losses finally awarded or agreed in settlement arising from: (i) a third-party claim that Client materials infringe Intellectual Property Rights; (ii) breach of Clause 9 by the Client; (iii) breach of third-party licence terms arising from the Client’s use; or (iv) use of Deliverables outside the permitted scope.
+### 5.2 Ownership of Deliverables
 
-**(c) Procedure.** (i) The indemnified Party shall give the indemnifying Party prompt written notice of any third-party claim to which an indemnity may apply (a "Third-Party Claim"). Late notice does not extinguish the indemnity but reduces it to the extent the indemnifying Party is materially prejudiced.
+Unless otherwise specified in a SOW, Supplier shall own all Intellectual Property Rights in any Deliverables it creates during the Services, subject to the licences granted below.
 
-(ii) The indemnifying Party may, within fifteen (15) Business Days of receiving notice, assume sole conduct of the defence and settlement. Where it does so: (A) it shall keep the indemnified Party reasonably informed; (B) the indemnified Party may participate with its own counsel at its own cost; and (C) the indemnified Party shall provide reasonable cooperation at the indemnifying Party's cost.
+**(a) Generic Developments**Supplier retains full ownership. Client receives a non-exclusive, perpetual, non-transferable licence to use Generic Developments solely as incorporated into the Deliverables and solely for its internal business operations.
 
-(iii) Where the indemnifying Party does not assume conduct within the period in sub-clause (ii), the indemnified Party may defend the Third-Party Claim and recover reasonable costs from the indemnifying Party.
+**(b) Specific Developments**Where a Deliverable is expressly designated in a SOW as a Specific Development, and upon full and final payment of all related fees, ownership shall transfer to Client. Supplier shall execute such documentation as reasonably required to effect transfer. Until payment is complete, ownership remains with Supplier.
 
-(iv) Neither Party shall admit liability, consent to injunctive relief or agree to any settlement imposing non-monetary obligations on the other without that Party's prior written consent (not to be unreasonably withheld).
+**(c) Supplier Know-How**Supplier retains the right to use and re-use any knowledge, skills, techniques, and processes it acquires or improves while delivering the Services, provided such use does not include Client’s Confidential Information or infringe Client’s Intellectual Property Rights.
 
-(v) No settlement shall be made without the indemnified Party's consent unless it includes an unconditional release of the indemnified Party and imposes no obligation on it other than the payment of money by the indemnifying Party.
+### 5.3 Conditional Reversion of Specific Developments
 
-**d) IP Remedies and Exclusions**. Where a Third-Party Claim under Clause 7.7(a)(i) is made or is, in the Supplier's reasonable opinion, likely, the Supplier may at its option and cost: (i) procure for the Client the right to continue using the affected Deliverable; (ii) modify or replace the affected Deliverable without material loss of functionality; or (iii) where neither is reasonably achievable, refund the Fees paid for the affected Deliverable, whereupon the Client shall cease use. The indemnity in Clause 7.7(a)(i) does not apply to the extent the claim arises from: (A) combination with items not supplied by the Supplier; (B) modification other than by or for the Supplier; (C) compliance with the Client's specifications or instructions; or (D) continued use after the Supplier has provided a non-infringing alternative. This Clause 7.7(d) states the Client's exclusive remedy for infringement by Deliverables.
+In the event the Client fails to pay all fees due in respect of Specific Developments within thirty (30) days of the due date, any ownership rights or licences granted in respect of such Specific Developments shall automatically terminate, and ownership shall revert to the Supplier. The Supplier may require the Client to execute confirmatory documents to reflect such reversion. The Client shall immediately cease all use of such Specific Developments and, at Supplier’s discretion, return or destroy all copies thereof.
 
-**7.8	Insurance.** The Supplier shall maintain the insurances specified in Annex G with insurers holding a financial-strength rating of at least A- from AM Best or A- (or equivalent) from a recognised rating agency. The Supplier shall provide evidence of coverage on reasonable request. The existence of insurance does not increase or modify the liability limitations in this Clause.
+### 5.4 Client Materials and Third-Party IP
 
-**7.9 	Pre-Estimated Remedies.** The Parties acknowledge that the pre-estimated remedies in this Agreement \- including Service Credits (Clause 2.1), fixed recovery compensation (Clause 3.4) and termination compensation (Clause 8.3) \- constitute genuine pre-estimates of loss, constitute genuine pre-estimates of loss, reflect a proportionate allocation of risk having regard to the Fees and the nature of the Services, and are not penalty clauses within the meaning of Article 5.88 of the Belgian Civil Code.
+Client retains ownership of all materials and data it provides. Supplier is granted a non-exclusive licence to use such materials only for the purposes of delivering the Services. Where Deliverables incorporate third-party or open-source components:(a) Supplier shall disclose any material third-party IP;(b) use of such components shall be subject to applicable third-party terms; and(c) Supplier provides no warranty beyond those terms.Supplier is not required to deliver or license any third-party source code.
 
-**7.10 	Protection of Personnel**. The limitations and exclusions in this Clause 7 apply for the benefit of each Party and of its directors, officers, employees, freelancers, subcontractors and other auxiliaries (hulppersonen / auxiliaires). Each such person may invoke this Clause directly as a stipulation for the benefit of a third party (beding ten behoeve van een derde). No such person bears any personal liability to the other Party in connection with this Agreement beyond the liability the engaging Party itself would bear under this Clause 7\.
+### 5.5 No Implied Rights
 
-# **8\. 	TERM AND TERMINATION**
+No rights or licences are granted under this Agreement except as expressly stated. All rights not expressly granted are reserved.
 
-**8.1 	Term.** This Agreement commences on the Effective Date and continues until terminated. Each Statement of Work has its own term.
+### 5.6 Enhancements
 
-**8.2 	Termination for Cause.** Either Party may terminate immediately on written notice if the other commits a material breach unremedied within fifteen (15) calendar days of notice. Material breaches include: non-payment exceeding thirty (30) days; breach of Clause 5 (Confidentiality) or Clause 9 (Compliance); gross negligence; or wilful misconduct. Immediate termination without cure period is permitted for an Insolvency Event (as defined in Clause 8.2A), criminal conduct or breach making continued performance impossible or unlawful.
+Any improvements or modifications to Supplier’s Background IP made during the Services shall remain the exclusive property of the Supplier.
 
-**8.2A 	Insolvency.** For purposes of Clause 8.2: (a) "Insolvency Event" means: (i) bankruptcy (faillissement / faillite) declared under Book XX of the Code of Economic Law; (ii) dissolution or liquidation other than for solvent restructuring; or (iii) appointment of a receiver, administrator or similar officer. (b) Where a Party enters judicial reorganisation (gerechtelijke reorganisatie / réorganisation judiciaire) under Book XX of the Code of Economic Law, the non-affected Party acknowledges that termination rights are subject to the moratorium under Article XX.55. During such moratorium, the non-affected Party may: (i) require adequate assurance of future performance within ten (10) Business Days; and (ii) if adequate assurance is not provided, exercise the suspension right in Clause 3.5. (c) Clauses 3.6 (Set-Off) and 4.10 (Right of Retention) remain exercisable to the extent permitted by applicable insolvency law. The Supplier's right to retain work product under Clause 4.10 survives the opening of insolvency proceedings to the extent the retained materials are not subject to a prior security interest.
+### 5.7 Scope-Restricted Usage
 
-**8.3 	Termination for Convenience.** Subject to any termination relief under an active Commercial Model in Annex B, which prevails over this Clause 8.3, either Party may terminate any Statement of Work on sixty (60) calendar days' written notice. On termination by the Client, the Client shall pay accrued Fees, accrued expenses, transition costs and fifty per cent (50%) of the estimated Fees for the sixty (60) calendar days following the date of notice. On termination by the Supplier, the Client shall pay accrued Fees, accrued expenses and transition costs only.
+The Client’s right to use Deliverables is limited to the use case, environment, and internal business purpose expressly described in the applicable SOW. Any broader use shall be subject to Supplier’s prior written consent.
 
-**8.4 	Regulatory Impediment.** If performance becomes unlawful or impossible by order of a Government Authority, either Party may terminate the affected Statement of Work on written notice, paying accrued Fees and a pro-rata share of anticipated margin.
+### 5.8 Residual Use
 
-**8.5 	Consequences.** On termination or expiry of any Statement of Work for any reason, the Supplier shall immediately cease performance except as necessary for orderly wind-down. Payment consequences are as specified in the applicable termination clause (Clause 8.2, 8.3 or 8.4, as the case may be). Termination is without prejudice to accrued rights and obligations, including any antecedent breach.
+Nothing in this Agreement shall prevent the Supplier from using ideas, know-how, methodologies, or techniques that are retained in the unaided memory of its personnel, provided such use does not breach confidentiality or infringe Client’s Intellectual Property Rights.”
 
-**8.6 	Transition Assistance.** The Supplier shall provide transition assistance for up to thirty (30) calendar days (the "Wind-Down Period"), including: (a) return of Client Data in machine-readable format; (b) a handover summary; and (c) reasonable cooperation with any incoming provider. Transition assistance is charged at standard rates. The Supplier shall delete Client Data within thirty (30) calendar days of the Wind-Down Period and certify deletion on request. Where the Enterprise Addendum applies, Clause E.11 replaces this Clause 8.6 in its entirety. No Statement of Work may derogate below this standard except by Change Order expressly identified as such.
+### 5.9 Audit Rights
 
-# **9\. 	COMPLIANCE** 
+The Supplier shall have the right, upon reasonable notice and during normal business hours, to verify Client’s compliance with the use restrictions of the Deliverables. Such verification shall be conducted in a manner that does not unreasonably disrupt Client’s business operations.
 
-**9.1 	General.** Each Party shall perform its obligations under this Agreement in compliance with applicable law. The engagement of Sub-Processors is governed exclusively by Annex D, Section 9\.
+### 5.10 Deployment-Driven Fee Adjustment
 
-**9.2 	Anti-Bribery.** Each Party shall comply with the anti-corruption provisions of the Belgian Criminal Code as in force from time to time and all other applicable anti-bribery laws. Neither Party shall offer, promise, give, request or accept any undue advantage in connection with this Agreement.
+If the Client deploys, integrates, or otherwise uses any prototype, draft, or evaluation Deliverable in a production, commercial, or external-facing capacity, the Deliverable shall be deemed accepted and billable at standard commercial rates unless otherwise agreed in writing.
 
-**9.3 	Export Controls and Sanctions.** Each Party shall comply with applicable EU, US and UN export-control laws, trade sanctions and import restrictions. Neither Party shall transfer software, Services or Deliverables in breach of such restrictions. Each Party shall screen personnel, affiliates and beneficial owners against applicable sanctions lists and notify the other within ten (10) Business Days of any match. Each Party shall promptly notify the other of any sanctions designation affecting it.
+The Supplier reserves the right to issue a backdated invoice reflecting such usage, even if the Deliverable was initially delivered under a pilot or proof-of-concept scope.
 
-**9.4 	Labour Standards.** Each Party shall comply with applicable laws on human rights, modern slavery, forced labour, child labour and non-discrimination.
+6\. Data Protection
+-------------------
 
-**9.5 	Data Protection.** Where the Services involve processing Personal Data, the Data Processing Addendum (Annex D) applies. The Parties shall comply with the GDPR, the Belgian Data Protection Act of 30 July 2018 and equivalent applicable laws (together, "Data Protection Laws").
+### 6.1 Compliance with Law
 
-**9.6	Anti-Money Laundering.** Each Party represents that no funds paid or received under this Agreement constitute proceeds of crime. Each Party shall comply with applicable anti-money laundering and counter-terrorist financing laws, including the Belgian Act of 18 September 2017 (Wet ter voorkoming van het witwassen van geld en de financiering van terrorisme). Each Party shall maintain reasonable internal measures to prevent breach of this Clause and shall promptly notify the other of any investigation by a Government Authority relating to money laundering, terrorist financing or sanctions in connection with this Agreement.
+Each Party shall comply with all applicable data protection and privacy laws, including but not limited to the General Data Protection Regulation (EU) 2016/679 (“GDPR”), in connection with any Personal Data processed under this Agreement. The Client, as data controller, represents and warrants that:(a) it has obtained all necessary consents and authorisations;(b) it has a lawful basis for processing Personal Data; and(c) it is entitled to disclose such Personal Data to the Supplier for the purposes of the Services.
 
-**9.7	Competition Law.** Each Party shall comply with applicable competition and antitrust laws, including Articles 101 and 102 TFEU and Book IV of the Code of Economic Law (Wetboek van economisch recht). Neither Party shall use Confidential Information received under this Agreement to coordinate market behaviour, fix prices or allocate markets or customers. Where the Supplier provides services to competitors of the Client, the Supplier shall maintain information barriers in accordance with Clause 2.11.
+### 6.2 Data Processing Addendum
 
-**9.8 	Information Security.** The Supplier shall maintain security measures appropriate to the nature of the Services and Client Data in accordance with Annex J (Information Security Framework). Where the Enterprise Addendum applies, Clause E.9 supplements Annex J; where inconsistent, Clause E.9 prevails. The Supplier shall notify the Client of any Security Incident in accordance with Annex J, Clause J.7.
+Where the Supplier processes Personal Data on behalf of the Client (as processor), the Parties shall enter into a Data Processing Addendum (“DPA”) in accordance with Article 28 GDPR. The DPA shall form part of this Agreement. In case of conflict between this Agreement and the DPA regarding Personal Data, the DPA shall prevail.
 
-**9.9	Business Continuity.** The Supplier shall maintain a business-continuity and disaster-recovery plan proportionate to the nature and criticality of the Services. The plan shall provide for: (a) recovery of critical Services within the recovery-time objective specified in the applicable Statement of Work (or, where none is specified, within forty-eight (48) hours); (b) regular testing at least annually; and (c) a summary of test results on reasonable request. The Supplier shall notify the Client without undue delay of any event that activates the plan and provide regular updates until Services are restored.
+### 6.3 Security Measures
 
-# **10\. 	DISPUTE RESOLUTION**
+Supplier shall implement appropriate technical and organisational measures to safeguard Personal Data against unauthorised access, loss, alteration, or disclosure. Supplier shall treat all Personal Data as Confidential Information.
 
-**10.1 	Escalation.** Before commencing proceedings, the Parties shall: 
+### 6.4 International Transfers
 
-(a) negotiate through operational representatives for ten (10) Business Days; then   
-(b) escalate to executive leadership for a further ten (10) Business Days; then   
-(c) either Party may refer the dispute to non-binding mediation under CEPANI rules, seated in Brussels, costs shared equally. 
+Supplier shall not transfer Personal Data outside the European Economic Area unless:(a) the transfer is to a jurisdiction recognised by the European Commission as providing adequate protection;(b) appropriate safeguards (such as Standard Contractual Clauses) are in place; or(c) a derogation under Article 49 GDPR applies.Supplier shall ensure that any authorised sub-processor also meets these obligations.
 
-If unresolved thirty (30) calendar days after mediation commences, either Party may commence proceedings. Nothing restricts interim or injunctive relief.
+### 6.5 Retention and Deletion
 
-**10.2 	Language of Proceedings.** Negotiations and mediation under Clause 10.1 shall be conducted in English unless both Parties agree otherwise. Judicial proceedings before the courts of Antwerp shall be conducted in the language prescribed by the Belgian Judicial Code (Gerechtelijk Wetboek). Where a Party requires translation of documents submitted in proceedings, it shall bear its own translation costs unless the court orders otherwise.
+Upon termination or expiry of the Agreement, Supplier shall:(a) return or delete all Client Personal Data, at Client’s election; and(b) certify deletion where applicable, unless retention is required by law.Supplier may retain anonymised or aggregated data (not Personal Data) for analytics or service improvement, provided it contains no individual identifiers.
 
-**10.3 	Governing Law and Jurisdiction.** This Agreement is governed by Belgian law, without regard to conflict-of-laws rules. The courts of Antwerp have exclusive jurisdiction.
+7\. Liability
+-------------
 
-# **11\. 	GENERAL PROVISIONS**
+### 7.1 Limitation of Liability
 
-### *Group A \- Structural Provisions*
+Each Party’s total aggregate liability to the other, whether in contract, tort (including negligence), or otherwise, arising out of or in connection with this Agreement shall not exceed:(a) the total fees paid or payable by the Client under the applicable SOW giving rise to the claim; or(b) where the claim does not relate to a specific SOW, the total fees paid under this Agreement in the twelve (12) months preceding the event giving rise to liability.Neither Party shall be liable for:(i) loss of profits;(ii) loss of revenue or business;(iii) loss of anticipated savings;(iv) loss or corruption of data; or(v) indirect, incidental, consequential, or special damages, even if advised of their possibility.
 
-**11.1 	Assignment.** Neither Party may assign without prior written consent (not to be unreasonably withheld), except: (a) to an Affiliate, provided the assignor remains jointly and severally liable; or (b) on merger, acquisition or sale of substantially all assets, provided the successor assumes all obligations in writing.
+### 7.2 Exceptions
 
-An impermissible assignment is void. On permitted assignment, all Statements of Work transfer and continue in full force.
+Nothing in this Agreement shall exclude or limit either Party’s liability for:(a) death or personal injury caused by its negligence;(b) fraud or fraudulent misrepresentation;(c) gross negligence or wilful misconduct; or(d) any liability which cannot be excluded or limited by applicable law.The exclusions in Clause 7.1 shall not apply to:(i) breach of confidentiality (Section 4);(ii) infringement of Intellectual Property Rights; or(iii) the indemnities in Section 8.
 
-A change of control does not constitute an assignment. However, each Party shall notify the other in writing within fifteen (15) Business Days of any change of control. Where the acquiring entity is a direct competitor of the non-acquired Party, the non-acquired Party may terminate any or all active Statements of Work on thirty (30) calendar days' notice, with payment consequences as on termination for convenience under Clause 8.3.
+### 7.3 Allocation of Risk
 
-**11.1A	Affiliate Adoption.** A Client Affiliate may place a Statement of Work under this Agreement by executing an Affiliate Adoption Agreement in the form of Annex F, countersigned by the Supplier. Each Affiliate Statement of Work constitutes an independent contract between the Supplier and the adopting Affiliate, incorporating the terms of this Agreement. The Client is not liable for Affiliate obligations unless it provides a written guarantee. The Supplier may decline an Affiliate Adoption Agreement on reasonable grounds, including: (a) the Affiliate is incorporated in a jurisdiction subject to comprehensive sanctions; (b) the Affiliate's credit profile does not meet the Supplier's reasonable requirements; or (c) the engagement would create a conflict of interest under Clause 2.11. Liability under each Affiliate Statement of Work is separate, subject to its own cap under Clause 7.1 by reference to Fees under that Statement of Work only. Where the Enterprise Addendum applies, Clause E.2 replaces this Clause 11.1A in its entirety.
+The Parties agree that the limitations and exclusions set out in this Section reflect a fair allocation of risk and are an essential basis for the commercial terms agreed in this Agreement.
 
-**11.2 	Relationship.** Nothing creates a partnership, joint venture, agency or employment relationship. Each Party is independent and responsible for its own tax and social contributions. No Party has authority to bind the other.
+### 7.4 No Warranties
 
-The Parties acknowledge that the Supplier's personnel \- including subcontractors and freelancers \- perform the Services as independent service providers within the meaning of the Programme Law of 27 December 2006 (Articles 331–343). Each Party shall refrain from conduct creating indicia of an employment relationship (gezagsverhouding / lien de subordination), including: (a) imposing fixed working hours or attendance requirements beyond those operationally necessary; (b) requiring exclusive use of Client premises, equipment or reporting lines; or (c) exercising hierarchical authority over Supplier personnel.
+Except as expressly stated, the Services and Deliverables are provided “as is” and without any warranty, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. Client’s sole remedies for non-conformities are as set out in the applicable SOW or this Agreement.
 
-Where a Government Authority or social security institution (RSZ/ONSS) reclassifies any Supplier personnel as an employee of the Client, the Party whose conduct gave rise to the reclassification shall indemnify the other for all resulting social security contributions, penalties, interest and costs. Where both Parties contributed, liability is apportioned by reference to the criteria in Articles 334–337 of the Programme Law. This indemnity is not subject to the liability cap in Clause 7.1.
+8\. Indemnities
+---------------
 
-**11.3 	Third-Party Rights.** No person who is not a Party may enforce any provision, except Data Processing Addendum beneficiaries to the extent required by data protection law.
+### 8.1 Third-Party IP Claims
 
-**11.4 	Non-Solicitation.** During the term of any active Statement of Work and for twelve (12) months after the end date of the last active Statement of Work, neither Party shall directly solicit for employment or engagement any employee or contractor of the other who performed forty (40) or more billable hours on an engagement. General recruitment advertising, unsolicited applications and hires resulting from a public posting without direct solicitation are excluded.
+Supplier shall indemnify, defend, and hold harmless the Client and its Affiliates from and against any third-party claim that the Services or Deliverables infringe any Intellectual Property Rights, and shall pay: (a) all damages finally awarded by a court of competent jurisdiction; or(b) settlement amounts approved in writing by Supplier.
 
-### *Group B \- Interpretive Provisions*
+This indemnity is subject to the Client: (a) promptly notifying Supplier of the claim;(b) granting Supplier sole control of the defence and settlement; and(c) providing reasonable cooperation at Supplier’s cost.
 
-**11.5 	Entire Agreement.** This Agreement (including the Recitals and all Annexes expressly incorporated) constitutes the entire agreement and supersedes all prior negotiations, representations and agreements. Any prior NDA remains in effect for disclosures made before the Effective Date; disclosures after the Effective Date are governed by Clause 5\. To the extent permitted by law, each Party waives any claim for misrepresentation not set out in this Agreement.
+If the Services or Deliverables are held to infringe, Supplier may at its expense: (a) procure the right for Client to continue using them;(b) modify or replace them to be non-infringing; or(c) if neither is commercially feasible, refund applicable fees and terminate the affected SOW.
 
-**11.6 	No Reliance.** Each Party acknowledges that it has not relied on any statement, representation or warranty not expressly set out in this Agreement.
+This clause shall not apply to claims arising from: (a) Client-provided materials;(b) modifications not made by Supplier; or(c) combination with third-party products not supplied by Supplier.
 
-**11.7 	No Waiver.** No failure or delay in exercising a right operates as a waiver. A waiver must be in writing.
+### 8.2 Client-Sourced Risk
 
-**11.8 	Cumulative Remedies.** Except as expressly stated, the rights and remedies of each Party under this Agreement are cumulative and in addition to (not exclusive of) any rights or remedies available at law. Exercise of one remedy does not preclude exercise of another.
+Client shall indemnify, defend, and hold harmless Supplier and its Affiliates from and against any third-party claim arising from: (a) materials or instructions provided by Client;(b) Client’s use of the Deliverables in violation of this Agreement or applicable law; or(c) Client’s business operations, including products or services it provides to its customers.
 
-**11.9 	Severability.** If any provision is unenforceable, it shall be modified to the minimum extent necessary; if modification is impossible, severed. Remaining provisions remain in full effect.
+This indemnity is subject to Supplier: (a) promptly notifying Client of the claim;(b) granting Client control of the defence and settlement; and(c) providing reasonable cooperation at Client’s cost.
 
-### *Group C \- Operational Provisions*
+### 8.3 Conduct of Claims
 
-**11.10 	Notices.** Formal notices shall be in writing in English, Dutch or French. A notice is deemed given: (a) on receipt if by hand or courier; (b) three (3) Business Days after posting domestically, five (5) internationally; or (c) on successful email transmission, provided a confirmatory copy follows within two (2) Business Days. Notices received outside Business Hours are deemed received at 09:00 on the next Business Day.
+In all cases, the indemnified Party shall not admit liability or settle any claim without the prior written consent of the indemnifying Party (not to be unreasonably withheld).
 
-**11.11 	Audit.** The Client has no audit rights except where required by applicable law. Where a statutory audit right arises (including GDPR Article 28(3)(h)), the Client shall give thirty (30) Business Days' notice, limit scope to what the law requires and minimise disruption.
+The indemnities in this Section are the sole and exclusive remedies for the types of claims described herein.
 
-**11.12 	Record Retention.** Each Party shall retain a complete copy of this Agreement, all executed Statements of Work, Change Orders and Annexes for the longer of: (a) ten (10) years from the date of execution, in accordance with Book III, Title 3 of the Code of Economic Law (Wetboek van economisch recht); or (b) such longer period as required by applicable tax or regulatory law. Retention in durable electronic form satisfying the conditions of Article 8.1 of the Belgian Civil Code is sufficient.
+9\. Termination
+---------------
 
-**11.13 	Costs.** Each Party shall bear its own costs and expenses incurred in connection with the negotiation, preparation, execution and performance of this Agreement, unless expressly stated otherwise.
+### 9.1 Term of Agreement
 
-**11.14 	Further Assurance.** Each Party shall, at its own cost, execute such documents and take such actions as the other Party may reasonably request to give full effect to the provisions of this Agreement.
+These Terms shall take effect on the earlier of:(a) the effective date of any SOW referencing these Terms; or(b) the Client’s acceptance of Services under these Terms.They remain in force until terminated under this Section or replaced by a Master Services Agreement.
 
-### *Group D \- Performance Doctrines*
+### 9.2 Termination for Convenience
 
-**11.15 	Good Faith.** Each Party shall perform its obligations in good faith in accordance with Article 5:73 of the Belgian Civil Code.
+Either Party may terminate:(a) any SOW individually; or(b) these Terms in their entirety (if no active SOW is in place);by providing ninety (90) days’ written notice to the other Party, unless a different period is specified in the SOW.
 
-**11.16 	Force Majeure.** Neither Party is liable for failure or delay caused by an event beyond its reasonable control (a "Force Majeure Event"), provided it:
+The Client shall remain liable for:(a) all Services performed up to the effective date of termination; and(b) all non-cancellable commitments or resources reserved exclusively for the Client’s benefit.
 
-(a) notifies the other within five (5) Business Days; (b) uses reasonable endeavours to mitigate; and (c) provides regular updates.
+### 9.3 Termination for Cause
 
-Force Majeure Events include pandemics, war, government sanctions, cyber-attacks, natural disasters, strikes not involving the affected Party's workforce and critical infrastructure failure. Force Majeure includes unavailability of critical third-party cloud infrastructure beyond the affected Party's reasonable control.
+Either Party may terminate this Agreement or any SOW with immediate effect if the other Party:(a) commits a material breach and fails to cure within fourteen (14) days of written notice;(b) becomes insolvent, is unable to pay debts as they fall due, or enters into liquidation, bankruptcy, or similar proceedings; or(c) ceases business operations.
 
-Force Majeure does not relieve the Client of payment obligations that became due before the event. If a Force Majeure Event prevents performance for more than thirty (30) consecutive days, either Party may terminate the affected Statement of Work on written notice, with accrued Fees payable as on termination for convenience.
+Where the breach affects a specific SOW, the non-breaching Party may terminate only that SOW.
 
-**11.17 	Hardship (Imprévision).** Where, after execution of a Statement of Work, circumstances arise that were unforeseeable, beyond the affected Party's control and render performance unreasonably onerous without making it impossible, either Party may invoke hardship in accordance with Article 5.74 of the Belgian Civil Code.
+### 9.4 Consequences of Termination
 
-The invoking Party shall notify the other in writing, specifying the changed circumstances and their impact on the commercial balance of the engagement. The Parties shall renegotiate in good faith within thirty (30) calendar days. During renegotiation, performance continues under existing terms. If no agreement is reached within that period, either Party may request the competent court to adapt or terminate the affected Statement of Work in accordance with Article 5.74. This Clause 11.17 does not apply to fee obligations that became due before the hardship event, nor to circumstances that merely reduce a Party's expected margin or profitability. Except as provided in this Clause 11.17, no Party may invoke any doctrine of unforeseen circumstances or economic imbalance to suspend or avoid performance.
+Upon termination or expiry: (a) Client shall pay all fees due for Services and Deliverables performed up to the effective date of termination;(b) each Party shall return or destroy the other Party’s Confidential Information, except for one archival copy; and(c) Client’s rights to use unpaid Deliverables shall cease.
 
-### *Group E \- Execution Mechanics*
+If termination was for Supplier’s uncured material breach, the Client may request partially completed Deliverables upon pro-rata payment.
 
-**11.18 	Counterparts and Evidence.** This Agreement may be executed in counterparts. Electronic signatures (including eIDAS-compliant services) have the same effect as handwritten signatures. The Parties agree, in accordance with Article 8.9 of the Belgian Civil Code, that electronic records (including email, system logs and digitally signed documents) have the same probative value as original signed documents between the Parties.
+In addition, the Client shall reimburse the Supplier for any non-cancellable third-party costs or resource commitments incurred in anticipation of continued performance, provided such commitments are commercially reasonable and documented. The Client shall also compensate the Supplier for reasonable wind-down assistance or reallocation costs, including any stand-by charges for dedicated personnel.
 
-**11.19 	Survival.** The following provisions survive termination: Clauses 1, 4, 5, 6, 7, 8.5, 8.6, 9, 10, 11, and any provision that by its nature is intended to survive.
+### 9.5 Wind-Down Assistance
 
-# 
+At Client’s request, Supplier shall provide up to thirty (30) days of reasonable wind-down assistance post-termination (excluding termination for Supplier breach), at its standard rates unless otherwise agreed. Any post-termination wind-down or transition support shall be considered a new engagement and subject to a separately agreed SOW and fee schedule.
 
-# **12\. EXECUTION**
+### 9.6 Early Exit Fee (for Fixed-Fee Projects)
 
-The Parties have executed this Agreement through their duly authorised representatives as of the date(s) set forth below. Where the Parties sign on different dates, the later date is the Effective Date.
+Where the Client terminates a fixed-fee SOW for convenience, the Client shall compensate the Supplier for:(a) all work performed to date;(b) non-recoverable third-party costs; and(c) a pro-rata portion of the remaining fixed fee, to reflect foregone opportunity cost, as reasonably determined by the Supplier.
 
-**SIGNED for and on behalf of TROPOS MANAGEMENT BV**,
+### 9.7 Short-Notice Cancellation Fees
 
-a private limited liability company (besloten vennootschap) incorporated under the laws of Belgium, registered with the Crossroads Bank for Enterprises under number 0632.761.979, having its registered office at Mechelsesteenweg 180, bus 6A, 2018 Antwerp, Belgium (the "Supplier"); 
+If the Client cancels or postpones any scheduled Services with less than:
 
-**SIGNED for and on behalf of \[\[CLIENT\_LEGAL\_NAME\]\]**
+*   five (5) business days’ notice: 100% of the fees remain due,
+    
+*   six (6) to fourteen (14) business days’ notice: 50% of the fees remain due.
+    
 
-, a \[\[entity\_type\]\] incorporated under the laws of \[\[jurisdiction\]\] (company number \[\[number\]\]) whose registered office is at \[\[address\]\] ("Client"), (each a "Party" and together the "Parties").
+These charges reflect committed resource costs and are not subject to offset or delay. The Client acknowledges this as a reasonable pre-estimate of the costs incurred.
 
-\- End of TROPOS SERVICES TERMS \-
+### 9.7 Change of Control
 
-# **ANNEX A \- DEFINITIONS**
+The Supplier may assign its rights and obligations under this Agreement without the Client’s prior consent in connection with a merger, acquisition, or internal reorganisation, provided such assignment does not materially adversely affect the Client’s rights.”
 
-Capitalised terms bear the following meanings. Where a term is also defined in the MSA body or a Statement of Work, the hierarchy in Clause 1.3 applies.
+10\. Governing Law and Dispute Resolution
+-----------------------------------------
 
-**"Acceptance Criteria"** means the objective conditions in a Statement of Work against which a Deliverable is assessed under Clause 2.5.
+### 10.1 Governing Law
 
-**"Affiliate"** means any entity that directly or indirectly Controls, is Controlled by, or is under common Control with a Party. **"Control"** means ownership of more than fifty per cent (50%) of the voting rights or equivalent ownership interest.
+This Agreement and any non-contractual obligations arising from or related to it shall be governed by the laws of Belgium, excluding its conflict of laws principles. The United Nations Convention on Contracts for the International Sale of Goods (CISG) shall not apply.
 
-**"Agreement"** means the MSA, each incorporated Annex and each executed SOW.
+### 10.2 Jurisdiction
 
-**"Background IP"** means Intellectual Property Rights owned or controlled by a Party before the Effective Date, or developed independently outside this Agreement.
+The courts of Antwerp, Belgium shall have exclusive jurisdiction over any disputes, claims, or proceedings arising out of or in connection with this Agreement or its subject matter, including any question regarding its existence, validity, or termination.
 
-**"Binding Scope"** means the scope, deliverables, timelines and fees specified in the applicable SOW.
+### 10.3 Escalation and Mediation
 
-**"Business Day"** means a day (other than Saturday or Sunday) on which banks are open for general commercial business in Antwerp, Belgium.
+In the event of a dispute, the Parties shall first attempt in good faith to resolve the matter through designated commercial contacts. If unresolved within ten (10) business days, the dispute shall be escalated to senior management of both Parties for further negotiation. If no resolution is reached within twenty (20) business days of escalation, either Party may request non-binding mediation in accordance with the rules of CEPANI (the Belgian Centre for Arbitration and Mediation). If the dispute remains unresolved following mediation, either Party may initiate proceedings in accordance with Clause 10.2. Nothing in this Clause shall restrict either Party’s right to seek interim or injunctive relief at any time.
 
-**"Change Order"** means a written amendment to a SOW executed by authorised representatives of both Parties, substantially in the form of Annex I.
+### 10.4 Language
 
-**"Client Data"** means all data, content and information (including Personal Data) provided by or on behalf of the Client, or generated by the Client's use of the Services.
+This Agreement shall be drafted in English. If required by law or by a competent authority, an official translation may be provided, but the English version shall prevail in case of conflict.
 
-**"Confidential Information"** means non-public information disclosed by one Party to the other in any form, subject to the exceptions in Clause 5.2.
+11\. Precedence and Miscellaneous
+---------------------------------
 
-**"Contract Year"** means each consecutive twelve-month period from the Start Date of the relevant SOW.
+### 11.1 Order of Precedence
 
-**"Deliverables"** means work products to be delivered under a SOW.
+In the event of a conflict between these Terms and an SOW, the SOW shall prevail for that specific engagement, unless the SOW expressly defers to these Terms. No SOW shall override Section 7 (Liability) or the Intellectual Property provisions unless stated explicitly and agreed in writing.
 
-**"Effective Date"** means the date on the signature page (the later date where the Parties sign on different dates) or, under Clause 1.9(b), the date of first acceptance of an Order.
+### 11.2 Transition to MSA
 
-**"Fees"** means all charges payable by the Client under the Agreement.
+These Terms govern all services in the absence of a Master Services Agreement (MSA). Upon execution of an MSA, it shall supersede these Terms for future services. Past services shall continue to be governed by these Terms unless expressly incorporated or novated into the MSA.
 
-**"Force Majeure Event"** has the meaning given in Clause 11.16.
+### 11.3 Entire Agreement
 
-**"Intellectual Property Rights"** means all intellectual and industrial property rights \- copyrights, database rights, trade secrets, patents, design rights, trademarks, domain names, know-how \- whether registered or unregistered, and applications for them.
+These Terms and any referenced SOW constitute the entire agreement between the Parties regarding their subject matter and supersede all prior discussions or agreements.
 
-**"Personal Data"** has the meaning given in applicable Data Protection Laws.
+### 11.4 Severability
 
-**"Services"** means the services to be provided by the Supplier under a SOW.
+If any provision is found unenforceable, the remainder shall remain in full force. Invalid terms shall be interpreted to reflect the Parties’ original intent as closely as possible.
 
-**"Specific Developments"** means Deliverables expressly identified in a SOW as developed exclusively for the Client.
+### 11.5 Waiver
 
-**"Statement of Work"** or **"SOW"** means a document executed by both Parties defining scope, pricing, timeline and Deliverables, or an Order accepted under Clause 1.9(b).
+No failure to enforce any provision shall constitute a waiver. Waivers must be in writing and signed by the waiving Party.
 
-**"Supplier Materials"** means the Supplier's proprietary frameworks, methodologies, templates, tools and accelerators, whether pre-existing or developed independently of a SOW.
+### 11.6 Assignment
 
-**"Term"** means: (a) for the Agreement, the period from the Effective Date until termination; (b) for a SOW, the period from Start Date to End Date.
+Neither Party may assign this Agreement without the other’s prior written consent, except that the Supplier may assign this Agreement without consent to: (a) an Affiliate;(b) a successor-in-interest in the event of a merger, acquisition, or sale of all or substantially all of the business; or(c) any entity as part of an internal restructuring, provided that the assigning Party remains responsible for obligations.
 
----
+Any unauthorised assignment by the Client shall be void.
 
-*\- END OF ANNEX A \-*
+### 11.7 Notices
 
- 
- 
+All notices shall be in writing and delivered by hand, courier, or email with confirmation. Notices shall be deemed received on: (a) the date of hand delivery or courier delivery; or(b) the date of email confirmation, if sent during business hours.

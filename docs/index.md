@@ -32,7 +32,7 @@ ul.checklist li::before { content: "✓ "; color: #2e7d32; font-weight: bold; ma
 | Document | Purpose |
 |----------|---------|
 | [Privacy & Data Protection Policy](./privacy.md) | Our GDPR-aligned, regulator-grade statement of how we handle personal data. |
-| [Service Terms](./gtsc.md) | Mutual confidentiality protection for early-stage and commercial discussions. |
+| [Non-Disclosure Agreement (NDA)](./nda.md) | Mutual confidentiality protection for early-stage and commercial discussions. |
 | [Security Overview](./security.md) | Summary of our security posture, aligned to ISO 27001 and SOC 2 controls. |
 | [Subprocessor Register](./subprocessors.md) | Current list of subprocessors, contractual basis, and data categories processed. |
 
