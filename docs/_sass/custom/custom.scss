@@ -1,11 +1,11 @@
 // Typography overrides for a legal-document reading experience.
 //
-// Explicit pixel scale: h1 12px, h2 11px, h3 10.5px, body 10px. h2/h3 are
-// interpolated between body and h1 to keep a monotonic step-down (h1 > h2 >
-// h3 > body) since only h1 and body were specified.
+// Explicit pixel scale, on the standard web-accessibility baseline: body
+// 16px, h1 18px, h2 17px, h3 16.5px (monotonic step-down: h1 > h2 > h3 >
+// body).
 .main-content {
   h1 {
-    font-size: 12px;
+    font-size: 18px;
     font-weight: 700;
     letter-spacing: 0.05em;
     line-height: $body-heading-line-height;
@@ -15,20 +15,20 @@
   }
 
   h2 {
-    font-size: 11px;
+    font-size: 17px;
     font-weight: 700;
     letter-spacing: 0.02em;
     line-height: $body-heading-line-height;
   }
 
   h3 {
-    font-size: 10.5px;
+    font-size: 16.5px;
     font-weight: 700;
     line-height: $body-heading-line-height;
   }
 
   p {
-    font-size: 10px;
+    font-size: 16px;
     line-height: 1.65;
     margin-bottom: 1em;
   }
