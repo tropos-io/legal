@@ -51,22 +51,41 @@
   </div>
 
   <footer class="legal-footer">
-    <div class="footer-brand">
-      <p>
-        &copy; {{ site.time | date: '%Y' }} Tropos Management BV — All rights reserved.<br>
-        Registered in Belgium | Company No. 0632.761.979
-      </p>
+    <div class="footer-grid">
+      <div class="footer-identity">
+        <img src="{{ '/assets/Tropos_imagemark_digital-green_300dpi_RGB.png' | relative_url }}" alt="" class="footer-mark">
+        <p class="footer-name">Tropos Management BV</p>
+        <p>
+          Mechelsesteenweg 180/6A<br>
+          2018 Antwerp, Belgium
+        </p>
+        <p>Company No. BE 0632.761.979</p>
+      </div>
+      <div class="footer-col">
+        <p class="footer-label">Documents</p>
+        <ul>
+          <li><a href="/terms/">Services Terms</a></li>
+          <li><a href="/dpa/">Data Processing Addendum</a></li>
+          <li><a href="/privacy/">Privacy Policy</a></li>
+          <li><a href="/infosec/">Information Security</a></li>
+          <li><a href="/subprocessors/">Subprocessor List</a></li>
+          <li><a href="/versions/">Version Archive</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <p class="footer-label">Contact</p>
+        <ul>
+          <li><a href="mailto:legal@tropos.io">legal@tropos.io</a> &mdash; Legal</li>
+          <li><a href="mailto:privacy@tropos.io">privacy@tropos.io</a> &mdash; Data protection</li>
+          <li><a href="mailto:security@tropos.io">security@tropos.io</a> &mdash; Security disclosures</li>
+        </ul>
+        <p class="footer-fine">A PGP key is available on request.</p>
+      </div>
     </div>
-    <div class="footer-compliance">
-      <p>
-        ISO/IEC 27001:2022 aligned | GDPR compliant | SCC &amp; TIA-ready<br>
-        <small>This site does not use non-essential cookies without consent.</small>
-      </p>
-    </div>
-    <div class="footer-legal">
-      <p>
-        Tropos Management BV is a data analytics consultancy governed by Belgian law. This website and its content are provided for informational purposes only and do not constitute legal or professional advice.
-      </p>
+    <div class="footer-bottom">
+      <p>&copy; {{ site.time | date: '%Y' }} Tropos Management BV. All rights reserved.</p>
+      <p>ISO/IEC 27001:2022 aligned &middot; GDPR compliant &middot; SCC &amp; TIA-ready &middot; No non-essential cookies without consent</p>
+      <p>Tropos Management BV is a data analytics consultancy governed by Belgian law. This website and its content are provided for informational purposes only and do not constitute legal or professional advice.</p>
     </div>
   </footer>
 
