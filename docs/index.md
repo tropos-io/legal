@@ -18,10 +18,10 @@ nav_exclude: true
 
 | Document | Purpose |
 |----------|---------|
-| [Privacy & Data Protection Policy](./privacy.md) | Our GDPR-aligned, regulator-grade statement of how we handle personal data. |
-| [Service Terms](./gtcs.md) | Service Terms. |
-| [Security Overview](./security.md) | Summary of our security posture, aligned to ISO 27001 and SOC 2 controls. |
-| [Subprocessor Register](./subprocessors.md) | Current list of subprocessors, contractual basis, and data categories processed. |
+| [Privacy & Data Protection Policy](/privacy/) | Our GDPR-aligned, regulator-grade statement of how we handle personal data. |
+| [Service Terms](/terms/) | Service Terms. |
+| [Security Overview](/infosec/) | Summary of our security posture, aligned to ISO 27001 and SOC 2 controls. |
+| [Subprocessor Register](/subprocessors/) | Current list of subprocessors, contractual basis, and data categories processed. |
 
 ---
 

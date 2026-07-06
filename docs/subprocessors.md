@@ -6,7 +6,7 @@ nav_order: 40
 
 # Subprocessor List
 
-This document sets out the subprocessors engaged by **Tropos.io** (“Company”) to process personal data on its behalf in connection with the provision of its services. Each subprocessor is contractually bound to implement data protection safeguards that are materially equivalent to those contained in the Company’s [Data Processing Agreement](./dpa), in accordance with the General Data Protection Regulation (EU 2016/679) and other applicable data protection laws.
+This document sets out the subprocessors engaged by **Tropos.io** (“Company”) to process personal data on its behalf in connection with the provision of its services. Each subprocessor is contractually bound to implement data protection safeguards that are materially equivalent to those contained in the Company’s [Data Processing Agreement](/dpa/), in accordance with the General Data Protection Regulation (EU 2016/679) and other applicable data protection laws.
 
 ---
 
@@ -21,7 +21,7 @@ This document sets out the subprocessors engaged by **Tropos.io** (“Company”
 | **Salesforce** | CRM and ERP data processing | [Privacy Policy](https://www.salesforce.com/uk/company/privacy/) | [Data Processing Addendum](https://www.salesforce.com/platform/data-privacy-compliance/what-is-a-data-processing-agreement/) |
 | **Slack** | Internal communications | [Privacy Policy](https://slack.com/trust/privacy/privacy-policy) | [Data Processing Addendum](https://slack.com/terms-of-service/data-processing) |
 | **Amazon Web Services (AWS)** | Infrastructure and cloud hosting | [Privacy Notice](https://aws.amazon.com/privacy/) | [Data Processing Addendum](https://d1.awsstatic.com/legal/aws-gdpr/AWS_GDPR_DPA.pdf) |
-| **Atlassian (Confluence)** | Internal documentation and operations | [Privacy Policy](https://www.atlassian.com/legal/privacy-policy) | [DPA (August 2023)](./Atlassian_Customer_DPA_Aug_2023.pdf) |
+| **Atlassian (Confluence)** | Internal documentation and operations | [Privacy Policy](https://www.atlassian.com/legal/privacy-policy) | [Data Processing Addendum](https://www.atlassian.com/legal/data-processing-addendum) |
 | **Figma** | Collaborative design and prototyping | [Privacy Policy](https://www.figma.com/legal/privacy/) | [Data Protection Terms](https://www.figma.com/legal/privacy-and-data-protection/) |
 
 ---

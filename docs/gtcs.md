@@ -1,6 +1,6 @@
 ---
 title: General Terms and Conditions of Sales (GTCS)
-permalink: /gtcs/
+permalink: /terms/
 nav_order: 10
 ---
 
