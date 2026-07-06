@@ -2,7 +2,10 @@
 title: Privacy Policy
 permalink: /privacy/
 nav_order: 20
+last_modified_date: 2026-07-06
 ---
+
+_Last updated and effective: {{ page.last_modified_date | date: "%B %-d, %Y" }}_
 
 ## Table of contents
 {: .no_toc }

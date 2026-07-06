@@ -2,9 +2,12 @@
 title: Subprocessor List
 permalink: /subprocessors/
 nav_order: 40
+last_modified_date: 2026-07-06
 ---
 
 # Subprocessor List
+
+_Last updated and effective: {{ page.last_modified_date | date: "%B %-d, %Y" }}_
 
 This document sets out the subprocessors engaged by **Tropos.io** (“Company”) to process personal data on its behalf in connection with the provision of its services. Each subprocessor is contractually bound to implement data protection safeguards that are materially equivalent to those contained in the Company’s [Data Processing Agreement](/dpa/), in accordance with the General Data Protection Regulation (EU 2016/679) and other applicable data protection laws.
 
@@ -30,5 +33,3 @@ This document sets out the subprocessors engaged by **Tropos.io** (“Company”
 
 1. **Cross-Border Transfers**  
    Where subprocessors are established outside the European Economic Area, Tropos.io ensures that such transfers
-
-_Last updated: {{ site.time | date: "%B %d, %Y" }}_

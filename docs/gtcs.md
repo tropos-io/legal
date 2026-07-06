@@ -2,10 +2,13 @@
 title: Services Terms
 permalink: /terms/
 nav_order: 10
+last_modified_date: 2026-07-06
 ---
 
 
 # **SERVICES TERMS**
+
+_Last updated and effective: {{ page.last_modified_date | date: "%B %-d, %Y" }}_
 
 These Terms are issued by Tropos Management BV (BE 0632.761.979, Mechelsesteenweg 180/6A, 2018 Antwerp) (the "Supplier") and govern all services it provides to the client identified in the execution page or the applicable Order (the "Client"). They apply as a master services agreement where executed by both Parties, and otherwise as general terms and conditions under Clause 1.9.
 

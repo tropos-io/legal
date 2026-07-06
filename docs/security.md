@@ -2,11 +2,14 @@
 title: Information Security
 permalink: /infosec/
 nav_order: 30
+last_modified_date: 2026-07-06
 ---
 
 
 
 # **ANNEX J \- INFORMATION SECURITY FRAMEWORK**
+
+_Last updated and effective: {{ page.last_modified_date | date: "%B %-d, %Y" }}_
 
 **J.1	Scope.** This Annex applies to all engagements unless a Statement of Work expressly excludes it. Where the Enterprise Addendum applies, Clause E.9 supplements this Annex; in the event of conflict, Clause E.9 prevails. Security measures shall be proportionate to: (a) the nature and sensitivity of Client Data processed; (b) the criticality of the Services; and (c) the state of the art and cost of implementation.
 

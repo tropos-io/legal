@@ -2,9 +2,10 @@
 title: Data protection addendum
 permalink: /dpa/
 nav_order: 15
+last_modified_date: 2026-07-06
 ---
 
- 
+_Last updated and effective: {{ page.last_modified_date | date: "%B %-d, %Y" }}_
 
 # 1\. Purpose, Scope, and Roles
 -----------------------------
