@@ -12,8 +12,8 @@ Tropos Management BV publishes the documents below. Each governs a defined aspec
 
 | Document | Governs |
 |---|---|
-| [Service Terms](/terms/) | The general terms and conditions on which Tropos provides its services. |
-| [Data Processing Addendum](/dpa/) | Tropos's processing of personal data as a data processor, incorporated by reference into the Service Terms. |
+| [Services Terms](/terms/) | The general terms and conditions on which Tropos provides its services. |
+| [Data Processing Addendum](/dpa/) | Tropos's processing of personal data as a data processor, incorporated by reference into the Services Terms. |
 | [Privacy Policy](/privacy/) | The collection, use and protection of personal data by Tropos. |
 | [Information Security](/infosec/) | The security controls applied to Tropos's services and to Client Data. |
 | [Subprocessor List](/subprocessors/) | The subprocessors engaged by Tropos and the categories of data they process. |

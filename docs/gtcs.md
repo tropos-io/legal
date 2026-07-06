@@ -1,11 +1,11 @@
 ---
-title: Service Terms
+title: Services Terms
 permalink: /terms/
 nav_order: 10
 ---
 
 
-# **TROPOS SERVICES TERMS**
+# **SERVICES TERMS**
 
 These Terms are issued by Tropos Management BV (BE 0632.761.979, Mechelsesteenweg 180/6A, 2018 Antwerp) (the "Supplier") and govern all services it provides to the client identified in the execution page or the applicable Order (the "Client"). They apply as a master services agreement where executed by both Parties, and otherwise as general terms and conditions under Clause 1.9.
 
@@ -335,7 +335,7 @@ a private limited liability company (besloten vennootschap) incorporated under t
 
 , a \[\[entity\_type\]\] incorporated under the laws of \[\[jurisdiction\]\] (company number \[\[number\]\]) whose registered office is at \[\[address\]\] ("Client"), (each a "Party" and together the "Parties").
 
-\- End of TROPOS SERVICES TERMS \-
+\- End of SERVICES TERMS \-
 
 # **ANNEX A \- DEFINITIONS**
 
