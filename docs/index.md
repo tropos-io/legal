@@ -1,21 +1,8 @@
 ---
 title: Tropos Legal Center
 permalink: /
+nav_exclude: true
 ---
-
-<style>
-h1, h2, h3 { font-family: Georgia, serif; }
-body, td, th, p { font-family: 'Inter', sans-serif; line-height: 1.6; color: #1a1a1a; }
-table { border-collapse: collapse; width: 100%; margin-top: 1.5em; }
-th, td { border: 1px solid #e0e0e0; padding: 12px; vertical-align: top; }
-th { background-color: #fafafa; text-align: left; font-weight: 600; }
-a { color: #0056b3; text-decoration: none; }
-a:hover { text-decoration: underline; }
-hr { border: none; border-top: 1px solid #ccc; margin: 3em 0; }
-blockquote { font-style: italic; color: #666; margin: 1.5em 0; padding-left: 1em; border-left: 3px solid #ccc; }
-ul.checklist { list-style: none; padding: 0; }
-ul.checklist li::before { content: "✓ "; color: #2e7d32; font-weight: bold; margin-right: 0.5em; }
-</style>
 
 # Tropos Legal Center
 
@@ -32,7 +19,7 @@ ul.checklist li::before { content: "✓ "; color: #2e7d32; font-weight: bold; ma
 | Document | Purpose |
 |----------|---------|
 | [Privacy & Data Protection Policy](./privacy.md) | Our GDPR-aligned, regulator-grade statement of how we handle personal data. |
-| [Service Terms](./gtsc.md) | Service Terms. |
+| [Service Terms](./gtcs.md) | Service Terms. |
 | [Security Overview](./security.md) | Summary of our security posture, aligned to ISO 27001 and SOC 2 controls. |
 | [Subprocessor Register](./subprocessors.md) | Current list of subprocessors, contractual basis, and data categories processed. |
 
@@ -50,14 +37,12 @@ If you're a customer, partner, or auditor and require additional legal terms, tr
 
 ## Our Compliance Commitments
 
-<ul class="checklist">
-  <li>GDPR & EU/EEA privacy law alignment</li>
-  <li>ISO/IEC 27001:2022-aligned controls</li>
-  <li>Standard Contractual Clauses (2021 Modules 1–4)</li>
-  <li>Transfer Impact Assessment (TIA) readiness</li>
-  <li>Vendor Risk Questionnaire support</li>
-  <li>Quarterly subprocessor transparency</li>
-</ul>
+- GDPR & EU/EEA privacy law alignment
+- ISO/IEC 27001:2022-aligned controls
+- Standard Contractual Clauses (2021 Modules 1–4)
+- Transfer Impact Assessment (TIA) readiness
+- Vendor Risk Questionnaire support
+- Quarterly subprocessor transparency
 
 ---
 

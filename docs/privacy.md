@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 permalink: /privacy/
-nav_order: 10
+nav_order: 20
 ---
 
 ## Table of contents

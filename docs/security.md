@@ -1,6 +1,7 @@
 ---
 title: Information Security
 permalink: /infosec/
+nav_order: 30
 ---
 
 

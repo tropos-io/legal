@@ -1,0 +1,20 @@
+// Tropos brand color scheme for just-the-docs
+// Palette source: Tropos brand book v1.5
+//   Forest green  #11302D — headings, body text, nav
+//   Soothing blue #7196FE — links, primary actions
+//   Calm teal     #D4E9FF — sidebar background
+$color-scheme: tropos;
+
+$body-background-color: #ffffff;
+$body-heading-color: #11302d;
+$body-text-color: #11302d;
+$link-color: #7196fe;
+$nav-child-link-color: #11302d;
+$sidebar-color: #d4e9ff;
+$base-button-color: #eef6fc;
+$btn-primary-color: #7196fe;
+$code-background-color: #ffffff;
+$feedback-color: darken($sidebar-color, 3%);
+$table-background-color: #ffffff;
+$search-background-color: #ffffff;
+$search-result-preview-color: #11302d;

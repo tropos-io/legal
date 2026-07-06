@@ -1,7 +1,7 @@
 title: Tropos Legal Portal
 description: Public policies and legal notices for Tropos Management BV
-remote_theme: just-the-docs/just-the-docs
-color_scheme: light
+remote_theme: just-the-docs/just-the-docs@v0.12.0
+color_scheme: tropos
 
 # Enable navigation
 search_enabled: true

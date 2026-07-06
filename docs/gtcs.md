@@ -1,6 +1,7 @@
 ---
 title: General Terms and Conditions of Sales (GTCS)
 permalink: /gtcs/
+nav_order: 10
 ---
 
 
