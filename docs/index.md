@@ -1,57 +1,35 @@
 ---
-title: Tropos Legal Center
+title: Legal Notices
 permalink: /
 nav_exclude: true
 ---
 
-# Tropos Legal Center
+# Legal Notices
 
-> **Tropos Management BV** operates with a philosophy of engineered trust.  
-> We publish our core legal and compliance documents not just for transparency, but to set the standard.  
-> Every word here is deliberate. Every policy, audit-ready.
+Tropos Management BV publishes the documents below. Each governs a defined aspect of the relationship between Tropos and its clients, and each takes effect on the date stated within it.
 
-{: .highlight }
+## Documents
 
----
-
-## 📚 Core Legal Framework
-
-| Document | Purpose |
-|----------|---------|
-| [Privacy & Data Protection Policy](/privacy/) | Our GDPR-aligned, regulator-grade statement of how we handle personal data. |
-| [Service Terms](/terms/) | Service Terms. |
-| [Security Overview](/infosec/) | Summary of our security posture, aligned to ISO 27001 and SOC 2 controls. |
-| [Subprocessor Register](/subprocessors/) | Current list of subprocessors, contractual basis, and data categories processed. |
+| Document | Governs |
+|---|---|
+| [Service Terms](/terms/) | The general terms and conditions on which Tropos provides its services. |
+| [Data Processing Addendum](/dpa/) | Tropos's processing of personal data as a data processor, incorporated by reference into the Service Terms. |
+| [Privacy Policy](/privacy/) | The collection, use and protection of personal data by Tropos. |
+| [Information Security](/infosec/) | The security controls applied to Tropos's services and to Client Data. |
+| [Subprocessor List](/subprocessors/) | The subprocessors engaged by Tropos and the categories of data they process. |
 
 ---
 
-## Legal Contact & Custom Terms
+## Compliance Framework
 
-If you're a customer, partner, or auditor and require additional legal terms, transfer mechanisms, or information security assurances, we invite you to get in touch.
-
-- **Legal Contact**: [legal@tropos.io](mailto:legal@tropos.io)  
-- **DPO Contact**: privacy@tropos.io  
-- **Responsible Disclosure**: [security@tropos.io](mailto:security@tropos.io) (PGP key available on request)
+Tropos maintains alignment with the General Data Protection Regulation, the EU Standard Contractual Clauses (2021, Modules One to Four) and ISO/IEC 27001:2022. Transfer Impact Assessments and vendor security questionnaires are completed on request. The subprocessor list is reviewed quarterly.
 
 ---
 
-## Our Compliance Commitments
+## Contact
 
-- GDPR & EU/EEA privacy law alignment
-- ISO/IEC 27001:2022-aligned controls
-- Standard Contractual Clauses (2021 Modules 1–4)
-- Transfer Impact Assessment (TIA) readiness
-- Vendor Risk Questionnaire support
-- Quarterly subprocessor transparency
+Requests concerning these documents, including requests for additional terms or assurances, shall be directed as follows.
 
----
-
-## 🔎 Why We Publish This
-
-> **Legal readiness is not a checkbox — it's architecture.**  
-> Publishing our policies isn’t performative — it’s proof. We’re ready for your procurement team, your DPA, and your due diligence checklist.
-
----
-
-© {{ site.time | date: "%Y" }} Tropos Management BV — All rights reserved.  
-Registered in Belgium | Company No. 0632.761.979  
+- **Legal**: [legal@tropos.io](mailto:legal@tropos.io)
+- **Data protection**: privacy@tropos.io
+- **Security disclosures**: [security@tropos.io](mailto:security@tropos.io). A PGP key is available on request.  

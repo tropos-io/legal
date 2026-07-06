@@ -1,21 +1,27 @@
 // Tropos brand color scheme for just-the-docs
-// Palette source: Tropos brand book v1.5
-//   Forest green  #11302D — headings, body text, active nav accent
-//   Soothing blue #7196FE — links, primary actions
-// Sidebar stays a near-neutral, muted tone — a document/legal site reads as
-// professional when brand color is an accent, not a solid panel fill.
+// Official palette (styleguide):
+//   Forest green   #11302D — headings, active nav accent
+//   Soothing blue  #7196FE — links, primary actions (see note below)
+//   Easy gray      #F0F0F0 — sidebar / neutral surfaces
+//   Snowflake white #FFFFFF — page background
+//   Black          #000000 — body text
+//
+// Soothing blue at #7196FE is ~2.8:1 contrast on white, below WCAG AA's
+// 4.5:1 minimum for text. $link-color below is a darkened value in the same
+// hue family (#3D5FD9, ~5.5:1) so links stay legible; the literal brand hex
+// is reserved for accents where it isn't carrying body-text contrast.
 $color-scheme: tropos;
 
 $body-background-color: #ffffff;
 $body-heading-color: #11302d;
-$body-text-color: #1a1a1a;
+$body-text-color: #000000;
 $link-color: #3d5fd9;
-$nav-child-link-color: #1a1a1a;
-$sidebar-color: #f5f6f7;
+$nav-child-link-color: #000000;
+$sidebar-color: #f0f0f0;
 $base-button-color: #f0f0f0;
 $btn-primary-color: #3d5fd9;
 $code-background-color: #ffffff;
 $feedback-color: darken($sidebar-color, 3%);
 $table-background-color: #ffffff;
 $search-background-color: #ffffff;
-$search-result-preview-color: #1a1a1a;
+$search-result-preview-color: #000000;
