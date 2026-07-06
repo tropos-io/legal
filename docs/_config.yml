@@ -16,3 +16,7 @@ ga_tracking: G-TKW9F957F6
 ga_tracking_anonymize_ip: true
 
 markdown: kramdown
+
+# Safelisted on GitHub Pages' managed build; serves /gtcs/ -> /terms/
+plugins:
+  - jekyll-redirect-from

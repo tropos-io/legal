@@ -59,6 +59,14 @@ This repository enables:
   - Timestamped approval comment in the PR
   - Optional public-facing "Last Updated" footer in the Markdown file
 
+### Version archive (Clause 1.10)
+
+The Services Terms incorporate by reference "the version published at legal.tropos.io/terms in force at the date of the Order", so prior versions must remain retrievable. When a document changes **materially**, in the same commit:
+
+1. Snapshot the outgoing version to `docs/archive/<doc>-<effective-from-date>.md` with frontmatter: `permalink: /<doc>/archive/<effective-from-date>/`, `superseded: true`, `current_url: /<doc>/`, and an effective-date range line at the top.
+2. Update the register at `docs/versions.md` with the new row and close the outgoing version's "Effective until" date.
+3. Bump `last_modified_date` in the current document's frontmatter.
+
 ---
 
 ## Legal and Compliance Considerations

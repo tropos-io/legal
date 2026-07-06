@@ -18,6 +18,8 @@ Tropos Management BV publishes the documents below. Each governs a defined aspec
 | [Information Security](/infosec/) | The security controls applied to Tropos's services and to Client Data. |
 | [Subprocessor List](/subprocessors/) | The subprocessors engaged by Tropos and the categories of data they process. |
 
+Prior versions of these documents, and the periods during which they were in force, are recorded in the [Version Archive](/versions/).
+
 ---
 
 ## Compliance Framework

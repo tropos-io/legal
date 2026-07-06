@@ -1,6 +1,7 @@
 ---
 title: Services Terms
 permalink: /terms/
+redirect_from: /gtcs/
 nav_order: 10
 last_modified_date: 2026-07-06
 ---
