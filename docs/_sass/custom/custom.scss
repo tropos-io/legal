@@ -1,0 +1,32 @@
+// Typography overrides for a legal-document reading experience.
+//
+// Theme defaults (just-the-docs v0.12.0): h1 is 32px/weight 300, h2 is 18px,
+// h3 is 16px — the same size as body paragraphs (16px). That makes h1 feel
+// oversized and disconnected, while h2/h3 barely step down from running
+// text. This establishes a clearer, proportional scale (28 / 22 / 18px
+// against 16px body text) and gives paragraphs consistent line-height and
+// spacing for long-form legal text.
+.main-content {
+  h1 {
+    font-size: 1.75rem; // 28px
+    font-weight: 600;
+    line-height: $body-heading-line-height;
+  }
+
+  h2 {
+    font-size: 1.375rem; // 22px
+    font-weight: 600;
+    line-height: $body-heading-line-height;
+  }
+
+  h3 {
+    font-size: 1.125rem; // 18px
+    font-weight: 600;
+    line-height: $body-heading-line-height;
+  }
+
+  p {
+    line-height: 1.65;
+    margin-bottom: 1em;
+  }
+}
