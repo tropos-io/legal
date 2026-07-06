@@ -32,13 +32,13 @@ ul.checklist li::before { content: "✓ "; color: #2e7d32; font-weight: bold; ma
 | Document | Purpose |
 |----------|---------|
 | [Privacy & Data Protection Policy](./privacy.md) | Our GDPR-aligned, regulator-grade statement of how we handle personal data. |
-| [Non-Disclosure Agreement (NDA)](./nda.md) | Mutual confidentiality protection for early-stage and commercial discussions. |
+| [Service Terms](./gtsc.md) | Service Terms. |
 | [Security Overview](./security.md) | Summary of our security posture, aligned to ISO 27001 and SOC 2 controls. |
 | [Subprocessor Register](./subprocessors.md) | Current list of subprocessors, contractual basis, and data categories processed. |
 
 ---
 
-## ✉️ Legal Contact & Custom Terms
+## Legal Contact & Custom Terms
 
 If you're a customer, partner, or auditor and require additional legal terms, transfer mechanisms, or information security assurances, we invite you to get in touch.
 
@@ -48,7 +48,7 @@ If you're a customer, partner, or auditor and require additional legal terms, tr
 
 ---
 
-## 🛡️ Our Compliance Commitments
+## Our Compliance Commitments
 
 <ul class="checklist">
   <li>GDPR & EU/EEA privacy law alignment</li>

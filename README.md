@@ -6,7 +6,6 @@
 ## Contents
 
 - `index.md` or `privacy.md` — the rendered privacy policy in Markdown format (source of truth)
-- `.github/workflows/deploy.yml` — GitHub Actions config for deployment to GitHub Pages
 - `README.md` — internal usage guidelines (this file)
 - `_site/` — (if applicable) compiled artifacts for static delivery
 - `_includes/`, `_layouts/` — (if using Jekyll or similar)
