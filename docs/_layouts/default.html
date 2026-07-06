@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="canonical" href="https://legal.tropos.io{{ page.url }}">
+  <link rel="icon" href="{{ '/assets/favicon.ico' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  {% if site.ga_tracking %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_tracking }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.ga_tracking }}'{% if site.ga_tracking_anonymize_ip %}, { 'anonymize_ip': true }{% endif %});
+  </script>
+  {% endif %}
+</head>
+<body>
+  <header class="site-header">
+    <a href="{{ '/' | relative_url }}" class="brand">
+      <img src="{{ site.logo | relative_url }}" alt="Tropos">
+    </a>
+    <nav>
+      <a href="{{ '/' | relative_url }}">All documents</a>
+    </nav>
+  </header>
+
+  {% if page.superseded %}
+  <div class="superseded-banner">
+    This version has been superseded and is retained for reference only.
+    The version currently in force is at <a href="{{ page.current_url | default: '/' }}">{{ page.current_url | default: '/' }}</a>.
+  </div>
+  {% endif %}
+
+  <div class="page">
+    <main class="doc-content" id="doc-content">
+      {{ content }}
+    </main>
+    <aside class="doc-toc" aria-label="Table of contents" hidden>
+      <details open>
+        <summary>On this page</summary>
+        <nav id="toc-nav"></nav>
+      </details>
+    </aside>
+  </div>
+
+  <footer class="legal-footer">
+    <div class="footer-brand">
+      <p>
+        &copy; {{ site.time | date: '%Y' }} Tropos Management BV — All rights reserved.<br>
+        Registered in Belgium | Company No. 0632.761.979
+      </p>
+    </div>
+    <div class="footer-compliance">
+      <p>
+        ISO/IEC 27001:2022 aligned | GDPR compliant | SCC &amp; TIA-ready<br>
+        <small>This site does not use non-essential cookies without consent.</small>
+      </p>
+    </div>
+    <div class="footer-legal">
+      <p>
+        Tropos Management BV is a data analytics consultancy governed by Belgian law. This website and its content are provided for informational purposes only and do not constitute legal or professional advice.
+      </p>
+    </div>
+  </footer>
+
+  <script src="{{ '/assets/js/toc.js' | relative_url }}" defer></script>
+</body>
+</html>

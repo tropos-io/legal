@@ -1,0 +1,411 @@
+---
+---
+
+// legal.tropos.io — bespoke stylesheet (no theme).
+// Palette (Tropos styleguide): Forest green #11302D, Soothing blue #7196FE,
+// Easy gray #F0F0F0, Snowflake white #FFFFFF, Black #000000.
+// Link blue #3D5FD9 is a darkened derivative of Soothing blue: the literal
+// brand hex is ~2.8:1 contrast on white, below WCAG AA's 4.5:1 for text.
+
+$forest: #11302d;
+$link: #3d5fd9;
+$gray: #f0f0f0;
+$rule: #d9d9d9;
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.65;
+  color: #000;
+  background: #fff;
+}
+
+// ---------------------------------------------------------------- header
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.9rem 1.5rem;
+  border-bottom: 1px solid $rule;
+
+  .brand img {
+    display: block;
+    height: 26px;
+    width: auto;
+  }
+
+  nav a {
+    font-size: 13px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: $forest;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+// ---------------------------------------------------------------- page grid
+.page {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  padding: 2.5rem 1.5rem 4rem;
+}
+
+.doc-content {
+  min-width: 0;
+  max-width: 46rem;
+  flex: 0 1 46rem;
+}
+
+// ---------------------------------------------------------------- typography
+.doc-content {
+  h1 {
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    line-height: 1.25;
+    text-transform: uppercase;
+    color: $forest;
+    border-bottom: 2px solid $forest;
+    padding-bottom: 0.35em;
+    margin: 2em 0 0.75em;
+  }
+
+  h1:first-child {
+    margin-top: 0;
+  }
+
+  h2 {
+    font-size: 17px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    line-height: 1.25;
+    color: $forest;
+    margin: 1.75em 0 0.5em;
+  }
+
+  h3,
+  h4 {
+    font-size: 16.5px;
+    font-weight: 700;
+    line-height: 1.25;
+    color: $forest;
+    margin: 1.5em 0 0.5em;
+  }
+
+  p {
+    margin: 0 0 1em;
+  }
+
+  a {
+    color: $link;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  ul,
+  ol {
+    padding-left: 1.4em;
+    margin: 0 0 1em;
+  }
+
+  li {
+    margin-bottom: 0.35em;
+  }
+
+  hr {
+    border: 0;
+    border-top: 1px solid $rule;
+    margin: 2.5em 0;
+  }
+
+  blockquote {
+    margin: 1.5em 0;
+    padding: 0.75em 1.25em;
+    border-left: 3px solid $forest;
+    background: $gray;
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  // kramdown callout classes carried over from the previous theme
+  .tip,
+  .highlight,
+  .note {
+    border-left: 3px solid $link;
+    background: #f2f5ff;
+  }
+
+  .important {
+    border-left: 3px solid $forest;
+    background: $gray;
+  }
+
+  code {
+    font-family: "SFMono-Regular", menlo, consolas, monospace;
+    font-size: 0.9em;
+    background: $gray;
+    padding: 0.1em 0.35em;
+    border-radius: 3px;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5em 0;
+    font-size: 15px;
+  }
+
+  th,
+  td {
+    border: 1px solid $rule;
+    padding: 0.6em 0.8em;
+    text-align: left;
+    vertical-align: top;
+  }
+
+  th {
+    background: $gray;
+    font-weight: 600;
+  }
+
+  img {
+    max-width: 100%;
+  }
+}
+
+// effective-date line (first emphasized line after the title)
+.doc-content > p > em:only-child {
+  font-size: 13.5px;
+  color: #555;
+}
+
+// ---------------------------------------------------------------- heading anchors
+.doc-content {
+  h1,
+  h2,
+  h3 {
+    position: relative;
+  }
+
+  .heading-anchor {
+    margin-left: 0.4em;
+    font-size: 0.85em;
+    font-weight: 400;
+    color: #b0b0b0;
+    text-decoration: none;
+    opacity: 0;
+    transition: opacity 0.1s;
+  }
+
+  h1:hover .heading-anchor,
+  h2:hover .heading-anchor,
+  h3:hover .heading-anchor,
+  .heading-anchor:focus {
+    opacity: 1;
+  }
+
+  .heading-anchor:hover {
+    color: $link;
+  }
+}
+
+// ---------------------------------------------------------------- table of contents
+.doc-toc {
+  flex: 0 0 15rem;
+
+  details {
+    position: sticky;
+    top: 1.5rem;
+    max-height: calc(100vh - 3rem);
+    overflow-y: auto;
+    font-size: 13px;
+    line-height: 1.45;
+  }
+
+  summary {
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    font-size: 11.5px;
+    color: #555;
+    cursor: pointer;
+    margin-bottom: 0.5rem;
+    list-style: none;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border-left: 1px solid $rule;
+  }
+
+  li a {
+    display: block;
+    padding: 0.2em 0 0.2em 0.9em;
+    color: #444;
+    text-decoration: none;
+    border-left: 2px solid transparent;
+    margin-left: -1px;
+
+    &:hover {
+      color: $link;
+    }
+
+    &.active {
+      color: $forest;
+      font-weight: 600;
+      border-left-color: $forest;
+    }
+  }
+
+  li.toc-h2 a {
+    padding-left: 1.9em;
+  }
+}
+
+.doc-toc[hidden] {
+  display: none;
+}
+
+// ---------------------------------------------------------------- superseded banner
+.superseded-banner {
+  background: #fff7e6;
+  border-bottom: 1px solid #e6ddc4;
+  padding: 0.7rem 1.5rem;
+  font-size: 14px;
+  text-align: center;
+
+  a {
+    color: $link;
+  }
+}
+
+// ---------------------------------------------------------------- footer
+.legal-footer {
+  border-top: 1px solid $rule;
+  padding: 1.5rem;
+  font-size: 13px;
+  line-height: 1.6;
+  color: #333;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem 3rem;
+  justify-content: center;
+
+  > div {
+    max-width: 22rem;
+  }
+
+  p {
+    margin: 0 0 0.5em;
+  }
+
+  .footer-legal {
+    color: #555;
+  }
+}
+
+// ---------------------------------------------------------------- narrow viewports
+@media (max-width: 1080px) {
+  .page {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .doc-toc {
+    flex: none;
+    width: 100%;
+    max-width: 46rem;
+
+    details {
+      position: static;
+      max-height: none;
+      border: 1px solid $rule;
+      border-radius: 4px;
+      padding: 0.6rem 0.9rem;
+      margin-bottom: 0.5rem;
+    }
+
+    summary {
+      margin-bottom: 0;
+    }
+
+    details[open] summary {
+      margin-bottom: 0.5rem;
+    }
+  }
+
+  .doc-content {
+    flex: none;
+    width: 100%;
+  }
+}
+
+// ---------------------------------------------------------------- print
+@media print {
+  .site-header,
+  .doc-toc,
+  .legal-footer,
+  .superseded-banner,
+  .heading-anchor {
+    display: none !important;
+  }
+
+  body {
+    font-size: 11pt;
+    color: #000;
+  }
+
+  .page {
+    display: block;
+    padding: 0;
+  }
+
+  .doc-content {
+    max-width: none;
+
+    h1 {
+      break-before: page;
+      border-bottom-color: #000;
+    }
+
+    h1:first-child,
+    h1:first-of-type {
+      break-before: avoid;
+    }
+
+    a {
+      color: #000;
+      text-decoration: none;
+    }
+
+    table {
+      break-inside: avoid;
+    }
+  }
+}
