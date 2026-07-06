@@ -32,6 +32,6 @@ Tropos maintains alignment with the General Data Protection Regulation, the EU S
 
 Requests concerning these documents, including requests for additional terms or assurances, shall be directed as follows.
 
-- **Legal**: [legal@tropos.io](mailto:legal@tropos.io)
-- **Data protection**: privacy@tropos.io
-- **Security disclosures**: [security@tropos.io](mailto:security@tropos.io). A PGP key is available on request.  
+- **Legal**: <span class="obf-mail" data-u="legal" data-d="tropos.io">legal [at] tropos [dot] io</span>
+- **Data protection**: <span class="obf-mail" data-u="privacy" data-d="tropos.io">privacy [at] tropos [dot] io</span>
+- **Security disclosures**: <span class="obf-mail" data-u="security" data-d="tropos.io">security [at] tropos [dot] io</span>. A PGP key is available on request.

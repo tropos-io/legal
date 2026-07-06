@@ -1,3 +1,17 @@
+// Email de-obfuscation: the served HTML carries no plain address — spans
+// hold the parts in data attributes ("legal [at] tropos [dot] io" as the
+// no-JS fallback text); this assembles the real mailto link at runtime.
+(function () {
+  var spans = document.querySelectorAll('.obf-mail[data-u][data-d]');
+  Array.prototype.forEach.call(spans, function (el) {
+    var addr = el.getAttribute('data-u') + '@' + el.getAttribute('data-d');
+    var a = document.createElement('a');
+    a.href = 'mailto:' + addr;
+    a.textContent = addr;
+    el.parentNode.replaceChild(a, el);
+  });
+})();
+
 // Clause navigation for legal documents:
 // - builds the "On this page" list from h1/h2 headings (skipping .no_toc)
 // - highlights the clause currently in view
