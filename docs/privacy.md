@@ -34,11 +34,6 @@ nav_order: 20
 > Scroll down to see the details.
 {: .tip }
 
----
-title: Privacy Policy
-permalink: /privacy/
----
-
 # 1. Introduction
 
 
